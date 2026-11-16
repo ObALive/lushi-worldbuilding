@@ -1,0 +1,9 @@
+* text=auto
+*.md text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.py text eol=lf
+*.sql text eol=lf
+*.zip binary
+*.sqlite binary
+assets/** -text
