@@ -3595,29 +3595,36 @@
         "page_id": "page_b8a71927c26481918f36afed2daffa72",
         "title": "编务与来源导读"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T12:00:26.347297Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-17T08:08:32.290240Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
           "id": "86fce20c-aef3-4b1b-a903-6a4fabda8b1e",
           "kind": "markdown",
-          "markdown": "> **最新同步（2026-11-15）**：资料性、情报性内容归 wiki；剧情与设定的创作方向归内部创作工作台；游戏内容及从设定延伸的游戏设计方案统一存入工作台的独立游戏词条。不采用、已过时、被否定的内容应从各维护位置删除，只有作者正式声明允许留档作参考时才可保存。",
-          "hash": "8a1a90a8dd1fb1f6ebd0802478f82b3d0e6fda3f3fd038be1cef2ad358b926c3",
+          "markdown": "现行 Wiki 编辑规范统一见 [Rules](https://chatgpt.com/space/page_5292df09dbc081918ed68619e8874d18) 第九章，逐项审阅与原生页面编辑见第十章，任务记录、版本同步及排除范围见第十一章。",
+          "hash": "e03b8b1c7df6765829dbe19eb3d41f3e47ccf477a3bdc7df2362b88b0b18e9ac",
           "metadata": {}
         },
         {
           "id": "379598ce-cfaf-4ace-9245-6c4c0873d1ed",
           "kind": "markdown",
-          "markdown": "> **编写规范依据（2026-10-16）**：根据作者手工修订提交 `faf89e0` 及后续确认维护编写要求。不得按旧模板恢复作者已删除的栏目、页面或旧措辞。归纳依据与适用边界见 7.6。",
-          "hash": "cda275db9be1831950e49d178d18fb26c7f017cadb548917286c63a2d71d1d55",
+          "markdown": "本页保留迁入的编务来源材料，供核对作者既有要求与裁定依据；以下原文中的本地目录、任务书、任务报告和旧站点流程不作为当前 Space 的执行要求。",
+          "hash": "4ebc2144f4848b6df7e8deb08364d338773bc83db29a26367b7e72a9b7ade6e7",
           "metadata": {}
         },
         {
           "id": "6ac64da7-f9e4-4c64-82c2-05d98ea099d5",
           "kind": "markdown",
-          "markdown": "> **本文件的性质**：面向智能体编辑者的**长期维护规则与自查清单**，优先于一切由智能体自行拟定的规范文本（含 `wiki/_templates/使用说明.md` 的旧「规范要点」）。两者冲突时以本文件与作者答复为准。\n> **来源**：`Mywiki/Task/001-编写规范检查.md`（任务书）；`001-编写规范检查` 决策库 12 项裁定（2026-10-01）；**作者 2026-10 就条目耦合、符号化表达、条目丰实度、以及编辑方式（禁止脚本改稿）四项新问题的指示**（见 7.0–7.3）。\n> **适用对象**：一切对 `wiki/` 的新增与修改。注意：`wiki/` 是**唯一真相源**，`Quartz/content/` 是 `migrate-wiki.ps1` 生成的快照（禁止手改，见 `meta/Quartz站点维护说明.md`）。\n> **用法**：动手前先读 **7.0（编辑方式，最高优先）**；写新内容前读第一至七节（**第七节是写法核心**）；交付前对照[第八节自查清单](https://chatgpt.com/space/page_ab0e26bc6d908191a4ac386488c97990)（章节：八自查清单交付前逐项对照）。",
-          "hash": "370fa411970bab3856cdbdcd4c1f8e5604c784b702e2b9602398bfec8819e02f",
+          "markdown": "# 迁入规范来源",
+          "hash": "003b4325924937a309f5835801c4144c97aac861efd8819efc2da6906d5b13ee",
+          "metadata": {}
+        },
+        {
+          "id": "e12d106c-74b2-4f36-9eaa-774c2a6c0c54",
+          "kind": "markdown",
+          "markdown": "以下为已有编务材料。当前规则的解释与适用以 [Rules](https://chatgpt.com/space/page_5292df09dbc081918ed68619e8874d18) 为准。",
+          "hash": "6825794bdcd685e3237c80e30e8b99871c957fabb4fb8606fdcea8a9b526aaa7",
           "metadata": {}
         },
         {
