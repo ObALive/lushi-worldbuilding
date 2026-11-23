@@ -5,14 +5,14 @@
   "pages": [
     {
       "page_id": "page_506ceb47a36081919831b478640e9b94",
-      "title": "陆拾肆企划 Wiki",
+      "title": "世界观wiki",
       "url": "https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94",
       "parent": {
         "page_id": "page_6afacc6661848191b2106f190c818f64",
         "title": "My Project"
       },
-      "current_sequence": 4,
-      "updated_at": "2026-11-16T14:28:26.779069Z",
+      "current_sequence": 7,
+      "updated_at": "2026-11-23T07:34:49.227326Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
@@ -95,8 +95,8 @@
         {
           "id": "d92d7be0-9557-4222-affb-04dc0577d557",
           "kind": "markdown",
-          "markdown": "法术革命之后，科技与法术共同构成日常。神魔以信仰与恐惧为食，港口城市在战后扩张，而一次宣称成功的登月，至今留下争议。“陆拾肆”收录这个架空世界的设定、人物与故事。",
-          "hash": "e8224d5efc558adbfe008e56e0245ab1a26f6f545333c2c22029c517ba0de209",
+          "markdown": "在一些地方，学校已经把有关法术的古籍编入教材；在另一些地方，人们仍只能从传闻中想象法术。神魔以信仰与恐惧为食，柏格宁港在战后兴建，而一次宣称成功的登月至今留下争议。",
+          "hash": "9c4d61e131f03ac40d20b3d166300e9707ca969a5891531f98b4b2f00bc2f93c",
           "metadata": {}
         },
         {
@@ -130,8 +130,8 @@
         {
           "id": "5940830b-565c-4ca7-8cf5-bab64511d2b1",
           "kind": "markdown",
-          "markdown": "**49** 设定与素材条目",
-          "hash": "de9c03b1b0cb27dc29a12dda8da7513baaca7fdfe781c393f857c07cefabd84b",
+          "markdown": "**50** 设定与素材条目",
+          "hash": "46f6b67f106f4170694952a51c07d07df3f0450b5f273af16f87095c7b66d47d",
           "metadata": {}
         },
         {
@@ -536,8 +536,8 @@
         {
           "id": "3e22bbb3-d514-4747-a598-09afed6bddcc",
           "kind": "markdown",
-          "markdown": "[05 **历史事件** 4 条目](https://chatgpt.com/space/page_0e22a04a5f448191b9639c923be07845)",
-          "hash": "37c1b499c184d4f7ad42e0fe54c2d2c996410ab8d2a7225699b808cb410d419e",
+          "markdown": "[05 **历史事件** 5 条目](https://chatgpt.com/space/page_0e22a04a5f448191b9639c923be07845)",
+          "hash": "374c7b7e698c72e59e22940d9badce50f0162e817360a27fa8aba39168028d08",
           "metadata": {}
         },
         {
@@ -1178,10 +1178,10 @@
       "url": "https://chatgpt.com/space/page_d2af0c84762c8191b8f29b738133385e",
       "parent": {
         "page_id": "page_506ceb47a36081919831b478640e9b94",
-        "title": "陆拾肆企划 Wiki"
+        "title": "世界观wiki"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T12:01:43.851700Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:35:58.354861Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
@@ -1201,8 +1201,8 @@
         {
           "id": "22195496-ab2a-4ead-900d-fa651bde4ed9",
           "kind": "markdown",
-          "markdown": "| 标签 | 条目 |\n| --- | --- |\n| 下界 | [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) |\n| 世界史 | [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7)、[法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1)、[不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a)、[法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)、[源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) |\n| 世界结构 | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0)、[神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) |\n| 分类 | [00 导览与索引](https://chatgpt.com/space/page_0f2f0ea9f3d08191bef2e33db954366b)、[01 基础设定](https://chatgpt.com/space/page_f9d7f3e9d4f481918745947ee6665a79)、[02 地理地区](https://chatgpt.com/space/page_632c7f33de888191804aa40a92c7e7bd)、[03 组织势力](https://chatgpt.com/space/page_8d08ca157c7c81918f931ee7222d6832)、[04 人物角色](https://chatgpt.com/space/page_cd4b58931fac81918d4ac81ec06475f2)、[05 历史事件](https://chatgpt.com/space/page_0e22a04a5f448191b9639c923be07845)、[06 能力与超常](https://chatgpt.com/space/page_3bbb2f5b11808191bcc6a18ef8723ea9)、[07 物品与装备](https://chatgpt.com/space/page_78b3fd76b6fc81919f6c3205a7652731)、[08 物种与种族](https://chatgpt.com/space/page_d3a4e2490ccc819188294ab67a967e25)、[09 作品与写作素材](https://chatgpt.com/space/page_1bbad76b02b48191b0e616b51b34f3bb) |\n| 卡兹米娅线 | [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) |\n| 叙事女主 | [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) |\n| 地理 | [罗瓦伊](https://chatgpt.com/space/page_b3e24d3aac388191a3a8f411fee67e96) |\n| 宗教神话 | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) |\n| 异常协会 | [险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085)、[异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73)、[充满噪点的图片](https://chatgpt.com/space/page_b897638540948191b0bfd1b3a4264040)、[调查记录](https://chatgpt.com/space/page_1a7601c46770819199c1c75b76e893f9) |\n| 待归类 | [偃师工造](https://chatgpt.com/space/page_7f8755c2077481918ad5a6e230eac64d)、[叛教者](https://chatgpt.com/space/page_26e1a5274b888191a72f3e9fe03b6fed)、[赫拉尔伯敏](https://chatgpt.com/space/page_403e7b6c0aa88191adc7109b8a92130e)、[Falcon-1780-DM](https://chatgpt.com/space/page_1bb71c32fe8c819193ce6e00c5899c82)、[美工刀](https://chatgpt.com/space/page_074ce15941508191bf861af23fc8bc71) |\n| 教会支线 | [叛教者](https://chatgpt.com/space/page_26e1a5274b888191a72f3e9fe03b6fed)、[利亚教会支线](https://chatgpt.com/space/page_590bf9ba31848191b4324f8a38873893) |\n| 柏格宁线 | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518)、[世界警署](https://chatgpt.com/space/page_66300a48aa8c819187e40695316f20cf)、[盖维小队](https://chatgpt.com/space/page_5d7040be9dc081918605eb89758bb294)、[赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04)、[主角](https://chatgpt.com/space/page_7a0865957afc81918222bac44d37109e)、[何守](https://chatgpt.com/space/page_b559ebb270cc8191bb2e0e00f5b3956a)、[柏格宁城建负责人](https://chatgpt.com/space/page_da1976547da48191874181adcfb27bc3)、[柏格宁房东](https://chatgpt.com/space/page_e2a175b29f8c8191a518dcd8d650ff78)、[菈比](https://chatgpt.com/space/page_6410f7a5c0248191b19a52e8254c5c09)、[西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c)、[观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496)、[魔与法](https://chatgpt.com/space/page_c2facc9dae38819184880eba87d308ec)、[隐约的记忆](https://chatgpt.com/space/page_1d56982c2e208191ac851dc29aa88bb4) |\n| 档案 | [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) |\n| 毒魔线 | [毒魔教团](https://chatgpt.com/space/page_982296806ee8819181b25b1b078e8a1b)、[以西结](https://chatgpt.com/space/page_596191dd10748191adaf40e201eb00d4)、[梅蒂欣](https://chatgpt.com/space/page_20c8bd2b8d2881918ab83688b5c317ab) |\n| 泽萍 | [艾米丽](https://chatgpt.com/space/page_0086c9b554248191a61d7b62eecddd73) |\n| 源灵线 | [源灵学苑](https://chatgpt.com/space/page_80566257b7f8819188ad01ac20948938)、[余散](https://chatgpt.com/space/page_5e37d7d4cd2c8191a314323bd7aa2a7d)、[卫樽](https://chatgpt.com/space/page_6e785e2662208191b0b0e7b09a981f72)、[菈比](https://chatgpt.com/space/page_6410f7a5c0248191b19a52e8254c5c09)、[魏淳](https://chatgpt.com/space/page_e2e4eb936a1081919b17e3f225f0a954)、[源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) |\n| 物种 | [种族与物种总述](https://chatgpt.com/space/page_d384a6ecca9c81918acda033a5354188) |\n| 界域系 | [以西结](https://chatgpt.com/space/page_596191dd10748191adaf40e201eb00d4)、[拜尔丹·卡兹米娅](https://chatgpt.com/space/page_88a9877b01d4819199705067e9a7ae61) |\n| 白萨尼斯线 | [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d)、[小秋](https://chatgpt.com/space/page_712f48adb57881918e70bf7bacdd508d)、[瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) |\n| 盖维小队 | [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) |\n| 社会生态 | [行脚商](https://chatgpt.com/space/page_deab315236a08191b554e4bb9fb4d700)、[法术学导论](https://chatgpt.com/space/page_404f609224e081919f7d15a6bf85f34c) |\n| 神系 | [余散](https://chatgpt.com/space/page_5e37d7d4cd2c8191a314323bd7aa2a7d) |\n| 禁域调查线 | [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) |\n| 艾米丽线 | [艾米丽](https://chatgpt.com/space/page_0086c9b554248191a61d7b62eecddd73) |\n| 语言规则 | [魔与法](https://chatgpt.com/space/page_c2facc9dae38819184880eba87d308ec) |\n| 陆拾肆-64 | [主角](https://chatgpt.com/space/page_7a0865957afc81918222bac44d37109e)、[西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c)、[观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) |",
-          "hash": "8d2c66a28da35ed072243011b095dc3d490935cc8586812455a38854ad0ba20c",
+          "markdown": "| 标签 | 条目 |\n| --- | --- |\n| 下界 | [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) |\n| 世界史 | [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7)、[法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1)、[不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a)、[法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)、[第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)、[源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) |\n| 世界结构 | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0)、[神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) |\n| 分类 | [00 导览与索引](https://chatgpt.com/space/page_0f2f0ea9f3d08191bef2e33db954366b)、[01 基础设定](https://chatgpt.com/space/page_f9d7f3e9d4f481918745947ee6665a79)、[02 地理地区](https://chatgpt.com/space/page_632c7f33de888191804aa40a92c7e7bd)、[03 组织势力](https://chatgpt.com/space/page_8d08ca157c7c81918f931ee7222d6832)、[04 人物角色](https://chatgpt.com/space/page_cd4b58931fac81918d4ac81ec06475f2)、[05 历史事件](https://chatgpt.com/space/page_0e22a04a5f448191b9639c923be07845)、[06 能力与超常](https://chatgpt.com/space/page_3bbb2f5b11808191bcc6a18ef8723ea9)、[07 物品与装备](https://chatgpt.com/space/page_78b3fd76b6fc81919f6c3205a7652731)、[08 物种与种族](https://chatgpt.com/space/page_d3a4e2490ccc819188294ab67a967e25)、[09 作品与写作素材](https://chatgpt.com/space/page_1bbad76b02b48191b0e616b51b34f3bb) |\n| 卡兹米娅线 | [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) |\n| 叙事女主 | [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) |\n| 地理 | [罗瓦伊](https://chatgpt.com/space/page_b3e24d3aac388191a3a8f411fee67e96) |\n| 宗教神话 | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) |\n| 异常协会 | [险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085)、[异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73)、[充满噪点的图片](https://chatgpt.com/space/page_b897638540948191b0bfd1b3a4264040)、[调查记录](https://chatgpt.com/space/page_1a7601c46770819199c1c75b76e893f9) |\n| 待归类 | [偃师工造](https://chatgpt.com/space/page_7f8755c2077481918ad5a6e230eac64d)、[叛教者](https://chatgpt.com/space/page_26e1a5274b888191a72f3e9fe03b6fed)、[赫拉尔伯敏](https://chatgpt.com/space/page_403e7b6c0aa88191adc7109b8a92130e)、[Falcon-1780-DM](https://chatgpt.com/space/page_1bb71c32fe8c819193ce6e00c5899c82)、[美工刀](https://chatgpt.com/space/page_074ce15941508191bf861af23fc8bc71) |\n| 教会支线 | [叛教者](https://chatgpt.com/space/page_26e1a5274b888191a72f3e9fe03b6fed)、[利亚教会支线](https://chatgpt.com/space/page_590bf9ba31848191b4324f8a38873893) |\n| 柏格宁线 | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518)、[世界警署](https://chatgpt.com/space/page_66300a48aa8c819187e40695316f20cf)、[盖维小队](https://chatgpt.com/space/page_5d7040be9dc081918605eb89758bb294)、[赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04)、[主角](https://chatgpt.com/space/page_7a0865957afc81918222bac44d37109e)、[何守](https://chatgpt.com/space/page_b559ebb270cc8191bb2e0e00f5b3956a)、[柏格宁城建负责人](https://chatgpt.com/space/page_da1976547da48191874181adcfb27bc3)、[柏格宁房东](https://chatgpt.com/space/page_e2a175b29f8c8191a518dcd8d650ff78)、[菈比](https://chatgpt.com/space/page_6410f7a5c0248191b19a52e8254c5c09)、[西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c)、[观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496)、[魔与法](https://chatgpt.com/space/page_c2facc9dae38819184880eba87d308ec)、[隐约的记忆](https://chatgpt.com/space/page_1d56982c2e208191ac851dc29aa88bb4) |\n| 档案 | [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) |\n| 毒魔线 | [毒魔教团](https://chatgpt.com/space/page_982296806ee8819181b25b1b078e8a1b)、[以西结](https://chatgpt.com/space/page_596191dd10748191adaf40e201eb00d4)、[梅蒂欣](https://chatgpt.com/space/page_20c8bd2b8d2881918ab83688b5c317ab) |\n| 泽萍 | [艾米丽](https://chatgpt.com/space/page_0086c9b554248191a61d7b62eecddd73) |\n| 源灵线 | [源灵学苑](https://chatgpt.com/space/page_80566257b7f8819188ad01ac20948938)、[余散](https://chatgpt.com/space/page_5e37d7d4cd2c8191a314323bd7aa2a7d)、[卫樽](https://chatgpt.com/space/page_6e785e2662208191b0b0e7b09a981f72)、[菈比](https://chatgpt.com/space/page_6410f7a5c0248191b19a52e8254c5c09)、[魏淳](https://chatgpt.com/space/page_e2e4eb936a1081919b17e3f225f0a954)、[源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) |\n| 物种 | [种族与物种总述](https://chatgpt.com/space/page_d384a6ecca9c81918acda033a5354188) |\n| 界域系 | [以西结](https://chatgpt.com/space/page_596191dd10748191adaf40e201eb00d4)、[拜尔丹·卡兹米娅](https://chatgpt.com/space/page_88a9877b01d4819199705067e9a7ae61) |\n| 白萨尼斯线 | [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d)、[小秋](https://chatgpt.com/space/page_712f48adb57881918e70bf7bacdd508d)、[瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) |\n| 盖维小队 | [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) |\n| 社会生态 | [行脚商](https://chatgpt.com/space/page_deab315236a08191b554e4bb9fb4d700)、[法术学导论](https://chatgpt.com/space/page_404f609224e081919f7d15a6bf85f34c) |\n| 神系 | [余散](https://chatgpt.com/space/page_5e37d7d4cd2c8191a314323bd7aa2a7d) |\n| 禁域调查线 | [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) |\n| 艾米丽线 | [艾米丽](https://chatgpt.com/space/page_0086c9b554248191a61d7b62eecddd73) |\n| 语言规则 | [魔与法](https://chatgpt.com/space/page_c2facc9dae38819184880eba87d308ec) |\n| 陆拾肆-64 | [主角](https://chatgpt.com/space/page_7a0865957afc81918222bac44d37109e)、[西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c)、[观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) |",
+          "hash": "4b527129433186c4ec79c47672cb6368ca245232021863ec433d573b79af69d7",
           "metadata": {}
         },
         {
@@ -1215,8 +1215,8 @@
         {
           "id": "98213f84-9c25-472e-a177-db48fccce6f6",
           "kind": "markdown",
-          "markdown": "| 别名 | 规范条目 |\n| --- | --- |\n| 1898 年源灵学院变故 | [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) |\n| 1979 年灭族 | [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) |\n| Ezequiel | [以西结](https://chatgpt.com/space/page_596191dd10748191adaf40e201eb00d4) |\n| Falcon狙击步枪 1780-DM款 | [Falcon-1780-DM](https://chatgpt.com/space/page_1bb71c32fe8c819193ce6e00c5899c82) |\n| Falcon（隼）狙击步枪 | [Falcon-1780-DM](https://chatgpt.com/space/page_1bb71c32fe8c819193ce6e00c5899c82) |\n| Phantom-幽灵协议 | [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) |\n| Sigrún | [西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c) |\n| ZZ0381 | [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) |\n| od | [菈比](https://chatgpt.com/space/page_6410f7a5c0248191b19a52e8254c5c09) |\n| 三战 | [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) |\n| 下界 | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) |\n| 世界大事年表 | [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) |\n| 主界 | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) |\n| 利亚支线 | [利亚教会支线](https://chatgpt.com/space/page_590bf9ba31848191b4324f8a38873893) |\n| 卡兹米娅 | [拜尔丹·卡兹米娅](https://chatgpt.com/space/page_88a9877b01d4819199705067e9a7ae61) |\n| 卡兹米娅家族内乱 | [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) |\n| 报童 | [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) |\n| 拜格宁 | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) |\n| 明夷 | [西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c) |\n| 晶雾少女 | [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) |\n| 未眠少女 | [菈比](https://chatgpt.com/space/page_6410f7a5c0248191b19a52e8254c5c09) |\n| 毒魔 | [梅蒂欣](https://chatgpt.com/space/page_20c8bd2b8d2881918ab83688b5c317ab) |\n| 法术 | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) |\n| 法术学 | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) |\n| 法术革命战争 | [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) |\n| 深黑祷者 | [拜尔丹·卡兹米娅](https://chatgpt.com/space/page_88a9877b01d4819199705067e9a7ae61) |\n| 湖神大人 | [西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c) |\n| 滴泪妹 | [菈比](https://chatgpt.com/space/page_6410f7a5c0248191b19a52e8254c5c09) |\n| 澜星 | [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) |\n| 瀚海阑干百丈冰 | [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) |\n| 界域体系 | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) |\n| 神 | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) |\n| 神之遗躯 | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) |\n| 神界 | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) |\n| 秦若孚 | [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) |\n| 第三次世界大战 | [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) |\n| 纪年体系 | [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) |\n| 罗瓦伊大洲 | [罗瓦伊](https://chatgpt.com/space/page_b3e24d3aac388191a3a8f411fee67e96) |\n| 罗瓦伊洲 | [罗瓦伊](https://chatgpt.com/space/page_b3e24d3aac388191a3a8f411fee67e96) |\n| 翠隼 | [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) |\n| 苍翠隼影 | [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) |\n| 草原 | [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) |\n| 行商小队 | [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04) |\n| 行脚商小队 | [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04) |\n| 险域/禁域 | [险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085) |\n| 险域分级 | [险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085) |\n| 雨空和伞 | [余散](https://chatgpt.com/space/page_5e37d7d4cd2c8191a314323bd7aa2a7d) |\n| 魔 | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) |",
-          "hash": "d5d73f02d69f72fe2183f08896c25de3b4a4388f3c7bd25758d4a369c3e93a4c",
+          "markdown": "| 别名 | 规范条目 |\n| --- | --- |\n| 1898 年源灵学院变故 | [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) |\n| 1979 年灭族 | [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) |\n| Ezequiel | [以西结](https://chatgpt.com/space/page_596191dd10748191adaf40e201eb00d4) |\n| Falcon狙击步枪 1780-DM款 | [Falcon-1780-DM](https://chatgpt.com/space/page_1bb71c32fe8c819193ce6e00c5899c82) |\n| Falcon（隼）狙击步枪 | [Falcon-1780-DM](https://chatgpt.com/space/page_1bb71c32fe8c819193ce6e00c5899c82) |\n| Phantom-幽灵协议 | [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) |\n| Sigrún | [西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c) |\n| ZZ0381 | [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) |\n| od | [菈比](https://chatgpt.com/space/page_6410f7a5c0248191b19a52e8254c5c09) |\n| 三战 | [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) |\n| 下界 | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) |\n| 世界大事年表 | [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) |\n| 主界 | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) |\n| 利亚支线 | [利亚教会支线](https://chatgpt.com/space/page_590bf9ba31848191b4324f8a38873893) |\n| 卡兹米娅 | [拜尔丹·卡兹米娅](https://chatgpt.com/space/page_88a9877b01d4819199705067e9a7ae61) |\n| 卡兹米娅家族内乱 | [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) |\n| 报童 | [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) |\n| 拜格宁 | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) |\n| 明夷 | [西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c) |\n| 晶雾少女 | [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) |\n| 未眠少女 | [菈比](https://chatgpt.com/space/page_6410f7a5c0248191b19a52e8254c5c09) |\n| 毒魔 | [梅蒂欣](https://chatgpt.com/space/page_20c8bd2b8d2881918ab83688b5c317ab) |\n| 法术 | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) |\n| 法术学 | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) |\n| 深黑祷者 | [拜尔丹·卡兹米娅](https://chatgpt.com/space/page_88a9877b01d4819199705067e9a7ae61) |\n| 湖神大人 | [西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c) |\n| 滴泪妹 | [菈比](https://chatgpt.com/space/page_6410f7a5c0248191b19a52e8254c5c09) |\n| 澜星 | [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) |\n| 瀚海阑干百丈冰 | [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) |\n| 界域体系 | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) |\n| 神 | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) |\n| 神之遗躯 | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) |\n| 神界 | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) |\n| 秦若孚 | [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) |\n| 纪年体系 | [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) |\n| 罗瓦伊大洲 | [罗瓦伊](https://chatgpt.com/space/page_b3e24d3aac388191a3a8f411fee67e96) |\n| 罗瓦伊洲 | [罗瓦伊](https://chatgpt.com/space/page_b3e24d3aac388191a3a8f411fee67e96) |\n| 翠隼 | [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) |\n| 苍翠隼影 | [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) |\n| 草原 | [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) |\n| 行商小队 | [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04) |\n| 行脚商小队 | [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04) |\n| 险域/禁域 | [险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085) |\n| 险域分级 | [险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085) |\n| 雨空和伞 | [余散](https://chatgpt.com/space/page_5e37d7d4cd2c8191a314323bd7aa2a7d) |\n| 魔 | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) |",
+          "hash": "91d0c442b2ce525d95a43ce2c362144af1a86c1e3c75d3b779244d033bb7514c",
           "metadata": {}
         }
       ]
@@ -1227,10 +1227,10 @@
       "url": "https://chatgpt.com/space/page_1e1071d10b9c8191a177e707d6a05b71",
       "parent": {
         "page_id": "page_506ceb47a36081919831b478640e9b94",
-        "title": "陆拾肆企划 Wiki"
+        "title": "世界观wiki"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T12:01:37.656243Z",
+      "current_sequence": 3,
+      "updated_at": "2026-11-23T07:37:10.666135Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
@@ -1243,8 +1243,8 @@
         {
           "id": "7f339e79-3a84-47f1-9bd1-a4ddfe877654",
           "kind": "markdown",
-          "markdown": "共 243 组有向页面引用，来自 315 处链接。修改或新增条目关系时，同步维护正文链接、本索引及目标页的反向引用。",
-          "hash": "f1ec93a5ebf18ff35fa8a15bc53a019c9f311a325695c85b51a81016198bdb8d",
+          "markdown": "本索引收录 259 组有向页面引用。同一来源页对同一目标页的多处链接合为一组。",
+          "hash": "7ea9a516a541f79b895e10c20a0cdaa5bd0ab31c2b89c6be34aef6be6480e30b",
           "metadata": {}
         },
         {
@@ -1257,8 +1257,8 @@
         {
           "id": "9f66182e-e30c-45d8-b829-5473356b8c81",
           "kind": "markdown",
-          "markdown": "| 引用页 | 被引用页 | 原链接文字或章节 |\n| --- | --- | --- |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | 总索引 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) | 主界与下界 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | 时代与纪年 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | 法术；法术体系 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) | 神魔 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 柏格宁 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | 观 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) | 不可触之月 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 法术革命 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [素材池 目录说明](https://chatgpt.com/space/page_3fa38183fb748191a104934dc3543242) | 素材池 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [待决问题与冲突清单](https://chatgpt.com/space/page_52e030c8c4308191aba3f0ee31ed233d) | 待决问题与冲突清单 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [文档维护规则](https://chatgpt.com/space/page_ab0e26bc6d908191a4ac386488c97990) | 文档维护规则 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [术语规范与别名对照](https://chatgpt.com/space/page_e051792c256c8191939b37ff4d84e838) | 术语规范与别名对照 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | 主页 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) | 世界与界域 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | 时代与纪年 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | 法术体系 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) | 神魔体系 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [行脚商](https://chatgpt.com/space/page_deab315236a08191b554e4bb9fb4d700) | 行脚商 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085) | 险域与禁域 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) | ZZ0381草原禁域 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 柏格宁 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | 白萨尼斯 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [罗瓦伊](https://chatgpt.com/space/page_b3e24d3aac388191a3a8f411fee67e96) | 罗瓦伊 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [世界警署](https://chatgpt.com/space/page_66300a48aa8c819187e40695316f20cf) | 世界警署 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [偃师工造](https://chatgpt.com/space/page_7f8755c2077481918ad5a6e230eac64d) | 偃师工造 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73) | 异常协会 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [毒魔教团](https://chatgpt.com/space/page_982296806ee8819181b25b1b078e8a1b) | 毒魔教团 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [源灵学苑](https://chatgpt.com/space/page_80566257b7f8819188ad01ac20948938) | 源灵学苑 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [盖维小队](https://chatgpt.com/space/page_5d7040be9dc081918605eb89758bb294) | 盖维小队 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04) | 赫拉小队 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [主角](https://chatgpt.com/space/page_7a0865957afc81918222bac44d37109e) | 主角 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [以西结](https://chatgpt.com/space/page_596191dd10748191adaf40e201eb00d4) | 以西结 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [何守](https://chatgpt.com/space/page_b559ebb270cc8191bb2e0e00f5b3956a) | 何守 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [余散](https://chatgpt.com/space/page_5e37d7d4cd2c8191a314323bd7aa2a7d) | 余散 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [卫樽](https://chatgpt.com/space/page_6e785e2662208191b0b0e7b09a981f72) | 卫樽 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [叛教者](https://chatgpt.com/space/page_26e1a5274b888191a72f3e9fe03b6fed) | 叛教者 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [小秋](https://chatgpt.com/space/page_712f48adb57881918e70bf7bacdd508d) | 小秋 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [拜尔丹·卡兹米娅](https://chatgpt.com/space/page_88a9877b01d4819199705067e9a7ae61) | 拜尔丹·卡兹米娅 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [柏格宁城建负责人](https://chatgpt.com/space/page_da1976547da48191874181adcfb27bc3) | 柏格宁城建负责人 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [柏格宁房东](https://chatgpt.com/space/page_e2a175b29f8c8191a518dcd8d650ff78) | 柏格宁房东 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [梅蒂欣](https://chatgpt.com/space/page_20c8bd2b8d2881918ab83688b5c317ab) | 梅蒂欣 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) | 瀚海阑干百丈星 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) | 缇尔莉斯 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [艾米丽](https://chatgpt.com/space/page_0086c9b554248191a61d7b62eecddd73) | 艾米丽 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [菈比](https://chatgpt.com/space/page_6410f7a5c0248191b19a52e8254c5c09) | 菈比 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c) | 西格露恩 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | 观 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [赫拉尔伯敏](https://chatgpt.com/space/page_403e7b6c0aa88191adc7109b8a92130e) | 赫拉尔伯敏 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [魏淳](https://chatgpt.com/space/page_e2e4eb936a1081919b17e3f225f0a954) | 魏淳 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) | 不可触之月 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) | 卡兹米娅家变 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 法术革命 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) | 源灵学院变故 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [法术学导论](https://chatgpt.com/space/page_404f609224e081919f7d15a6bf85f34c) | 法术学导论 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [魔与法](https://chatgpt.com/space/page_c2facc9dae38819184880eba87d308ec) | 魔与法 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [Falcon-1780-DM](https://chatgpt.com/space/page_1bb71c32fe8c819193ce6e00c5899c82) | Falcon-1780-DM |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [种族与物种总述](https://chatgpt.com/space/page_d384a6ecca9c81918acda033a5354188) | 种族与物种总述 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [充满噪点的图片](https://chatgpt.com/space/page_b897638540948191b0bfd1b3a4264040) | 充满噪点的图片 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [利亚教会支线](https://chatgpt.com/space/page_590bf9ba31848191b4324f8a38873893) | 利亚教会支线 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [美工刀](https://chatgpt.com/space/page_074ce15941508191bf861af23fc8bc71) | 美工刀 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [调查记录](https://chatgpt.com/space/page_1a7601c46770819199c1c75b76e893f9) | 调查记录 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [隐约的记忆](https://chatgpt.com/space/page_1d56982c2e208191ac851dc29aa88bb4) | 隐约的记忆 |",
-          "hash": "abf8038810bcbe811c3c4e5c7eddf06bcbf7e9577f910bc032e68f559948bff6",
+          "markdown": "| 引用页 | 被引用页 | 原链接文字或章节 |\n| --- | --- | --- |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | 总索引 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) | 主界与下界 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | 时代与纪年 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | 法术；法术体系 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) | 神魔 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 柏格宁 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | 观 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) | 不可触之月 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 法术革命 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [素材池 目录说明](https://chatgpt.com/space/page_3fa38183fb748191a104934dc3543242) | 素材池 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [待决问题与冲突清单](https://chatgpt.com/space/page_52e030c8c4308191aba3f0ee31ed233d) | 待决问题与冲突清单 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [文档维护规则](https://chatgpt.com/space/page_ab0e26bc6d908191a4ac386488c97990) | 文档维护规则 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [术语规范与别名对照](https://chatgpt.com/space/page_e051792c256c8191939b37ff4d84e838) | 术语规范与别名对照 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | 主页 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) | 世界与界域 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | 时代与纪年 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | 法术体系 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) | 神魔体系 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [行脚商](https://chatgpt.com/space/page_deab315236a08191b554e4bb9fb4d700) | 行脚商 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085) | 险域与禁域 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) | ZZ0381草原禁域 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 柏格宁 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | 白萨尼斯 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [罗瓦伊](https://chatgpt.com/space/page_b3e24d3aac388191a3a8f411fee67e96) | 罗瓦伊 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [世界警署](https://chatgpt.com/space/page_66300a48aa8c819187e40695316f20cf) | 世界警署 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [偃师工造](https://chatgpt.com/space/page_7f8755c2077481918ad5a6e230eac64d) | 偃师工造 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73) | 异常协会 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [毒魔教团](https://chatgpt.com/space/page_982296806ee8819181b25b1b078e8a1b) | 毒魔教团 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [源灵学苑](https://chatgpt.com/space/page_80566257b7f8819188ad01ac20948938) | 源灵学苑 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [盖维小队](https://chatgpt.com/space/page_5d7040be9dc081918605eb89758bb294) | 盖维小队 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04) | 赫拉小队 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [主角](https://chatgpt.com/space/page_7a0865957afc81918222bac44d37109e) | 主角 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [以西结](https://chatgpt.com/space/page_596191dd10748191adaf40e201eb00d4) | 以西结 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [何守](https://chatgpt.com/space/page_b559ebb270cc8191bb2e0e00f5b3956a) | 何守 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [余散](https://chatgpt.com/space/page_5e37d7d4cd2c8191a314323bd7aa2a7d) | 余散 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [卫樽](https://chatgpt.com/space/page_6e785e2662208191b0b0e7b09a981f72) | 卫樽 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [叛教者](https://chatgpt.com/space/page_26e1a5274b888191a72f3e9fe03b6fed) | 叛教者 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [小秋](https://chatgpt.com/space/page_712f48adb57881918e70bf7bacdd508d) | 小秋 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [拜尔丹·卡兹米娅](https://chatgpt.com/space/page_88a9877b01d4819199705067e9a7ae61) | 拜尔丹·卡兹米娅 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [柏格宁城建负责人](https://chatgpt.com/space/page_da1976547da48191874181adcfb27bc3) | 柏格宁城建负责人 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [柏格宁房东](https://chatgpt.com/space/page_e2a175b29f8c8191a518dcd8d650ff78) | 柏格宁房东 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [梅蒂欣](https://chatgpt.com/space/page_20c8bd2b8d2881918ab83688b5c317ab) | 梅蒂欣 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) | 瀚海阑干百丈星 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) | 缇尔莉斯 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [艾米丽](https://chatgpt.com/space/page_0086c9b554248191a61d7b62eecddd73) | 艾米丽 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [菈比](https://chatgpt.com/space/page_6410f7a5c0248191b19a52e8254c5c09) | 菈比 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c) | 西格露恩 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | 观 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [赫拉尔伯敏](https://chatgpt.com/space/page_403e7b6c0aa88191adc7109b8a92130e) | 赫拉尔伯敏 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [魏淳](https://chatgpt.com/space/page_e2e4eb936a1081919b17e3f225f0a954) | 魏淳 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) | 不可触之月 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) | 卡兹米娅家变 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 法术革命 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) | 源灵学院变故 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [法术学导论](https://chatgpt.com/space/page_404f609224e081919f7d15a6bf85f34c) | 法术学导论 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [魔与法](https://chatgpt.com/space/page_c2facc9dae38819184880eba87d308ec) | 魔与法 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [Falcon-1780-DM](https://chatgpt.com/space/page_1bb71c32fe8c819193ce6e00c5899c82) | Falcon-1780-DM |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [种族与物种总述](https://chatgpt.com/space/page_d384a6ecca9c81918acda033a5354188) | 种族与物种总述 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [充满噪点的图片](https://chatgpt.com/space/page_b897638540948191b0bfd1b3a4264040) | 充满噪点的图片 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [利亚教会支线](https://chatgpt.com/space/page_590bf9ba31848191b4324f8a38873893) | 利亚教会支线 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [美工刀](https://chatgpt.com/space/page_074ce15941508191bf861af23fc8bc71) | 美工刀 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [调查记录](https://chatgpt.com/space/page_1a7601c46770819199c1c75b76e893f9) | 调查记录 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [隐约的记忆](https://chatgpt.com/space/page_1d56982c2e208191ac851dc29aa88bb4) | 隐约的记忆 |\n| [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | 第三次世界大战 |\n| [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | 第三次世界大战 |",
+          "hash": "c96340cdc8234ab061ada8a2abdc2734ee8c3984bf396fb51197ac79ae86ef5d",
           "metadata": {}
         },
         {
@@ -1271,8 +1271,8 @@
         {
           "id": "b307c187-590d-4e1f-b26e-bba8e8ee33fd",
           "kind": "markdown",
-          "markdown": "| 引用页 | 被引用页 | 原链接文字或章节 |\n| --- | --- | --- |\n| [01 基础设定](https://chatgpt.com/space/page_f9d7f3e9d4f481918745947ee6665a79) | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) | 世界与界域 |\n| [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) | 神魔 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) | ZZ0381草原禁域 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 柏格宁 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | 白萨尼斯 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73) | 异常协会 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [柏格宁房东](https://chatgpt.com/space/page_e2a175b29f8c8191a518dcd8d650ff78) | 柏格宁房东 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) | 不可触之月 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) | 卡兹米娅家变 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 法术革命 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) | 源灵学院变故 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [法术学导论](https://chatgpt.com/space/page_404f609224e081919f7d15a6bf85f34c) | 法术学导论 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [美工刀](https://chatgpt.com/space/page_074ce15941508191bf861af23fc8bc71) | 美工刀 |\n| [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | 时代与纪年 |\n| [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) | 神魔 |\n| [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | [险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085) | 险域与禁域 |\n| [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | [异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73) | 异常协会 |\n| [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 法术革命 |\n| [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | [法术学导论](https://chatgpt.com/space/page_404f609224e081919f7d15a6bf85f34c) | 《法术学导论》；法术学导论 |\n| [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | [魔与法](https://chatgpt.com/space/page_c2facc9dae38819184880eba87d308ec) | 魔与法 |\n| [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | 法术 |\n| [行脚商](https://chatgpt.com/space/page_deab315236a08191b554e4bb9fb4d700) | [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04) | 赫拉小队 |\n| [险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085) | [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) | ZZ0381草原禁域 |",
-          "hash": "e6062284067357dd18b67a6a4e2421ee209b4e49de0a819c074e4ff1a408646a",
+          "markdown": "| 引用页 | 被引用页 | 原链接文字或章节 |\n| --- | --- | --- |\n| [01 基础设定](https://chatgpt.com/space/page_f9d7f3e9d4f481918745947ee6665a79) | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) | 世界与界域 |\n| [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) | 神魔 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) | ZZ0381草原禁域 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 柏格宁 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | 白萨尼斯 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73) | 异常协会 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [柏格宁房东](https://chatgpt.com/space/page_e2a175b29f8c8191a518dcd8d650ff78) | 柏格宁房东 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) | 不可触之月 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) | 卡兹米娅家变 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 法术革命 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) | 源灵学院变故 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [法术学导论](https://chatgpt.com/space/page_404f609224e081919f7d15a6bf85f34c) | 法术学导论 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [美工刀](https://chatgpt.com/space/page_074ce15941508191bf861af23fc8bc71) | 美工刀 |\n| [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | 时代与纪年 |\n| [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) | 神魔 |\n| [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | [险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085) | 险域与禁域 |\n| [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | [异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73) | 异常协会 |\n| [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 法术革命 |\n| [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | [法术学导论](https://chatgpt.com/space/page_404f609224e081919f7d15a6bf85f34c) | 《法术学导论》；法术学导论 |\n| [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | [魔与法](https://chatgpt.com/space/page_c2facc9dae38819184880eba87d308ec) | 魔与法 |\n| [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | 法术 |\n| [行脚商](https://chatgpt.com/space/page_deab315236a08191b554e4bb9fb4d700) | [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04) | 赫拉小队 |\n| [险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085) | [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) | ZZ0381草原禁域 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | 第三次世界大战 |\n| [行脚商](https://chatgpt.com/space/page_deab315236a08191b554e4bb9fb4d700) | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | 天生施法者 |",
+          "hash": "9bf35591514ffd1003def9b4de150470d6e6142759e86296e0a2abf534b574c0",
           "metadata": {}
         },
         {
@@ -1285,8 +1285,8 @@
         {
           "id": "f96d0f8c-b841-49a3-9705-17b53d9de750",
           "kind": "markdown",
-          "markdown": "| 引用页 | 被引用页 | 原链接文字或章节 |\n| --- | --- | --- |\n| [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) | [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | 时代与纪年 |\n| [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) | [险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085) | 险域与禁域 |\n| [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) | [异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73) | 异常协会 |\n| [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | [行脚商](https://chatgpt.com/space/page_deab315236a08191b554e4bb9fb4d700) | 行脚商 |\n| [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | [世界警署](https://chatgpt.com/space/page_66300a48aa8c819187e40695316f20cf) | 世界警署 |\n| [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | [柏格宁城建负责人](https://chatgpt.com/space/page_da1976547da48191874181adcfb27bc3) | 柏格宁城建负责人 |\n| [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | [小秋](https://chatgpt.com/space/page_712f48adb57881918e70bf7bacdd508d) | 小秋 |\n| [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) | 瀚海阑干百丈星 |\n| [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 法术革命 |\n| [罗瓦伊](https://chatgpt.com/space/page_b3e24d3aac388191a3a8f411fee67e96) | [源灵学苑](https://chatgpt.com/space/page_80566257b7f8819188ad01ac20948938) | 源灵学苑 |",
-          "hash": "fd7d172219ebf53d9c00c805ea993cdafbfd4ccd32380599af66c0f1e016b04e",
+          "markdown": "| 引用页 | 被引用页 | 原链接文字或章节 |\n| --- | --- | --- |\n| [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) | [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | 时代与纪年 |\n| [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) | [险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085) | 险域与禁域 |\n| [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) | [异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73) | 异常协会 |\n| [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | [行脚商](https://chatgpt.com/space/page_deab315236a08191b554e4bb9fb4d700) | 行脚商 |\n| [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | [世界警署](https://chatgpt.com/space/page_66300a48aa8c819187e40695316f20cf) | 世界警署 |\n| [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | [柏格宁城建负责人](https://chatgpt.com/space/page_da1976547da48191874181adcfb27bc3) | 柏格宁城建负责人 |\n| [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | [小秋](https://chatgpt.com/space/page_712f48adb57881918e70bf7bacdd508d) | 小秋 |\n| [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) | 瀚海阑干百丈星 |\n| [罗瓦伊](https://chatgpt.com/space/page_b3e24d3aac388191a3a8f411fee67e96) | [源灵学苑](https://chatgpt.com/space/page_80566257b7f8819188ad01ac20948938) | 源灵学苑 |\n| [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | 第三次世界大战 |\n| [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | 第三次世界大战 |\n| [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | 法术场流 |",
+          "hash": "485d12aa3fc4bf6898494c301329b95cb8eb53622c58f01460f85f53d6512a9c",
           "metadata": {}
         },
         {
@@ -1313,8 +1313,8 @@
         {
           "id": "3464fbb5-2f44-4b26-9265-b32ca8baf4b5",
           "kind": "markdown",
-          "markdown": "| 引用页 | 被引用页 | 原链接文字或章节 |\n| --- | --- | --- |\n| [04 人物角色](https://chatgpt.com/space/page_cd4b58931fac81918d4ac81ec06475f2) | [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | 总索引 |\n| [主角](https://chatgpt.com/space/page_7a0865957afc81918222bac44d37109e) | [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04) | 赫拉小队 |\n| [主角](https://chatgpt.com/space/page_7a0865957afc81918222bac44d37109e) | [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | 观 |\n| [以西结](https://chatgpt.com/space/page_596191dd10748191adaf40e201eb00d4) | [毒魔教团](https://chatgpt.com/space/page_982296806ee8819181b25b1b078e8a1b) | 毒魔教团 |\n| [何守](https://chatgpt.com/space/page_b559ebb270cc8191bb2e0e00f5b3956a) | [毒魔教团](https://chatgpt.com/space/page_982296806ee8819181b25b1b078e8a1b) | 毒魔教团 |\n| [何守](https://chatgpt.com/space/page_b559ebb270cc8191bb2e0e00f5b3956a) | [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | 观 |\n| [卫樽](https://chatgpt.com/space/page_6e785e2662208191b0b0e7b09a981f72) | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) | 神之遗躯 |\n| [卫樽](https://chatgpt.com/space/page_6e785e2662208191b0b0e7b09a981f72) | [源灵学苑](https://chatgpt.com/space/page_80566257b7f8819188ad01ac20948938) | 源灵学苑 |\n| [卫樽](https://chatgpt.com/space/page_6e785e2662208191b0b0e7b09a981f72) | [魏淳](https://chatgpt.com/space/page_e2e4eb936a1081919b17e3f225f0a954) | 魏淳 |\n| [小秋](https://chatgpt.com/space/page_712f48adb57881918e70bf7bacdd508d) | [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | 白萨尼斯 |\n| [小秋](https://chatgpt.com/space/page_712f48adb57881918e70bf7bacdd508d) | [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) | 瀚海阑干百丈星 |\n| [柏格宁城建负责人](https://chatgpt.com/space/page_da1976547da48191874181adcfb27bc3) | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 柏格宁 |\n| [柏格宁城建负责人](https://chatgpt.com/space/page_da1976547da48191874181adcfb27bc3) | [西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c) | 西格露恩 |\n| [柏格宁城建负责人](https://chatgpt.com/space/page_da1976547da48191874181adcfb27bc3) | [赫拉尔伯敏](https://chatgpt.com/space/page_403e7b6c0aa88191adc7109b8a92130e) | 赫拉尔伯敏 |\n| [柏格宁房东](https://chatgpt.com/space/page_e2a175b29f8c8191a518dcd8d650ff78) | [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04) | 赫拉小队 |\n| [柏格宁房东](https://chatgpt.com/space/page_e2a175b29f8c8191a518dcd8d650ff78) | [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | 观（秦若孚） |\n| [梅蒂欣](https://chatgpt.com/space/page_20c8bd2b8d2881918ab83688b5c317ab) | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) | 魔 |\n| [梅蒂欣](https://chatgpt.com/space/page_20c8bd2b8d2881918ab83688b5c317ab) | [毒魔教团](https://chatgpt.com/space/page_982296806ee8819181b25b1b078e8a1b) | 毒魔教团 |\n| [梅蒂欣](https://chatgpt.com/space/page_20c8bd2b8d2881918ab83688b5c317ab) | [以西结](https://chatgpt.com/space/page_596191dd10748191adaf40e201eb00d4) | 以西结 |\n| [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | 法术体系 |\n| [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) | [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | 白萨尼斯 |\n| [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) | [小秋](https://chatgpt.com/space/page_712f48adb57881918e70bf7bacdd508d) | 小秋 |\n| [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) | [偃师工造](https://chatgpt.com/space/page_7f8755c2077481918ad5a6e230eac64d) | 偃师工造 |\n| [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) | [盖维小队](https://chatgpt.com/space/page_5d7040be9dc081918605eb89758bb294) | 盖维小队 |\n| [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) | [Falcon-1780-DM](https://chatgpt.com/space/page_1bb71c32fe8c819193ce6e00c5899c82) | Falcon-1780-DM |\n| [菈比](https://chatgpt.com/space/page_6410f7a5c0248191b19a52e8254c5c09) | [源灵学苑](https://chatgpt.com/space/page_80566257b7f8819188ad01ac20948938) | 源灵学苑 |\n| [西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c) | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 柏格宁 |\n| [西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c) | [主角](https://chatgpt.com/space/page_7a0865957afc81918222bac44d37109e) | 主角 |\n| [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 柏格宁 |\n| [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | [毒魔教团](https://chatgpt.com/space/page_982296806ee8819181b25b1b078e8a1b) | 毒魔教团 |\n| [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | [盖维小队](https://chatgpt.com/space/page_5d7040be9dc081918605eb89758bb294) | 盖维小队 |\n| [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04) | 赫拉小队 |\n| [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | [主角](https://chatgpt.com/space/page_7a0865957afc81918222bac44d37109e) | 主角 |\n| [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | [何守](https://chatgpt.com/space/page_b559ebb270cc8191bb2e0e00f5b3956a) | 何守 |\n| [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | [柏格宁房东](https://chatgpt.com/space/page_e2a175b29f8c8191a518dcd8d650ff78) | 柏格宁房东 |\n| [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | [种族与物种总述](https://chatgpt.com/space/page_d384a6ecca9c81918acda033a5354188) | 种族与物种总述 |\n| [赫拉尔伯敏](https://chatgpt.com/space/page_403e7b6c0aa88191adc7109b8a92130e) | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 柏格宁 |\n| [赫拉尔伯敏](https://chatgpt.com/space/page_403e7b6c0aa88191adc7109b8a92130e) | [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | 白萨尼斯 |\n| [赫拉尔伯敏](https://chatgpt.com/space/page_403e7b6c0aa88191adc7109b8a92130e) | [柏格宁城建负责人](https://chatgpt.com/space/page_da1976547da48191874181adcfb27bc3) | 柏格宁城建负责人 |\n| [魏淳](https://chatgpt.com/space/page_e2e4eb936a1081919b17e3f225f0a954) | [源灵学苑](https://chatgpt.com/space/page_80566257b7f8819188ad01ac20948938) | 源灵学苑 |\n| [魏淳](https://chatgpt.com/space/page_e2e4eb936a1081919b17e3f225f0a954) | [卫樽](https://chatgpt.com/space/page_6e785e2662208191b0b0e7b09a981f72) | 卫樽 |",
-          "hash": "3b134bf83877edff7dcc5157b2387ca55195dfd16122612fca3c215dc236ba1d",
+          "markdown": "| 引用页 | 被引用页 | 原链接文字或章节 |\n| --- | --- | --- |\n| [04 人物角色](https://chatgpt.com/space/page_cd4b58931fac81918d4ac81ec06475f2) | [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | 总索引 |\n| [主角](https://chatgpt.com/space/page_7a0865957afc81918222bac44d37109e) | [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04) | 赫拉小队 |\n| [主角](https://chatgpt.com/space/page_7a0865957afc81918222bac44d37109e) | [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | 观 |\n| [以西结](https://chatgpt.com/space/page_596191dd10748191adaf40e201eb00d4) | [毒魔教团](https://chatgpt.com/space/page_982296806ee8819181b25b1b078e8a1b) | 毒魔教团 |\n| [何守](https://chatgpt.com/space/page_b559ebb270cc8191bb2e0e00f5b3956a) | [毒魔教团](https://chatgpt.com/space/page_982296806ee8819181b25b1b078e8a1b) | 毒魔教团 |\n| [何守](https://chatgpt.com/space/page_b559ebb270cc8191bb2e0e00f5b3956a) | [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | 观 |\n| [卫樽](https://chatgpt.com/space/page_6e785e2662208191b0b0e7b09a981f72) | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) | 神之遗躯 |\n| [卫樽](https://chatgpt.com/space/page_6e785e2662208191b0b0e7b09a981f72) | [源灵学苑](https://chatgpt.com/space/page_80566257b7f8819188ad01ac20948938) | 源灵学苑 |\n| [卫樽](https://chatgpt.com/space/page_6e785e2662208191b0b0e7b09a981f72) | [魏淳](https://chatgpt.com/space/page_e2e4eb936a1081919b17e3f225f0a954) | 魏淳 |\n| [小秋](https://chatgpt.com/space/page_712f48adb57881918e70bf7bacdd508d) | [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | 白萨尼斯 |\n| [小秋](https://chatgpt.com/space/page_712f48adb57881918e70bf7bacdd508d) | [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) | 瀚海阑干百丈星 |\n| [柏格宁城建负责人](https://chatgpt.com/space/page_da1976547da48191874181adcfb27bc3) | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 柏格宁 |\n| [柏格宁城建负责人](https://chatgpt.com/space/page_da1976547da48191874181adcfb27bc3) | [西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c) | 西格露恩 |\n| [柏格宁城建负责人](https://chatgpt.com/space/page_da1976547da48191874181adcfb27bc3) | [赫拉尔伯敏](https://chatgpt.com/space/page_403e7b6c0aa88191adc7109b8a92130e) | 赫拉尔伯敏 |\n| [柏格宁房东](https://chatgpt.com/space/page_e2a175b29f8c8191a518dcd8d650ff78) | [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04) | 赫拉小队 |\n| [柏格宁房东](https://chatgpt.com/space/page_e2a175b29f8c8191a518dcd8d650ff78) | [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | 观（秦若孚） |\n| [梅蒂欣](https://chatgpt.com/space/page_20c8bd2b8d2881918ab83688b5c317ab) | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) | 魔 |\n| [梅蒂欣](https://chatgpt.com/space/page_20c8bd2b8d2881918ab83688b5c317ab) | [毒魔教团](https://chatgpt.com/space/page_982296806ee8819181b25b1b078e8a1b) | 毒魔教团 |\n| [梅蒂欣](https://chatgpt.com/space/page_20c8bd2b8d2881918ab83688b5c317ab) | [以西结](https://chatgpt.com/space/page_596191dd10748191adaf40e201eb00d4) | 以西结 |\n| [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | 法术体系 |\n| [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) | [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | 白萨尼斯 |\n| [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) | [小秋](https://chatgpt.com/space/page_712f48adb57881918e70bf7bacdd508d) | 小秋 |\n| [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) | [偃师工造](https://chatgpt.com/space/page_7f8755c2077481918ad5a6e230eac64d) | 偃师工造 |\n| [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) | [盖维小队](https://chatgpt.com/space/page_5d7040be9dc081918605eb89758bb294) | 盖维小队 |\n| [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) | [Falcon-1780-DM](https://chatgpt.com/space/page_1bb71c32fe8c819193ce6e00c5899c82) | Falcon-1780-DM |\n| [菈比](https://chatgpt.com/space/page_6410f7a5c0248191b19a52e8254c5c09) | [源灵学苑](https://chatgpt.com/space/page_80566257b7f8819188ad01ac20948938) | 源灵学苑 |\n| [西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c) | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 柏格宁 |\n| [西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c) | [主角](https://chatgpt.com/space/page_7a0865957afc81918222bac44d37109e) | 主角 |\n| [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 柏格宁 |\n| [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | [毒魔教团](https://chatgpt.com/space/page_982296806ee8819181b25b1b078e8a1b) | 毒魔教团 |\n| [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | [盖维小队](https://chatgpt.com/space/page_5d7040be9dc081918605eb89758bb294) | 盖维小队 |\n| [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04) | 赫拉小队 |\n| [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | [主角](https://chatgpt.com/space/page_7a0865957afc81918222bac44d37109e) | 主角 |\n| [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | [何守](https://chatgpt.com/space/page_b559ebb270cc8191bb2e0e00f5b3956a) | 何守 |\n| [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | [柏格宁房东](https://chatgpt.com/space/page_e2a175b29f8c8191a518dcd8d650ff78) | 柏格宁房东 |\n| [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | [种族与物种总述](https://chatgpt.com/space/page_d384a6ecca9c81918acda033a5354188) | 种族与物种总述 |\n| [赫拉尔伯敏](https://chatgpt.com/space/page_403e7b6c0aa88191adc7109b8a92130e) | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 柏格宁 |\n| [赫拉尔伯敏](https://chatgpt.com/space/page_403e7b6c0aa88191adc7109b8a92130e) | [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | 白萨尼斯 |\n| [赫拉尔伯敏](https://chatgpt.com/space/page_403e7b6c0aa88191adc7109b8a92130e) | [柏格宁城建负责人](https://chatgpt.com/space/page_da1976547da48191874181adcfb27bc3) | 柏格宁城建负责人 |\n| [魏淳](https://chatgpt.com/space/page_e2e4eb936a1081919b17e3f225f0a954) | [源灵学苑](https://chatgpt.com/space/page_80566257b7f8819188ad01ac20948938) | 源灵学苑 |\n| [魏淳](https://chatgpt.com/space/page_e2e4eb936a1081919b17e3f225f0a954) | [卫樽](https://chatgpt.com/space/page_6e785e2662208191b0b0e7b09a981f72) | 卫樽 |\n| [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) | [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | 第三次世界大战 |\n| [柏格宁房东](https://chatgpt.com/space/page_e2a175b29f8c8191a518dcd8d650ff78) | [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | 第三次世界大战 |",
+          "hash": "93630c3642379fe4af005136fe139d68a98228e08ab69a588476dbce0c63a9eb",
           "metadata": {}
         },
         {
@@ -1327,8 +1327,8 @@
         {
           "id": "90fbc9aa-00c2-4341-b674-44d17287aa57",
           "kind": "markdown",
-          "markdown": "| 引用页 | 被引用页 | 原链接文字或章节 |\n| --- | --- | --- |\n| [05 历史事件](https://chatgpt.com/space/page_0e22a04a5f448191b9639c923be07845) | [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | 总索引 |\n| [05 历史事件](https://chatgpt.com/space/page_0e22a04a5f448191b9639c923be07845) | [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 法术革命 |\n| [05 历史事件](https://chatgpt.com/space/page_0e22a04a5f448191b9639c923be07845) | [待决问题与冲突清单](https://chatgpt.com/space/page_52e030c8c4308191aba3f0ee31ed233d) | 待决问题与冲突清单 |\n| [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) | [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | 时代与纪年 |\n| [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) | [拜尔丹·卡兹米娅](https://chatgpt.com/space/page_88a9877b01d4819199705067e9a7ae61) | 拜尔丹·卡兹米娅 |\n| [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | 法术 |\n| [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 柏格宁 |\n| [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | 白萨尼斯 |\n| [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | [异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73) | 异常协会 |",
-          "hash": "d515a08b864620d9907820af9f3f78e282167f9119e23a22abf2713635090718",
+          "markdown": "| 引用页 | 被引用页 | 原链接文字或章节 |\n| --- | --- | --- |\n| [05 历史事件](https://chatgpt.com/space/page_0e22a04a5f448191b9639c923be07845) | [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | 总索引 |\n| [05 历史事件](https://chatgpt.com/space/page_0e22a04a5f448191b9639c923be07845) | [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 法术革命 |\n| [05 历史事件](https://chatgpt.com/space/page_0e22a04a5f448191b9639c923be07845) | [待决问题与冲突清单](https://chatgpt.com/space/page_52e030c8c4308191aba3f0ee31ed233d) | 待决问题与冲突清单 |\n| [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) | [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | 时代与纪年 |\n| [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) | [拜尔丹·卡兹米娅](https://chatgpt.com/space/page_88a9877b01d4819199705067e9a7ae61) | 拜尔丹·卡兹米娅 |\n| [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | 法术 |\n| [05 历史事件](https://chatgpt.com/space/page_0e22a04a5f448191b9639c923be07845) | [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | 第三次世界大战 |\n| [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) | 不可触之月 |\n| [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | [法术学导论](https://chatgpt.com/space/page_404f609224e081919f7d15a6bf85f34c) | 《法术学导论》 |\n| [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 柏格宁 |\n| [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | 白萨尼斯 |\n| [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | 第三次世界大战 |\n| [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) | 澜星 |",
+          "hash": "14f0f52c13488c9d6132203267ebdb08636fa7cf468d8c76c35062b2c68f65d4",
           "metadata": {}
         },
         {
@@ -1397,8 +1397,8 @@
         {
           "id": "d4c62aea-647a-4065-86bc-07e3df93862d",
           "kind": "markdown",
-          "markdown": "| 引用页 | 被引用页 | 原链接文字或章节 |\n| --- | --- | --- |\n| [Quartz 站点维护说明](https://chatgpt.com/space/page_f69d8965a4108191a3aa13d9babc6a09) | [Quartz 站点维护说明](https://chatgpt.com/space/page_f69d8965a4108191a3aa13d9babc6a09) | 第七节／-症状整站-404但静态资源cssjs还在；第七节／七常见问题排查；第三节／关于-set-executionpolicy；第二节／二日常发布三步 |\n| [Quartz 站点维护说明](https://chatgpt.com/space/page_f69d8965a4108191a3aa13d9babc6a09) | [待决问题与冲突清单](https://chatgpt.com/space/page_52e030c8c4308191aba3f0ee31ed233d) | 待决问题与冲突清单 |\n| [Quartz 站点维护说明](https://chatgpt.com/space/page_f69d8965a4108191a3aa13d9babc6a09) | [文档维护规则](https://chatgpt.com/space/page_ab0e26bc6d908191a4ac386488c97990) | 文档维护规则 |\n| [Quartz 站点维护说明](https://chatgpt.com/space/page_f69d8965a4108191a3aa13d9babc6a09) | [术语规范与别名对照](https://chatgpt.com/space/page_e051792c256c8191939b37ff4d84e838) | 术语规范与别名对照 |\n| [Quartz 站点维护说明](https://chatgpt.com/space/page_f69d8965a4108191a3aa13d9babc6a09) | [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | 维护说明 |\n| [文档维护规则](https://chatgpt.com/space/page_ab0e26bc6d908191a4ac386488c97990) | [文档维护规则](https://chatgpt.com/space/page_ab0e26bc6d908191a4ac386488c97990) | 一／一编辑者的身份与语气；七／七叙事与文风；三／三内容层级的定义；九／九裁定索引；二／二核心规则-raw-内容一律不标注照抄；五／五文件命名与元数据；八／八自查清单交付前逐项对照；六／六推荐渲染器；四／四开发向信息的处置；第八节自查清单／八自查清单交付前逐项对照 |\n| [术语规范与别名对照](https://chatgpt.com/space/page_e051792c256c8191939b37ff4d84e838) | [待决问题与冲突清单](https://chatgpt.com/space/page_52e030c8c4308191aba3f0ee31ed233d) | 待决问题与冲突清单 |\n| [术语规范与别名对照](https://chatgpt.com/space/page_e051792c256c8191939b37ff4d84e838) | [文档维护规则](https://chatgpt.com/space/page_ab0e26bc6d908191a4ac386488c97990) | 文档维护规则 |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | 主页（世界脉络与导览） |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | 总索引 |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) | 世界与界域 |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 法术革命 |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [Quartz 站点维护说明](https://chatgpt.com/space/page_f69d8965a4108191a3aa13d9babc6a09) | Quartz站点维护说明 |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [原始来源导读（逐来源细读文档）](https://chatgpt.com/space/page_fae2ea7bb20c819181ac1ac2f3dd9df8) | 原始来源导读 |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [待决问题与冲突清单](https://chatgpt.com/space/page_52e030c8c4308191aba3f0ee31ed233d) | 待决清单；待决问题与冲突清单 |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [文档维护规则](https://chatgpt.com/space/page_ab0e26bc6d908191a4ac386488c97990) | 文档维护规则 |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [术语规范与别名对照](https://chatgpt.com/space/page_e051792c256c8191939b37ff4d84e838) | 术语规范与别名对照 |",
-          "hash": "255728812a16ca2c04031dffffc4391f0004443c179d4f734f30eede195eed73",
+          "markdown": "| 引用页 | 被引用页 | 原链接文字或章节 |\n| --- | --- | --- |\n| [Quartz 站点维护说明](https://chatgpt.com/space/page_f69d8965a4108191a3aa13d9babc6a09) | [Quartz 站点维护说明](https://chatgpt.com/space/page_f69d8965a4108191a3aa13d9babc6a09) | 第七节／-症状整站-404但静态资源cssjs还在；第七节／七常见问题排查；第三节／关于-set-executionpolicy；第二节／二日常发布三步 |\n| [Quartz 站点维护说明](https://chatgpt.com/space/page_f69d8965a4108191a3aa13d9babc6a09) | [待决问题与冲突清单](https://chatgpt.com/space/page_52e030c8c4308191aba3f0ee31ed233d) | 待决问题与冲突清单 |\n| [Quartz 站点维护说明](https://chatgpt.com/space/page_f69d8965a4108191a3aa13d9babc6a09) | [文档维护规则](https://chatgpt.com/space/page_ab0e26bc6d908191a4ac386488c97990) | 文档维护规则 |\n| [Quartz 站点维护说明](https://chatgpt.com/space/page_f69d8965a4108191a3aa13d9babc6a09) | [术语规范与别名对照](https://chatgpt.com/space/page_e051792c256c8191939b37ff4d84e838) | 术语规范与别名对照 |\n| [Quartz 站点维护说明](https://chatgpt.com/space/page_f69d8965a4108191a3aa13d9babc6a09) | [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | 维护说明 |\n| [文档维护规则](https://chatgpt.com/space/page_ab0e26bc6d908191a4ac386488c97990) | [文档维护规则](https://chatgpt.com/space/page_ab0e26bc6d908191a4ac386488c97990) | 一／一编辑者的身份与语气；七／七叙事与文风；三／三内容层级的定义；九／九裁定索引；二／二核心规则-raw-内容一律不标注照抄；五／五文件命名与元数据；八／八自查清单交付前逐项对照；六／六推荐渲染器；四／四开发向信息的处置；第八节自查清单／八自查清单交付前逐项对照 |\n| [术语规范与别名对照](https://chatgpt.com/space/page_e051792c256c8191939b37ff4d84e838) | [待决问题与冲突清单](https://chatgpt.com/space/page_52e030c8c4308191aba3f0ee31ed233d) | 待决问题与冲突清单 |\n| [术语规范与别名对照](https://chatgpt.com/space/page_e051792c256c8191939b37ff4d84e838) | [文档维护规则](https://chatgpt.com/space/page_ab0e26bc6d908191a4ac386488c97990) | 文档维护规则 |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df) | 主页（世界脉络与导览） |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | 总索引 |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) | 世界与界域 |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 法术革命 |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [Quartz 站点维护说明](https://chatgpt.com/space/page_f69d8965a4108191a3aa13d9babc6a09) | Quartz站点维护说明 |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [原始来源导读（逐来源细读文档）](https://chatgpt.com/space/page_fae2ea7bb20c819181ac1ac2f3dd9df8) | 原始来源导读 |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [待决问题与冲突清单](https://chatgpt.com/space/page_52e030c8c4308191aba3f0ee31ed233d) | 待决清单；待决问题与冲突清单 |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [文档维护规则](https://chatgpt.com/space/page_ab0e26bc6d908191a4ac386488c97990) | 文档维护规则 |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [术语规范与别名对照](https://chatgpt.com/space/page_e051792c256c8191939b37ff4d84e838) | 术语规范与别名对照 |\n| [术语规范与别名对照](https://chatgpt.com/space/page_e051792c256c8191939b37ff4d84e838) | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | 法术体系 |\n| [术语规范与别名对照](https://chatgpt.com/space/page_e051792c256c8191939b37ff4d84e838) | [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 法术革命 |\n| [术语规范与别名对照](https://chatgpt.com/space/page_e051792c256c8191939b37ff4d84e838) | [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | 第三次世界大战 |\n| [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | 第三次世界大战 |",
+          "hash": "bc7f9a6de83ffa6a7f695ac9e60deaac21b065928f1a9032682602f159192b6f",
           "metadata": {}
         },
         {
@@ -1411,8 +1411,8 @@
         {
           "id": "b080dc2a-8f1c-4348-9495-cfb9f8ddac08",
           "kind": "markdown",
-          "markdown": "| 引用页 | 被引用页 | 原链接文字或章节 |\n| --- | --- | --- |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [00 导览与索引](https://chatgpt.com/space/page_0f2f0ea9f3d08191bef2e33db954366b) | 00 **导览与索引** 阅读路线与全站目录 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | 浏览总索引 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [人物角色](https://chatgpt.com/space/page_bf0bf204c6c88191bd5ca843fc477e06) | **人物角色总览** 按完成度与正典性分组 ↗ |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [历史事件](https://chatgpt.com/space/page_c19456a4688c8191a0492aa75e28f736) | **历史事件索引** 查看事件的完成度与正典性 ↗ |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [待处理](https://chatgpt.com/space/page_17f5512edcdc8191a5c25f3ee4b53379) | **待处理条目** 查看草稿与骨架条目 ↗ |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [条目状态](https://chatgpt.com/space/page_8c9cb035bca48191891f05782291ba8a) | **条目状态总览** 按类型与正典性汇总 ↗ |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [01 基础设定](https://chatgpt.com/space/page_f9d7f3e9d4f481918745947ee6665a79) | 01 **基础设定** 6 条目 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) | 世界与界域 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | 01 **时代与纪年** 从三次世界大战，读到法术进入大众生活。；从时代与纪年开始 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | 02 **法术体系** 精神如何影响物质，又为何无法脱离施法者。；法术体系 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) | 神魔体系 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085) | 险域与禁域 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) | ZZ0381草原禁域 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [02 地理地区](https://chatgpt.com/space/page_632c7f33de888191804aa40a92c7e7bd) | 02 **地理地区** 4 条目 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 03 **柏格宁** 跨江大桥上的繁华，与地图之外的荒楼区。；柏格宁 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [03 组织势力](https://chatgpt.com/space/page_8d08ca157c7c81918f931ee7222d6832) | 03 **组织势力** 7 条目 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73) | 异常协会 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [毒魔教团](https://chatgpt.com/space/page_982296806ee8819181b25b1b078e8a1b) | 毒魔教团 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [源灵学苑](https://chatgpt.com/space/page_80566257b7f8819188ad01ac20948938) | 源灵学苑 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04) | 赫拉小队 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [04 人物角色](https://chatgpt.com/space/page_cd4b58931fac81918d4ac81ec06475f2) | 04 **人物角色** 19 条目；查看全部人物角色 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [以西结](https://chatgpt.com/space/page_596191dd10748191adaf40e201eb00d4) | 以西结 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [何守](https://chatgpt.com/space/page_b559ebb270cc8191bb2e0e00f5b3956a) | 何守 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) | 缇尔莉斯 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [菈比](https://chatgpt.com/space/page_6410f7a5c0248191b19a52e8254c5c09) | 菈比 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | 04 **观** 失忆的剑灵，以“报童”之名接取委托。；观 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [05 历史事件](https://chatgpt.com/space/page_0e22a04a5f448191b9639c923be07845) | 05 **历史事件** 4 条目 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) | 源灵学院变故 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [06 能力与超常](https://chatgpt.com/space/page_3bbb2f5b11808191bcc6a18ef8723ea9) | 06 **能力与超常** 2 条目 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [07 物品与装备](https://chatgpt.com/space/page_78b3fd76b6fc81919f6c3205a7652731) | 07 **物品与装备** 1 条目 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [08 物种与种族](https://chatgpt.com/space/page_d3a4e2490ccc819188294ab67a967e25) | 08 **物种与种族** 1 条目 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [09 作品与写作素材](https://chatgpt.com/space/page_1bbad76b02b48191b0e616b51b34f3bb) | 09 **作品与写作素材** 5 条目 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [调查记录](https://chatgpt.com/space/page_1a7601c46770819199c1c75b76e893f9) | 调查记录 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [隐约的记忆](https://chatgpt.com/space/page_1d56982c2e208191ac851dc29aa88bb4) | 隐约的记忆 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [待决问题与冲突清单](https://chatgpt.com/space/page_52e030c8c4308191aba3f0ee31ed233d) | 待决问题与冲突清单 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [文档维护规则](https://chatgpt.com/space/page_ab0e26bc6d908191a4ac386488c97990) | 文档维护规则 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [术语规范与别名对照](https://chatgpt.com/space/page_e051792c256c8191939b37ff4d84e838) | 术语规范与别名对照 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | 维护说明 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [档案检索](https://chatgpt.com/space/page_f9b076cf645c81919f1172de0a9ae1ba) | 打开档案检索，组合筛选条目；筛选档案 |",
-          "hash": "feaab35bf57625b164e951e5028abd5b2c1903ccab7abf4f916f32adb6cc38f7",
+          "markdown": "| 引用页 | 被引用页 | 原链接文字或章节 |\n| --- | --- | --- |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [00 导览与索引](https://chatgpt.com/space/page_0f2f0ea9f3d08191bef2e33db954366b) | 00 **导览与索引** 阅读路线与全站目录 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27) | 浏览总索引 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [人物角色](https://chatgpt.com/space/page_bf0bf204c6c88191bd5ca843fc477e06) | **人物角色总览** 按完成度与正典性分组 ↗ |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [历史事件](https://chatgpt.com/space/page_c19456a4688c8191a0492aa75e28f736) | **历史事件索引** 查看事件的完成度与正典性 ↗ |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [待处理](https://chatgpt.com/space/page_17f5512edcdc8191a5c25f3ee4b53379) | **待处理条目** 查看草稿与骨架条目 ↗ |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [条目状态](https://chatgpt.com/space/page_8c9cb035bca48191891f05782291ba8a) | **条目状态总览** 按类型与正典性汇总 ↗ |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [01 基础设定](https://chatgpt.com/space/page_f9d7f3e9d4f481918745947ee6665a79) | 01 **基础设定** 6 条目 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [世界与界域](https://chatgpt.com/space/page_9191ab466c448191ad001fa9b67722d0) | 世界与界域 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | 01 **时代与纪年** 从三次世界大战，读到法术进入大众生活。；从时代与纪年开始 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | 02 **法术体系** 精神如何影响物质，又为何无法脱离施法者。；法术体系 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [神魔体系](https://chatgpt.com/space/page_64399b4ed61481918b03961eea9f3900) | 神魔体系 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085) | 险域与禁域 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) | ZZ0381草原禁域 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [02 地理地区](https://chatgpt.com/space/page_632c7f33de888191804aa40a92c7e7bd) | 02 **地理地区** 4 条目 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 03 **柏格宁** 跨江大桥上的繁华，与地图之外的荒楼区。；柏格宁 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [03 组织势力](https://chatgpt.com/space/page_8d08ca157c7c81918f931ee7222d6832) | 03 **组织势力** 7 条目 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73) | 异常协会 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [毒魔教团](https://chatgpt.com/space/page_982296806ee8819181b25b1b078e8a1b) | 毒魔教团 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [源灵学苑](https://chatgpt.com/space/page_80566257b7f8819188ad01ac20948938) | 源灵学苑 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04) | 赫拉小队 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [04 人物角色](https://chatgpt.com/space/page_cd4b58931fac81918d4ac81ec06475f2) | 04 **人物角色** 19 条目；查看全部人物角色 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [以西结](https://chatgpt.com/space/page_596191dd10748191adaf40e201eb00d4) | 以西结 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [何守](https://chatgpt.com/space/page_b559ebb270cc8191bb2e0e00f5b3956a) | 何守 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) | 缇尔莉斯 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [菈比](https://chatgpt.com/space/page_6410f7a5c0248191b19a52e8254c5c09) | 菈比 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | 04 **观** 失忆的剑灵，以“报童”之名接取委托。；观 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [05 历史事件](https://chatgpt.com/space/page_0e22a04a5f448191b9639c923be07845) | 05 **历史事件** 5 条目 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) | 源灵学院变故 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [06 能力与超常](https://chatgpt.com/space/page_3bbb2f5b11808191bcc6a18ef8723ea9) | 06 **能力与超常** 2 条目 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [07 物品与装备](https://chatgpt.com/space/page_78b3fd76b6fc81919f6c3205a7652731) | 07 **物品与装备** 1 条目 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [08 物种与种族](https://chatgpt.com/space/page_d3a4e2490ccc819188294ab67a967e25) | 08 **物种与种族** 1 条目 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [09 作品与写作素材](https://chatgpt.com/space/page_1bbad76b02b48191b0e616b51b34f3bb) | 09 **作品与写作素材** 5 条目 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [调查记录](https://chatgpt.com/space/page_1a7601c46770819199c1c75b76e893f9) | 调查记录 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [隐约的记忆](https://chatgpt.com/space/page_1d56982c2e208191ac851dc29aa88bb4) | 隐约的记忆 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [待决问题与冲突清单](https://chatgpt.com/space/page_52e030c8c4308191aba3f0ee31ed233d) | 待决问题与冲突清单 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [文档维护规则](https://chatgpt.com/space/page_ab0e26bc6d908191a4ac386488c97990) | 文档维护规则 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [术语规范与别名对照](https://chatgpt.com/space/page_e051792c256c8191939b37ff4d84e838) | 术语规范与别名对照 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4) | 维护说明 |\n| [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94) | [档案检索](https://chatgpt.com/space/page_f9b076cf645c81919f1172de0a9ae1ba) | 打开档案检索，组合筛选条目；筛选档案 |",
+          "hash": "1a4c0552737b6a0b4b3f4baf4ba8f2f5825324e3eb1bc597ad47608775a1273c",
           "metadata": {}
         }
       ]
@@ -1507,17 +1507,17 @@
       "url": "https://chatgpt.com/space/page_f9b076cf645c81919f1172de0a9ae1ba",
       "parent": {
         "page_id": "page_506ceb47a36081919831b478640e9b94",
-        "title": "陆拾肆企划 Wiki"
+        "title": "世界观wiki"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T12:00:49.811246Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:35:17.218828Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
           "id": "0f68cccf-c8ac-4d0e-9f6c-4b16ff7a30b7",
           "kind": "markdown",
-          "markdown": "按类型查看全部 49 个设定与素材条目。可通过 My Project 的空间搜索查找名称、别名或标签；条目属性保留在各页的“资料属性”表中。",
-          "hash": "6486d403698071a249b0a163baf4b51f403c446641e1ccbd7a0f040f748549b0",
+          "markdown": "按类型查看全部 50 个设定与素材条目。可通过 My Project 的空间搜索查找名称、别名或标签；条目属性保留在各页的“资料属性”表中。",
+          "hash": "001326638458b9b34ebea0c34b2d77e1e744d52f7b1fff7d482521548cc5bf3b",
           "metadata": {}
         },
         {
@@ -1551,8 +1551,8 @@
         {
           "id": "27c25f20-774a-4713-8d12-161c4604ec8c",
           "kind": "markdown",
-          "markdown": "| 条目 | 别名 | 完成度 | 正典性 | 标签 |\n| --- | --- | --- | --- | --- |\n| [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) |  | 较完整 | 存疑 | 世界史 |\n| [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) | 卡兹米娅家族内乱、1979 年灭族 | 较完整 | 存疑 | 卡兹米娅线、下界 |\n| [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 第三次世界大战、三战、法术革命战争 | 较完整 | 存疑 | 世界史 |\n| [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) | 1898 年源灵学院变故 | 骨架 | 存疑 | 世界史、源灵线 |",
-          "hash": "181a04f564d53c80ae1884c001a44e50d44b9e6b754ce1c423fbe1fec26f2257",
+          "markdown": "| 条目 | 别名 | 完成度 | 正典性 | 标签 |\n| --- | --- | --- | --- | --- |\n| [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) |  | 较完整 | 存疑 | 世界史 |\n| [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) | 卡兹米娅家族内乱、1979 年灭族 | 较完整 | 存疑 | 卡兹米娅线、下界 |\n| [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) |  | 较完整 | 存疑 | 世界史 |\n| [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | 三战 | 草稿 | 存疑 | 世界史 |\n| [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) | 1898 年源灵学院变故 | 骨架 | 存疑 | 世界史、源灵线 |",
+          "hash": "25faf32df3e2396d2f5b06889a1f42a9d2e22d71513cb1d52aed4a32852db210",
           "metadata": {}
         },
         {
@@ -2018,17 +2018,17 @@
       "url": "https://chatgpt.com/space/page_0e22a04a5f448191b9639c923be07845",
       "parent": {
         "page_id": "page_506ceb47a36081919831b478640e9b94",
-        "title": "陆拾肆企划 Wiki"
+        "title": "世界观wiki"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T11:56:58.314081Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:34:58.516078Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
           "id": "244feba7-9a01-4574-bc11-92d0e274a54c",
           "kind": "markdown",
-          "markdown": "**收录范围**：有“时间+经过”属性的历史/世界级事件条目与综合大事记条目。角色之间的**叙事性小场景**（含事件块叙事片段）不属于本目录，归档到 `09-作品与写作素材/素材池/`。同一事件只设一条条目（如「三战」已并入[法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)，仅作别名）。",
-          "hash": "a0ff87bbf7359794a7b8b031cd6173f5e7511f2662a8aed4dcfc05c0f8c1af78",
+          "markdown": "本目录收录有具体经过的历史事件和影响广泛的历史变化。[法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)记述法术研究与传播的变化，[第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)记述国家间的战争及其后果。角色之间的叙事片段归入 `09-作品与写作素材/素材池/`。",
+          "hash": "f5f7451a29c48445031508add7d1260da0178ac15c96a27d685cecbe6246902b",
           "metadata": {}
         },
         {
@@ -2088,6 +2088,13 @@
           "metadata": {}
         },
         {
+          "id": "0ce1f521-6c5e-4325-9f8c-aa96dd65264e",
+          "kind": "markdown",
+          "markdown": "- [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)",
+          "hash": "154f6061327838c0dfdc0ec7f4f8b0536ddb25433d5cc20a0f846a1e4b9cb8bd",
+          "metadata": {}
+        },
+        {
           "id": "e54f9e0e-7cde-4be0-929b-d447a949f2fe",
           "kind": "markdown",
           "markdown": "- [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe)",
@@ -2120,6 +2127,13 @@
           "kind": "markdown",
           "markdown": "- [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)",
           "hash": "f9e94890fd1cc6919faa5fc5d4a2b3f7f1df60bfe92e8ac28c346af510c97310",
+          "metadata": {}
+        },
+        {
+          "id": "a3643b85-39aa-4831-acdd-95986c306e9d",
+          "kind": "markdown",
+          "markdown": "- [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)",
+          "hash": "154f6061327838c0dfdc0ec7f4f8b0536ddb25433d5cc20a0f846a1e4b9cb8bd",
           "metadata": {}
         },
         {
@@ -2853,8 +2867,8 @@
         "page_id": "page_b8a71927c26481918f36afed2daffa72",
         "title": "编务与来源导读"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T12:00:43.987593Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:36:17.898338Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
@@ -2958,8 +2972,8 @@
         {
           "id": "4e456d2c-cc33-4494-99d9-4a37edbe30d1",
           "kind": "markdown",
-          "markdown": "| 目录 | 内容 |\n|---|---|\n| `wiki/00-导览与索引/` | 主页、总索引 |\n| `wiki/01-基础设定/` | 世界级概念：世界与界域、神魔体系、法术体系、时代与纪年、险域与禁域、行脚商 |\n| `wiki/02-地理地区/` | 柏格宁（拜格宁）、白萨尼斯、罗瓦伊、ZZ0381草原禁域 |\n| `wiki/03-组织势力/` | 毒魔教团、盖维小队、赫拉小队、偃师工造、异常协会、源灵学苑 |\n| `wiki/04-人物角色/` | 观（秦言）、主角、何守、瀚海阑干百丈星（澜星）、以西结、深黑祷者、艾米丽、苍翠隼影、魏淳/卫樽、西格露恩、菈比 等条目 + 空壳名录 |\n| `wiki/05-历史事件/` | 法术革命（含原「三战」）、不可触之月、卡兹米娅家变、源灵学院变故 |\n| `wiki/06-能力与超常/` | 魔与法、法术学导论（其余能力并入角色条目） |\n| `wiki/07-物品与装备/` | 断剑、Falcon-1780-DM |\n| `wiki/08-物种与种族/` | 种族与物种总述 |\n| `wiki/09-作品与写作素材/` | `素材池/`（事件块等叙事材料）；按[文档维护规则](https://chatgpt.com/space/page_ab0e26bc6d908191a4ac386488c97990)整理收录，非原文副本 |\n| `wiki/_templates/` | 8 套条目模板与使用说明（新条目从这里开始） |\n| `wiki/_assets/` | 图片资产约定（暂空） |\n| `meta/` | 本目录：仓库说明、术语规范与别名对照、待决问题与冲突清单、文档维护规则、Quartz 站点维护说明、原始来源导读（深度阅读摘要 + 蓝皮书） |",
-          "hash": "ef5cb98f644a3e14645e5a3a742f7bccb320ef5d36a1c9269584cbbe15f8b799",
+          "markdown": "| 目录 | 内容 |\n|---|---|\n| `wiki/00-导览与索引/` | 主页、总索引 |\n| `wiki/01-基础设定/` | 世界级概念：世界与界域、神魔体系、法术体系、时代与纪年、险域与禁域、行脚商 |\n| `wiki/02-地理地区/` | 柏格宁（拜格宁）、白萨尼斯、罗瓦伊、ZZ0381草原禁域 |\n| `wiki/03-组织势力/` | 毒魔教团、盖维小队、赫拉小队、偃师工造、异常协会、源灵学苑 |\n| `wiki/04-人物角色/` | 观（秦言）、主角、何守、瀚海阑干百丈星（澜星）、以西结、深黑祷者、艾米丽、苍翠隼影、魏淳/卫樽、西格露恩、菈比 等条目 + 空壳名录 |\n| `wiki/05-历史事件/` | 法术革命、第三次世界大战、不可触之月、卡兹米娅家变、源灵学院变故 |\n| `wiki/06-能力与超常/` | 魔与法、法术学导论（其余能力并入角色条目） |\n| `wiki/07-物品与装备/` | 断剑、Falcon-1780-DM |\n| `wiki/08-物种与种族/` | 种族与物种总述 |\n| `wiki/09-作品与写作素材/` | `素材池/`（事件块等叙事材料）；按[文档维护规则](https://chatgpt.com/space/page_ab0e26bc6d908191a4ac386488c97990)整理收录，非原文副本 |\n| `wiki/_templates/` | 8 套条目模板与使用说明（新条目从这里开始） |\n| `wiki/_assets/` | 图片资产约定（暂空） |\n| `meta/` | 本目录：仓库说明、术语规范与别名对照、待决问题与冲突清单、文档维护规则、Quartz 站点维护说明、原始来源导读（深度阅读摘要 + 蓝皮书） |",
+          "hash": "d1ce15584ee1558f3b52fc6f94720a735a7f55453e46ace0d94f2fac505f5961",
           "metadata": {}
         },
         {
@@ -3084,8 +3098,8 @@
         {
           "id": "73280239-ba26-4131-b25f-2962742c46f2",
           "kind": "markdown",
-          "markdown": "- **规范裁定（001-编写规范检查 决策库 v1）**：三页元信息文本迁出 `wiki/` 至 `meta/`；「三战」并入[法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)（同一事件只设一条条目）。",
-          "hash": "8fe764cd9c69894e8fe26843b04944750eb3bfb79a47e0b0391f908c871694f6",
+          "markdown": "- **条目范围**　同一事件设一条条目。[法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)与[第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)分别记录近代法术研究和世界战争。",
+          "hash": "8fead2d26c7602c7bbdcb7b955ad9bf1130a69655f03eeaf1ed797dd6bea3d79",
           "metadata": {}
         },
         {
@@ -3170,6 +3184,13 @@
           "kind": "markdown",
           "markdown": "- [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)",
           "hash": "f9e94890fd1cc6919faa5fc5d4a2b3f7f1df60bfe92e8ac28c346af510c97310",
+          "metadata": {}
+        },
+        {
+          "id": "0b7b263b-0065-4dca-9934-d63048fc46a3",
+          "kind": "markdown",
+          "markdown": "- [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)",
+          "hash": "154f6061327838c0dfdc0ec7f4f8b0536ddb25433d5cc20a0f846a1e4b9cb8bd",
           "metadata": {}
         },
         {
@@ -3385,8 +3406,8 @@
         "page_id": "page_b8a71927c26481918f36afed2daffa72",
         "title": "编务与来源导读"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T12:00:32.821928Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:36:09.551649Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
@@ -3469,8 +3490,8 @@
         {
           "id": "bfae12de-f148-4ec5-b1ec-55f452d9a473",
           "kind": "markdown",
-          "markdown": "| 规范名 | 类别 | 别名/异写 | 备注 |\n|---|---|---|---|\n| 陆拾肆企划 | 全企划暂名 | 陆拾肆企划（旧暂称） | ✅ Q1.10：企划暂名“陆拾肆”，正式名待成型后确定 |\n| 观 | 角色 | 秦言（队长所起）、报童（何守办事所接委托期间他人所起代称）、“主角”（vvdworld 该段叙事主体指观，历史语境） | 卦象拟人（观卦）；64 卦之一；与主角=造物-造主关系（大后期揭示） |\n| 主角 | 角色 | 暂无正式名 | 男性故事主角（周文王轮回体）；名字未定 |\n| 柏格宁 | 地点 | 拜格宁（异写，仅词条历史/引文） | 桥城：市中心在数公里宽大桥上（v0.0.3） |\n| 柏格宁房东 | 角色 | 莉雅（旧名，已让予神官之女；正文一律“柏格宁房东”） | 名字待定；H-18/Q2.3：正文与链接一律“柏格宁房东” |\n| 莉雅（教会神官之女） | 角色 | 利亚（metree page13 AI 稿用字） | “莉雅”现指神官之女；AI 稿人名重制时处理 |\n| 赫拉小队 | 组织 | 行脚商小队、行商小队（同队异称） | 队名=赫拉小队；职业=行脚商；队长=给秦言起名者 |\n| 何守 | 角色 | 办事所主 | 毒魔教团柏格宁线人（始终是）；场所统一“办事所” |\n| 柏格宁城建负责人 | 角色 | 城建负责人 | 战后留任、负责桥城专项建设的军官；正式官职与姓名按出场需要补充。 |\n| 仪 | 角色 | 由仪？ | 赫拉小队队长；[推断]=给秦言起名者 |\n| 邘陇 / 潘 / 狄俄斯 | 角色 | —（仅列名） | 赫拉小队成员；细节待补（Q2.4：先不编写成员具体信息） |\n| 瀚海阑干百丈星 | 角色 | 澜星；页题化用“瀚海阑干百丈冰”改“星”（岑参诗） | 本名“？”；亡灵能力=法术“效果”类（v0.0.3） |\n| 以西结 | 角色 | Ezequiel（档案页拼写） | 世代代号；教团最重要“人形圣器”（v0.0.3） |\n| 梅蒂欣 | 角色 | 毒魔 | 2026-11-15：按本轮对话建立人物条目；毒为权柄，归乡与思念风见幽香为行动动机。东方来源与药神备选路线归创作工作台。 |\n| 缇尔莉斯 | 角色 | 苍翠隼影、翠隼（代号）、Phantom-幽灵协议 | ✅ v0.0.3+（003 标题规范）：本名＝缇尔莉斯，改以本名为规范名与页题 |\n| 拜尔丹·卡兹米娅 | 角色 | 深黑祷者、卡兹米娅、凋零骷髅 | ✅ v0.0.3+（003 标题规范）：本名＝拜尔丹·卡兹米娅，改以本名为规范名与页题；下界“中世纪西方”风格=社会形态落后+美术风格 |\n| 艾米丽 | 角色 | 艾米莉/安米莉/爱丽尔（旧异写，仅词条历史）；渐冻症（能力名）；悬丝之王（伏笔称名） | ✅ v0.0.3 统一“艾米丽”；年龄 9 岁；“罗瓦依州普通村庄”=废案；泽萍=另一大洲 |\n| 菈比 | 角色 | od（旧暂称，Overdose 元素）、未眠少女/滴泪妹（旧描述） | ✅ v0.0.3：菈比=od 同一角色（append/菈比）；条目已融合 |\n| 西格露恩 | 角色 | 明夷、湖神大人、Sigrún | ✅ 2026-10-17 用户采纳正式名“西格露恩”；“明夷”保留为卦象代指及旧用名。对应明夷卦的西洋剑剑灵，能够激发并操控恶念；不将借鉴游戏的绯月日期认定为固定活动规则 |\n| 赫拉尔伯敏 | 角色 | （无；白瞳特征） | v0.0.3 新条目：神秘灾厄引路人；白瞳不可伪装；动机留白 |\n| 魏淳 | 角色 | 卫樽（转生后）；中学学部在读（旧部名仅历史） | 死亡=古代神复活步骤之一环（v0.0.3） |\n| 卫樽 | 角色 | 魏淳（转生前） | 另一具肉体/神之遗躯语境；身份为捏造 |\n| 余散 | 角色 | 雨空和伞（旧页题/用名） | ✅ v0.0.3+（003 标题规范）：本名＝余散，改以本名为规范名与页题；从神；就读源灵学苑高中部（源二外） |\n| 源灵学苑 | 组织/地点 | 源二外=高中部 | 学部名称正文不出现（Q2.6）；流感设定已修订 |\n| 穆克希戈 | 国家 | — | 属罗瓦伊大洲（CONF-13） |\n| 泽萍 | 大洲 | — | v0.0.3：另一大洲（艾米丽出身地“泽萍-岷山”属此；岷山县所属国家未定） |\n| 罗瓦伊 | 大洲 | 罗瓦伊洲 | 整体落后（参考亚非拉）；源灵本部位于另一发达大洲（名未定） |\n| 白萨尼斯 | 地点 | — | 政体未定暂称“首相”；商业“耶路撒冷” |\n| 法术 | 概念 | 法术革命=三战 | 定义与流派见 `01-基础设定/法术体系.md`（v0.0.3 修订） |\n| 魔法 | 概念 | — | ✅ H-22：魔法并非不存在的词——专指**神与魔的力量**，与法术截然不同；教材《法术学导论》（旧题《魔法学导论》仅历史） |\n| 神魔体系 | 概念 | 神/魔=精神体生物；神之遗躯 | v0.0.3 新条目 `01-基础设定/神魔体系.md` |\n| ZZ0381 草原禁域 | 地点/档案 | “草原” | v0.0.3 独立条目（不再并入险域与禁域）；只能进不能出/被遗忘机制 |\n| 险域/禁域 | 概念 | 1–5 级险域；禁域更高 | 制度条目见 `01-基础设定/险域与禁域.md` |\n| 异常协会 | 组织 | 资料局/管理局 [推断] | 联合国（虚构组织，借鉴现实+法术部门）授权 |\n| 联合国 | 国际组织 | — | v0.0.3：虚构组织，借鉴现实原型并本土化（设法术相关机构），勿与现实混淆 |\n| 毒魔教团 | 组织 | 毒魔使徒；崇拜对象=梅蒂欣（毒魔） | 在许多影响格局的组织布眼线/部分掌控（v0.0.3） |\n| 世界警署 | 组织 | — | 联合国所属的武装治安支援组织；柏格宁由路易斯带队介入。 |\n| 盖维小队 | 组织 | “门”小队字样（词条历史） | 情报特战队/盖维天网/拷贝“千人一体”（v0.0.3）；成员细节不写（Q2.4） |\n| 偃师工造 | 组织 | 偃师（总工程师代号） | 盖维小队制造方与直属方（v0.0.2） |\n| 占卜师 | 角色（自设） | 鷗泊/欧泊/Ob_ALive/OBAL | 作者自设客串；白萨尼斯算命青年已改挂赫拉尔伯敏（v0.0.3） |\n| 鷗泊系生物 | 概念 | — | 占卜师能力现象（历史语境） |\n| 主界 / 下界 | 概念 | — | 物理真实存在的两个世界 |\n| 神界 | 概念 | — | 精神体世界（神灵本体栖息），非物理存在 |\n| 犬娘 等约稿字段 | —（已删除） | 特征条目/特殊条目/调整/约稿现状 | v0.0.3 按 H-17 全部删除，永不复用 |",
-          "hash": "9834a4b215658392c4e2400264760b75cdc9a5c43004e1951f091be16d387e98",
+          "markdown": "| 规范名 | 类别 | 别名/异写 | 备注 |\n|---|---|---|---|\n| 陆拾肆企划 | 全企划暂名 | 陆拾肆企划（旧暂称） | ✅ Q1.10：企划暂名“陆拾肆”，正式名待成型后确定 |\n| 观 | 角色 | 秦言（队长所起）、报童（何守办事所接委托期间他人所起代称）、“主角”（vvdworld 该段叙事主体指观，历史语境） | 卦象拟人（观卦）；64 卦之一；与主角=造物-造主关系（大后期揭示） |\n| 主角 | 角色 | 暂无正式名 | 男性故事主角（周文王轮回体）；名字未定 |\n| 柏格宁 | 地点 | 拜格宁（异写，仅词条历史/引文） | 桥城：市中心在数公里宽大桥上（v0.0.3） |\n| 柏格宁房东 | 角色 | 莉雅（旧名，已让予神官之女；正文一律“柏格宁房东”） | 名字待定；H-18/Q2.3：正文与链接一律“柏格宁房东” |\n| 莉雅（教会神官之女） | 角色 | 利亚（metree page13 AI 稿用字） | “莉雅”现指神官之女；AI 稿人名重制时处理 |\n| 赫拉小队 | 组织 | 行脚商小队、行商小队（同队异称） | 队名=赫拉小队；职业=行脚商；队长=给秦言起名者 |\n| 何守 | 角色 | 办事所主 | 毒魔教团柏格宁线人（始终是）；场所统一“办事所” |\n| 柏格宁城建负责人 | 角色 | 城建负责人 | 战后留任、负责桥城专项建设的军官；正式官职与姓名按出场需要补充。 |\n| 仪 | 角色 | 由仪？ | 赫拉小队队长；[推断]=给秦言起名者 |\n| 邘陇 / 潘 / 狄俄斯 | 角色 | —（仅列名） | 赫拉小队成员；细节待补（Q2.4：先不编写成员具体信息） |\n| 瀚海阑干百丈星 | 角色 | 澜星；页题化用“瀚海阑干百丈冰”改“星”（岑参诗） | 本名“？”；亡灵能力=法术“效果”类（v0.0.3） |\n| 以西结 | 角色 | Ezequiel（档案页拼写） | 世代代号；教团最重要“人形圣器”（v0.0.3） |\n| 梅蒂欣 | 角色 | 毒魔 | 2026-11-15：按本轮对话建立人物条目；毒为权柄，归乡与思念风见幽香为行动动机。东方来源与药神备选路线归创作工作台。 |\n| 缇尔莉斯 | 角色 | 苍翠隼影、翠隼（代号）、Phantom-幽灵协议 | ✅ v0.0.3+（003 标题规范）：本名＝缇尔莉斯，改以本名为规范名与页题 |\n| 拜尔丹·卡兹米娅 | 角色 | 深黑祷者、卡兹米娅、凋零骷髅 | ✅ v0.0.3+（003 标题规范）：本名＝拜尔丹·卡兹米娅，改以本名为规范名与页题；下界“中世纪西方”风格=社会形态落后+美术风格 |\n| 艾米丽 | 角色 | 艾米莉/安米莉/爱丽尔（旧异写，仅词条历史）；渐冻症（能力名）；悬丝之王（伏笔称名） | ✅ v0.0.3 统一“艾米丽”；年龄 9 岁；“罗瓦依州普通村庄”=废案；泽萍=另一大洲 |\n| 菈比 | 角色 | od（旧暂称，Overdose 元素）、未眠少女/滴泪妹（旧描述） | ✅ v0.0.3：菈比=od 同一角色（append/菈比）；条目已融合 |\n| 西格露恩 | 角色 | 明夷、湖神大人、Sigrún | ✅ 2026-10-17 用户采纳正式名“西格露恩”；“明夷”保留为卦象代指及旧用名。对应明夷卦的西洋剑剑灵，能够激发并操控恶念；不将借鉴游戏的绯月日期认定为固定活动规则 |\n| 赫拉尔伯敏 | 角色 | （无；白瞳特征） | v0.0.3 新条目：神秘灾厄引路人；白瞳不可伪装；动机留白 |\n| 魏淳 | 角色 | 卫樽（转生后）；中学学部在读（旧部名仅历史） | 死亡=古代神复活步骤之一环（v0.0.3） |\n| 卫樽 | 角色 | 魏淳（转生前） | 另一具肉体/神之遗躯语境；身份为捏造 |\n| 余散 | 角色 | 雨空和伞（旧页题/用名） | ✅ v0.0.3+（003 标题规范）：本名＝余散，改以本名为规范名与页题；从神；就读源灵学苑高中部（源二外） |\n| 源灵学苑 | 组织/地点 | 源二外=高中部 | 学部名称正文不出现（Q2.6）；流感设定已修订 |\n| 穆克希戈 | 国家 | — | 属罗瓦伊大洲（CONF-13） |\n| 泽萍 | 大洲 | — | v0.0.3：另一大洲（艾米丽出身地“泽萍-岷山”属此；岷山县所属国家未定） |\n| 罗瓦伊 | 大洲 | 罗瓦伊洲 | 整体落后（参考亚非拉）；源灵本部位于另一发达大洲（名未定） |\n| 白萨尼斯 | 地点 | — | 政体未定暂称“首相”；商业“耶路撒冷” |\n| 法术 | 概念 | — | 施法者通过精神力量影响物质世界。见[法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1)。 |\n| 法术场流 | 施法环境 | 场流 | 自然界中离散分布的法术能量的一种形式。 |\n| 场能 | 法术能量 | — | 施法可利用的能量，可以从环境取用、预先储备或由个体自行激发。 |\n| 平凡之地 | 地理概念 | — | 场流微弱、缺乏本地特异法术材料的地区。 |\n| 法术能力者 | 施法者 | 天生施法者、SAR | 天生具备一种独特施法方式。自行激发场能是另外需要掌握的高阶技巧。 |\n| [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 历史事件 | — | 近代法术研究与教学逐步发展的历史过程。 |\n| [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | 历史事件 | 三战 | 以国家间地缘政治利益冲突为主因的世界大战。 |\n| 魔法 | 概念 | — | ✅ H-22：魔法并非不存在的词——专指**神与魔的力量**，与法术截然不同；教材《法术学导论》（旧题《魔法学导论》仅历史） |\n| 神魔体系 | 概念 | 神/魔=精神体生物；神之遗躯 | v0.0.3 新条目 `01-基础设定/神魔体系.md` |\n| ZZ0381 草原禁域 | 地点/档案 | “草原” | v0.0.3 独立条目（不再并入险域与禁域）；只能进不能出/被遗忘机制 |\n| 险域/禁域 | 概念 | 1–5 级险域；禁域更高 | 制度条目见 `01-基础设定/险域与禁域.md` |\n| 异常协会 | 组织 | 资料局/管理局 [推断] | 联合国（虚构组织，借鉴现实+法术部门）授权 |\n| 联合国 | 国际组织 | — | v0.0.3：虚构组织，借鉴现实原型并本土化（设法术相关机构），勿与现实混淆 |\n| 毒魔教团 | 组织 | 毒魔使徒；崇拜对象=梅蒂欣（毒魔） | 在许多影响格局的组织布眼线/部分掌控（v0.0.3） |\n| 世界警署 | 组织 | — | 联合国所属的武装治安支援组织；柏格宁由路易斯带队介入。 |\n| 盖维小队 | 组织 | “门”小队字样（词条历史） | 情报特战队/盖维天网/拷贝“千人一体”（v0.0.3）；成员细节不写（Q2.4） |\n| 偃师工造 | 组织 | 偃师（总工程师代号） | 盖维小队制造方与直属方（v0.0.2） |\n| 占卜师 | 角色（自设） | 鷗泊/欧泊/Ob_ALive/OBAL | 作者自设客串；白萨尼斯算命青年已改挂赫拉尔伯敏（v0.0.3） |\n| 鷗泊系生物 | 概念 | — | 占卜师能力现象（历史语境） |\n| 主界 / 下界 | 概念 | — | 物理真实存在的两个世界 |\n| 神界 | 概念 | — | 精神体世界（神灵本体栖息），非物理存在 |\n| 犬娘 等约稿字段 | —（已删除） | 特征条目/特殊条目/调整/约稿现状 | v0.0.3 按 H-17 全部删除，永不复用 |",
+          "hash": "11fbb1958c7754c642862555d5d844479c693d4a910042b2efc2bbd8e8fab2f3",
           "metadata": {}
         },
         {
@@ -3548,6 +3569,27 @@
           "kind": "markdown",
           "markdown": "- [文档维护规则](https://chatgpt.com/space/page_ab0e26bc6d908191a4ac386488c97990)",
           "hash": "73ce6c0991de9e4f8b4a6ab3aea5198f890646186a77bb61f00c67d676e6928a",
+          "metadata": {}
+        },
+        {
+          "id": "19e6ad4b-fe35-49ea-afff-88fbd494afbf",
+          "kind": "markdown",
+          "markdown": "- [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1)",
+          "hash": "dcf5f28127fb6a1bcf56d5bbfeb1d11ce1d50a7857598e0ad89dbc14c796ca11",
+          "metadata": {}
+        },
+        {
+          "id": "720d5a6a-e9b8-4bc5-b606-94a1a395a781",
+          "kind": "markdown",
+          "markdown": "- [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)",
+          "hash": "f9e94890fd1cc6919faa5fc5d4a2b3f7f1df60bfe92e8ac28c346af510c97310",
+          "metadata": {}
+        },
+        {
+          "id": "cc46d5d7-c09e-4036-8e67-948190a78d53",
+          "kind": "markdown",
+          "markdown": "- [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)",
+          "hash": "154f6061327838c0dfdc0ec7f4f8b0536ddb25433d5cc20a0f846a1e4b9cb8bd",
           "metadata": {}
         },
         {
@@ -5786,8 +5828,8 @@
         "page_id": "page_b8a71927c26481918f36afed2daffa72",
         "title": "编务与来源导读"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T12:00:19.450570Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:36:27.678783Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
@@ -5813,6 +5855,20 @@
         },
         {
           "id": "4c7425eb-cc21-4f5f-8685-a47f3587f2f5",
+          "kind": "markdown",
+          "markdown": "## 既往问题与现行口径",
+          "hash": "b927815c2e8dec41832c882caebe77b53415330c33c70cb18c1515a717dda042",
+          "metadata": {}
+        },
+        {
+          "id": "1403b2d2-7993-4a94-8ee6-3848fffa2e21",
+          "kind": "markdown",
+          "markdown": "法术革命与第三次世界大战已分列。战争以国家间的地缘政治利益冲突为主因。法术革命的起讫、三战的导火索与参战阵营尚待确定。",
+          "hash": "db2ffa582aa2cd37a6487c71b47f4016590204c463b07bee23f8869d4252b083",
+          "metadata": {}
+        },
+        {
+          "id": "4772943e-2faa-469e-b506-1f9a31f83022",
           "kind": "markdown",
           "markdown": "> 规则（2026-10-16 同步）：作者拍板后更新本表状态、术语表与相关条目的设定正文；来源比较和取舍过程留在本表，不在条目补建“版本与分歧”或“词条历史”。raw 原文永不改动。下表及历次记录中的栏目位置是当时的落地记录，不作为恢复已删除栏目、页面或旧措辞的指令。",
           "hash": "c47c5f70291bb998abd2b8cf2caaa057a3ef2178f6b4220867108dd6d0a06369",
@@ -5870,8 +5926,8 @@
         {
           "id": "2fe4bc80-7d72-4d2e-9319-4d3456c94916",
           "kind": "markdown",
-          "markdown": "| 编号/条目 | v0.0.3 处理 |\n|---|---|\n| CONF-17（战争编号/结束口径） | 已答复（H-23 + append/世界纪年相关）：世界观共**三次世界大战**——一、二战≈现实一、二战（附奇幻色彩）；法术革命=**三战**；三战各地陆续结束（1897 古德尔局部结束→世界尺度 1900 走向结束）。“1900 初步/正式宣布”措辞差异保留原文记录。三战条目删除事件过程、保留影响 |\n| CONF-18（时代起点/联合国） | 已答复：具体年份系作者随手设定、仅参考；世界观 1900≈现实 2200（软科幻近未来想象）；联合国=虚构组织（借鉴现实原型并本土化，设法术相关部门）。AI 稿“21 世纪中叶”等旧口径入词条历史 |\n| CONF-19（总名） | 企划暂名定为“陆拾肆”（Q1.10）；正式名待定 |\n| B-03（亡灵体系归属） | 已答复（append/法术相关）：亡灵法术=**施法效果**，与花药/符文/附魔等按施法方式划分的流派不构成并列 |\n| B-04（犬娘/约稿字段） | 已注销：约稿相关内容按 H-17 从 wiki 彻底删除、永不复用；“犬娘”等约稿字段不再入典 |\n| H-17 | 约稿内容彻底删除（价目表/接稿状态/特征条目等）；原始 CSV 仍留 raw 只读区 |\n| H-18 / Q2.3 | 房东一律“柏格宁房东”（正文+链接已统一） |\n| H-22 | 魔法=专指神与魔的力量，与法术截然不同；教材更名《法术学导论》（旧题入词条历史） |\n| H-23 | 见 CONF-17 行；“提及的世界大战只有两次（一战·悬丝之王；三战·法术革命）”与“三次世界大战（一、二战映射现实）”两口径的合并说明见时代与纪年/三战词条历史 |\n| Q2.1 | 苏醒地=老城区定案；断剑五天修复失败→困境自愈；废弃商场桥段正式化（报童扬名/接委托之后，主角受托登场） |\n| Q2.2 | 何守始终为线人；帮助→认识→接委托先后关系；办事所线与转让失踪线=连贯先后剧情无砍段 |\n| Q2.4 | 盖维小队条目不写成员细节（仅整体） |\n| Q2.5 | 观能力只写当前状态（意图之丝=初级），后续留白 |\n| Q2.6 | 源灵学部正文不提名，按功能/阶级介绍 |\n| Q1.1~Q1.9、B-01/B-02/B-05、H-19/20/21 | 仍开放（等待作者进一步答复或附录材料） |",
-          "hash": "6e5a5ec2a4a62cd6022ea8cdf2611ef4397fbfda9aaef315c84b6d9a1f6b4787",
+          "markdown": "| 编号/条目 | v0.0.3 处理 |\n|---|---|\n| CONF-17（战争编号与停战时间） | 世界观共经历三次世界大战。一、二战在现实历史参照上加入奇幻因素。1897 年古德尔地区停战，1900 年世界范围的战事走向结束。法术革命的起讫另计。 |\n| CONF-18（时代起点/联合国） | 已答复：具体年份系作者随手设定、仅参考；世界观 1900≈现实 2200（软科幻近未来想象）；联合国=虚构组织（借鉴现实原型并本土化，设法术相关部门）。AI 稿“21 世纪中叶”等旧口径入词条历史 |\n| CONF-19（总名） | 企划暂名定为“陆拾肆”（Q1.10）；正式名待定 |\n| B-03（亡灵体系归属） | 已答复（append/法术相关）：亡灵法术=**施法效果**，与花药/符文/附魔等按施法方式划分的流派不构成并列 |\n| B-04（犬娘/约稿字段） | 已注销：约稿相关内容按 H-17 从 wiki 彻底删除、永不复用；“犬娘”等约稿字段不再入典 |\n| H-17 | 约稿内容彻底删除（价目表/接稿状态/特征条目等）；原始 CSV 仍留 raw 只读区 |\n| H-18 / Q2.3 | 房东一律“柏格宁房东”（正文+链接已统一） |\n| H-22 | 魔法=专指神与魔的力量，与法术截然不同；教材更名《法术学导论》（旧题入词条历史） |\n| H-23 | 见 CONF-17 行；“提及的世界大战只有两次（一战·悬丝之王；三战·法术革命）”与“三次世界大战（一、二战映射现实）”两口径的合并说明见时代与纪年/三战词条历史 |\n| Q2.1 | 苏醒地=老城区定案；断剑五天修复失败→困境自愈；废弃商场桥段正式化（报童扬名/接委托之后，主角受托登场） |\n| Q2.2 | 何守始终为线人；帮助→认识→接委托先后关系；办事所线与转让失踪线=连贯先后剧情无砍段 |\n| Q2.4 | 盖维小队条目不写成员细节（仅整体） |\n| Q2.5 | 观能力只写当前状态（意图之丝=初级），后续留白 |\n| Q2.6 | 源灵学部正文不提名，按功能/阶级介绍 |\n| Q1.1~Q1.9、B-01/B-02/B-05、H-19/20/21 | 仍开放（等待作者进一步答复或附录材料） |",
+          "hash": "119835307f7d4cf0595fabbb45c30c7ec0dd087c9a26bc2f8be88dd1cb7f769f",
           "metadata": {}
         },
         {
@@ -9055,8 +9111,8 @@
         "page_id": "page_3bbb2f5b11808191bcc6a18ef8723ea9",
         "title": "06 能力与超常"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T11:57:33.919121Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:37:43.608442Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
@@ -9177,6 +9233,13 @@
           "markdown": "- [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1)",
           "hash": "dcf5f28127fb6a1bcf56d5bbfeb1d11ce1d50a7857598e0ad89dbc14c796ca11",
           "metadata": {}
+        },
+        {
+          "id": "a1a5d91a-172f-42ff-8502-829f054c8f4b",
+          "kind": "markdown",
+          "markdown": "- [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)",
+          "hash": "f9e94890fd1cc6919faa5fc5d4a2b3f7f1df60bfe92e8ac28c346af510c97310",
+          "metadata": {}
         }
       ]
     },
@@ -9279,15 +9342,15 @@
         "page_id": "page_0e22a04a5f448191b9639c923be07845",
         "title": "05 历史事件"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T11:57:19.130486Z",
+      "current_sequence": 4,
+      "updated_at": "2026-11-23T07:36:41.903415Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
           "id": "b0fdfc52-5c82-45cf-a8d1-c682d4ecd7c1",
           "kind": "markdown",
-          "markdown": "法术革命即第三次世界大战。战争在各地陆续结束，古德尔地区于 1897 年停战，世界范围的战争于 1900 年走向结束。战后，[法术](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1)正式进入大众视野并得到社会接纳，成为战后社会的重要组成部分。",
-          "hash": "48d811c0f89c8bfe8076e671812ad5344a56c7fde571d6b03bc5990575424345",
+          "markdown": "法术革命是近代对[法术](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1)的系统研究逐步兴起，并影响教学与社会生活的历史过程。古籍已有法术现象的记载。直到近代，各地居民接触法术的机会仍相差很大。",
+          "hash": "a3c951df4c76dda6bc81ea348f36630b1376b978c3018c769b386fa67d5bbf23",
           "metadata": {}
         },
         {
@@ -9300,29 +9363,50 @@
         {
           "id": "f219bae0-65aa-4b6e-bbc4-0667263729b0",
           "kind": "markdown",
-          "markdown": "| 项目 | 内容 |\n|---|---|\n| 时间 | 各地陆续结束；1897 年古德尔地区停战，1900 年世界范围走向结束 |\n| 范围 | 全球 |\n| 相关机构 | 法术协会，诞生于革命之初 |\n| 结果 | 法术得到社会接纳 |",
-          "hash": "9e9abd2b8f3042c849ed8d47b6204c7c9ff49f9df2b608bd1095cd2d9e8bb22d",
+          "markdown": "| 项目 | 内容 |\n| --- | --- |\n| 时代背景 | 第二次世界大战后，法术研究逐渐形成体系 |\n| 相关机构 | 法术协会，成立于革命之初 |\n| 主要变化 | 对古籍所载现象的考证、学校教学的修订、对施法者的系统调查 |",
+          "hash": "e5486ff8c9b99bfd98c8cb05c697f1092551fb35dd3ff5af02a6a028631b683f",
           "metadata": {}
         },
         {
           "id": "2c1d8d02-932f-41e6-b8b6-b5d733760029",
           "kind": "markdown",
-          "markdown": "## 影响",
-          "hash": "5ae387cd46f6599f668644f64925637f55efb2c78619bcafc871f8a15a1728e9",
+          "markdown": "## 从古籍考证到公开争论",
+          "hash": "9a0580499a7c875cf2d708d8e4dd22dd500d4ccec5282449c5898b30f34d5af2",
           "metadata": {}
         },
         {
           "id": "6db2dd9d-c188-41ae-967a-274546994a9a",
           "kind": "markdown",
-          "markdown": "革命结束后，法术与科技并存于社会生活中。1901 年国际法术协会发布长期施法者精神健康调查报告，1903 年联合国授权[异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73)调查世界各地的禁域。",
-          "hash": "d620eb0bcd87004195dc83c50bdd6addcabb20b86ab4f1a9e0274757c2a8889b",
+          "markdown": "法术协会曾陆续证实古籍中的若干记载，并研究其中的机理。1888 年，与协会对立的几个国家宣布登月成功，借此回应古籍中“不可触之月”的说法。次年，协会管辖地区的学校修订教材，将“不可”究竟指“不可能”还是“不可以”列为未决问题。这场争论从研究者之间扩展到了学校和公众。详见[不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a)。",
+          "hash": "3f5b3e8b35aee080a1048c7108e1ec4ccc563487584a7ec20cd7e28b0b063be9",
           "metadata": {}
         },
         {
           "id": "a40d048f-3491-49f1-baab-c39d396f9d47",
           "kind": "markdown",
-          "markdown": "战后建设与贸易也改变了城市发展。[柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518)在当地停战后得到拨款建设港口，并于 1900 年投入使用；[白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d)的首都则在法术革命后被称为“商业界的耶路撒冷”。",
-          "hash": "a7d51f82e540ddc4e4aab07c2adfa75f2c28ffd9e30a04b7383b7ee45b4a89d5",
+          "markdown": "## 施法者研究",
+          "hash": "34451ef91e7a5bca3f279bf21b76a5158ad14093d133d06ee35e4df25f673855",
+          "metadata": {}
+        },
+        {
+          "id": "436f293e-d0f7-4762-b791-2182760888bc",
+          "kind": "markdown",
+          "markdown": "到 1901 年，国际法术协会已对五十万名长期法术使用者进行抽样调查，并公开发表了有关施法与精神健康的报告。[《法术学导论》](https://chatgpt.com/space/page_404f609224e081919f7d15a6bf85f34c)记述了调查结果，以及职业选择对解释这些结果的影响。",
+          "hash": "6b41dfe1faf427ad5ebe619eb12a57bca902ac4cb9027f386d492f2484bc5f61",
+          "metadata": {}
+        },
+        {
+          "id": "287318bf-9057-4d2f-85fb-d08303a10319",
+          "kind": "markdown",
+          "markdown": "## 地域差异",
+          "hash": "b53483a6a6efefc73bed31eacd942ddcbbcf9cf9849d2197f33a366af28ef8f0",
+          "metadata": {}
+        },
+        {
+          "id": "4c18579e-65c9-4e1a-8ea1-252ee6c1ebab",
+          "kind": "markdown",
+          "markdown": "自然场流充足的地区可以长期利用当地的特殊材料，逐渐形成各自的施法传统。大片场流微弱的平凡之地则缺少这些材料，居民日常也难得见到施法。1889 年，法术协会管辖地区的学生已在教材中读到古籍争议。到了[第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)期间，仍有人把法术当作传说，希望能到法术兴起的大陆亲眼见证。",
+          "hash": "f8ea43db9433bb23e14ea04245c8b60786c27842c33a681b83f4478e2758e2ff",
           "metadata": {}
         },
         {
@@ -9335,8 +9419,8 @@
         {
           "id": "6d8ae058-4abc-47db-94b7-fcb209ba616b",
           "kind": "markdown",
-          "markdown": "| 属性 | 内容 |\n| --- | --- |\n| 别名 | 第三次世界大战、三战、法术革命战争 |\n| 类型 | 历史事件 |\n| 标签 | 世界史 |\n| 完成度 | 较完整 |\n| 正典性 | 存疑 |",
-          "hash": "5a4131483d3a89e199c572f660d05bda30600c08e2ab1b23a4604a203036660c",
+          "markdown": "| 属性 | 内容 |\n| --- | --- |\n| 类型 | 历史事件 |\n| 标签 | 世界史 |\n| 完成度 | 较完整 |\n| 正典性 | 存疑 |",
+          "hash": "03c2bd72e13b65a66d02e070732270ed6db3ba4761fd3abc682e1965af50b9a9",
           "metadata": {}
         },
         {
@@ -9363,22 +9447,22 @@
         {
           "id": "4c54abe7-0f0f-4cc8-8243-bacaba8cf5e3",
           "kind": "markdown",
-          "markdown": "- [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518)",
-          "hash": "115f10658d30b23f0dfc8deb7865d09e089220aeaac408538964d0f25d2c625c",
+          "markdown": "- [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a)",
+          "hash": "4a03159578fea327e2d9c584cc73e13748858a7238923caa041c265c3a1eeaa2",
           "metadata": {}
         },
         {
           "id": "c2e2c64a-6a29-452b-8718-4f7fbd043dc3",
           "kind": "markdown",
-          "markdown": "- [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d)",
-          "hash": "fff55b71f8d70a9a75cc92c6061b82e6aaccd1ffa1d38613954c1e41326e5186",
+          "markdown": "- [法术学导论](https://chatgpt.com/space/page_404f609224e081919f7d15a6bf85f34c)",
+          "hash": "e259eeec3dd690673bae9408fa37080e5381c861d1232f9b51e214c25a7aa81e",
           "metadata": {}
         },
         {
-          "id": "91a67b0e-10b3-4adb-ad32-2cce625a1230",
+          "id": "2dfe2b41-b99c-4e3f-bc7d-f28c22bfd812",
           "kind": "markdown",
-          "markdown": "- [异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73)",
-          "hash": "5ddda9af5ca1a336b53ef8cd5d36afe3ab23442324d84c4bac514b616d545242",
+          "markdown": "- [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)",
+          "hash": "154f6061327838c0dfdc0ec7f4f8b0536ddb25433d5cc20a0f846a1e4b9cb8bd",
           "metadata": {}
         },
         {
@@ -9419,8 +9503,8 @@
         {
           "id": "ad6acc5b-ba0b-44ad-8ad3-f469976287c5",
           "kind": "markdown",
-          "markdown": "- [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d)",
-          "hash": "fff55b71f8d70a9a75cc92c6061b82e6aaccd1ffa1d38613954c1e41326e5186",
+          "markdown": "- [术语规范与别名对照](https://chatgpt.com/space/page_e051792c256c8191939b37ff4d84e838)",
+          "hash": "e311d61bc087e9e283e9a17188e92f8fa3d5719194c60540b04b2857fad38b06",
           "metadata": {}
         },
         {
@@ -9608,8 +9692,8 @@
         "page_id": "page_0e22a04a5f448191b9639c923be07845",
         "title": "05 历史事件"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T11:57:05.499792Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:37:33.979798Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
@@ -9757,6 +9841,13 @@
           "kind": "markdown",
           "markdown": "- [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7)",
           "hash": "05a8348ce3c97a7c7ace9c7f43853faf216fa63607002b2efa87c6cb798a059f",
+          "metadata": {}
+        },
+        {
+          "id": "1032d698-7f3c-4333-8d42-b9b7043ca6ad",
+          "kind": "markdown",
+          "markdown": "- [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)",
+          "hash": "f9e94890fd1cc6919faa5fc5d4a2b3f7f1df60bfe92e8ac28c346af510c97310",
           "metadata": {}
         }
       ]
@@ -11554,8 +11645,8 @@
         "page_id": "page_cd4b58931fac81918d4ac81ec06475f2",
         "title": "04 人物角色"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T11:56:00.375064Z",
+      "current_sequence": 3,
+      "updated_at": "2026-11-23T07:36:52.819037Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
@@ -11666,15 +11757,15 @@
         {
           "id": "6eeee78c-c1fc-4825-b76e-4ba5788b2baa",
           "kind": "markdown",
-          "markdown": "- 研究所关押处→被首相赎买带往白萨尼斯→ 任暗卫至今。",
-          "hash": "57816df8df134aba7d7aa9a67cc6393b4e1811a2c54c64beefe31670ca8da032",
+          "markdown": "[第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)期间，尚未失忆的澜星与男友在白撒尼斯躲避战火。在两人的家乡，法术向来被当作想象中的事物。谈起战争结束后的生活时，两人最想先去那片法术兴起的大陆，亲眼见一见真正的法术。",
+          "hash": "3118cf38ca3c2a43eac61d85c6ad375b4789a060f859a8e22c0226b67d3c82d0",
           "metadata": {}
         },
         {
           "id": "9cec55dc-c201-4c6f-8720-f91e9454ea80",
           "kind": "markdown",
-          "markdown": "- 市中心/医院轶事见下。",
-          "hash": "4f8851252f752a28305a87fd6ad6186cc8bcdd7820f82502ac236551adb056ca",
+          "markdown": "失忆后，澜星曾被关在研究所。白萨尼斯首相在那里将她赎出，带往白萨尼斯，随后安排她进入暗卫队伍。",
+          "hash": "74ba822fd33107a88d2f6cdd1bda6d361341ff1479ee9f0472dbabd0a9dbd342",
           "metadata": {}
         },
         {
@@ -11783,6 +11874,13 @@
           "metadata": {}
         },
         {
+          "id": "5b742a83-9dbe-406c-8381-57fb96f9cd01",
+          "kind": "markdown",
+          "markdown": "- [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)",
+          "hash": "154f6061327838c0dfdc0ec7f4f8b0536ddb25433d5cc20a0f846a1e4b9cb8bd",
+          "metadata": {}
+        },
+        {
           "id": "e61857a9-5da8-4bb7-9333-a64262c3381a",
           "kind": "markdown",
           "markdown": "## 引用本页",
@@ -11808,6 +11906,13 @@
           "kind": "markdown",
           "markdown": "- [小秋](https://chatgpt.com/space/page_712f48adb57881918e70bf7bacdd508d)",
           "hash": "79338d517f52457b672e128bf9c67054f95b855120c989b2992beac4ec1ebd8d",
+          "metadata": {}
+        },
+        {
+          "id": "2b704ca2-0262-4afe-a7be-8b18431c9ceb",
+          "kind": "markdown",
+          "markdown": "- [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)",
+          "hash": "154f6061327838c0dfdc0ec7f4f8b0536ddb25433d5cc20a0f846a1e4b9cb8bd",
           "metadata": {}
         }
       ]
@@ -11953,15 +12058,15 @@
         "page_id": "page_cd4b58931fac81918d4ac81ec06475f2",
         "title": "04 人物角色"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T11:55:50.718201Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:36:35.524748Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
           "id": "1041a6fb-7fe3-416b-93fa-3b6c41b0f616",
           "kind": "markdown",
-          "markdown": "**概述**：柏格宁别墅区一栋别墅的房主/房东：自己一人独住，近段时间开始把部分房间划出分段出租，租客为[观（秦若孚）](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496)与[赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04)。二十多岁，在前几年才结束没多久的世界大战中失去双亲与家庭，政府将这栋地段并不好的别墅作为战后对幸存者的补偿给了她；现已当中学教师近三年。",
-          "hash": "63fc3f86affae1e2b7dc91ac03ad79bf39b202ef61a8c4c6d5f61259e0aa272d",
+          "markdown": "**概述**：柏格宁别墅区一栋别墅的房主/房东：自己一人独住，近段时间开始把部分房间划出分段出租，租客为[观（秦若孚）](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496)与[赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04)。二十多岁，在几年前结束的[第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)中失去双亲与家庭，政府将这栋地段并不好的别墅作为战后对幸存者的补偿给了她；现已当中学教师近三年。",
+          "hash": "48221d9e671ec602355329647195a3948a9b00896b50203cbf27271032894d87",
           "metadata": {}
         },
         {
@@ -12095,6 +12200,13 @@
           "kind": "markdown",
           "markdown": "- [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496)",
           "hash": "f23ebb307aadd6dfc9a19dffee147cb8c77974f46e0ee759303d611940101f0a",
+          "metadata": {}
+        },
+        {
+          "id": "4ee81a42-ff4f-41ad-bb40-d43d695120ab",
+          "kind": "markdown",
+          "markdown": "- [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)",
+          "hash": "154f6061327838c0dfdc0ec7f4f8b0536ddb25433d5cc20a0f846a1e4b9cb8bd",
           "metadata": {}
         },
         {
@@ -14781,8 +14893,8 @@
         "page_id": "page_8d08ca157c7c81918f931ee7222d6832",
         "title": "03 组织势力"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T11:54:26.003092Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:37:24.464283Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
@@ -14958,13 +15070,6 @@
           "kind": "markdown",
           "markdown": "- [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b)",
           "hash": "a976c039bbf69d5e9083153cd9c5b545f10716c55201441f2faf8a1e247bce0c",
-          "metadata": {}
-        },
-        {
-          "id": "e4c44ac7-06c7-4916-95fa-4d294b5302c6",
-          "kind": "markdown",
-          "markdown": "- [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)",
-          "hash": "f9e94890fd1cc6919faa5fc5d4a2b3f7f1df60bfe92e8ac28c346af510c97310",
           "metadata": {}
         },
         {
@@ -15551,15 +15656,15 @@
         "page_id": "page_632c7f33de888191804aa40a92c7e7bd",
         "title": "02 地理地区"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T11:53:42.522094Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:34:22.839726Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
           "id": "56a6131f-e879-42fc-b488-43089b427539",
           "kind": "markdown",
-          "markdown": "白萨尼斯是一个国家，首都为白萨尼斯城。其首都在[法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)后成为商业都会，被称为“商业界的耶路撒冷”。时任统治者称为首相，拥有暗卫队伍。",
-          "hash": "4282ce3cd86eb943202fc7bde5e2c962a7d409d7ef39da9a21a0575c7884ccaa",
+          "markdown": "白萨尼斯是一个国家，首都为白萨尼斯城。[第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)后，白萨尼斯城以商业繁盛闻名，被称为“商业界的耶路撒冷”。时任首相设有暗卫队伍。",
+          "hash": "abcf07a2980c15b75b95a7498cdcdb5b1eb4eca0f6406ca68166273d475a3b0a",
           "metadata": {}
         },
         {
@@ -15635,8 +15740,8 @@
         {
           "id": "b63a612a-7979-4811-905b-ad1f818d32a2",
           "kind": "markdown",
-          "markdown": "- [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)",
-          "hash": "f9e94890fd1cc6919faa5fc5d4a2b3f7f1df60bfe92e8ac28c346af510c97310",
+          "markdown": "- [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)",
+          "hash": "154f6061327838c0dfdc0ec7f4f8b0536ddb25433d5cc20a0f846a1e4b9cb8bd",
           "metadata": {}
         },
         {
@@ -15684,8 +15789,8 @@
         {
           "id": "b314f4b1-a031-4c96-9c26-2ffe7a83cc6b",
           "kind": "markdown",
-          "markdown": "- [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)",
-          "hash": "f9e94890fd1cc6919faa5fc5d4a2b3f7f1df60bfe92e8ac28c346af510c97310",
+          "markdown": "- [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)",
+          "hash": "154f6061327838c0dfdc0ec7f4f8b0536ddb25433d5cc20a0f846a1e4b9cb8bd",
           "metadata": {}
         }
       ]
@@ -15698,8 +15803,8 @@
         "page_id": "page_632c7f33de888191804aa40a92c7e7bd",
         "title": "02 地理地区"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T11:53:36.122919Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:34:14.092697Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
@@ -15768,8 +15873,8 @@
         {
           "id": "67ae70ea-e6e0-4d39-a944-f4d5cf434f15",
           "kind": "markdown",
-          "markdown": "- 1897 起：从战事当中脱身的古德尔政府拨款建设本城。",
-          "hash": "2c289b3b17d9b5bff1c22b98aef06839754547a21f50f235153f0033ca16e57d",
+          "markdown": "- 1897 年，古德尔地区在[第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)中的战事结束。政府随后拨款建设柏格宁港。",
+          "hash": "941424255e2500b3ab23f10c37851a43ec80abff2dd561cf48af971b7639e8ca",
           "metadata": {}
         },
         {
@@ -15983,6 +16088,13 @@
           "metadata": {}
         },
         {
+          "id": "ace5f02f-8845-4fe8-b369-d64c8af1570e",
+          "kind": "markdown",
+          "markdown": "- [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)",
+          "hash": "154f6061327838c0dfdc0ec7f4f8b0536ddb25433d5cc20a0f846a1e4b9cb8bd",
+          "metadata": {}
+        },
+        {
           "id": "081ca6fa-1f8a-49fe-a5ad-44c501206a30",
           "kind": "markdown",
           "markdown": "## 引用本页",
@@ -16062,8 +16174,8 @@
         {
           "id": "a314e94c-b912-45d3-995b-e5395ebf19b4",
           "kind": "markdown",
-          "markdown": "- [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)",
-          "hash": "f9e94890fd1cc6919faa5fc5d4a2b3f7f1df60bfe92e8ac28c346af510c97310",
+          "markdown": "- [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)",
+          "hash": "154f6061327838c0dfdc0ec7f4f8b0536ddb25433d5cc20a0f846a1e4b9cb8bd",
           "metadata": {}
         },
         {
@@ -16083,8 +16195,8 @@
         "page_id": "page_632c7f33de888191804aa40a92c7e7bd",
         "title": "02 地理地区"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T11:53:29.742000Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:37:01.071215Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
@@ -16118,8 +16230,8 @@
         {
           "id": "b79bd2c4-fcad-4b4b-8794-d08ed1b469d3",
           "kind": "markdown",
-          "markdown": "- 档案要点：范围位于一片草原之内，地图测绘 2530 平方公里；因内部\"较为严重的空间放缩现象\"，实际面积预估超过 8000 平方公里。主要特征为法术场流极为剧烈；除草地外完全没有任何生命迹象。",
-          "hash": "35a29ed4e5485372f903a2d697545a8451c15577c5f95ff034b0ba44c1a3c0ea",
+          "markdown": "- 档案记载的地图测绘面积为 2530 平方公里。因内部空间放缩，实际面积估计超过 8000 平方公里。当地[法术场流](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1)极为剧烈，除草地外未见其他生命迹象。",
+          "hash": "f54d6ef37f9599279300e3ec079aeea7de530f4ccce18455b23b47cc0756de23",
           "metadata": {}
         },
         {
@@ -16232,6 +16344,13 @@
           "kind": "markdown",
           "markdown": "- [异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73)",
           "hash": "5ddda9af5ca1a336b53ef8cd5d36afe3ab23442324d84c4bac514b616d545242",
+          "metadata": {}
+        },
+        {
+          "id": "e759f1d9-7b4f-4f21-b1ea-1cea01d59325",
+          "kind": "markdown",
+          "markdown": "- [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1)",
+          "hash": "dcf5f28127fb6a1bcf56d5bbfeb1d11ce1d50a7857598e0ad89dbc14c796ca11",
           "metadata": {}
         },
         {
@@ -16482,64 +16601,64 @@
         "page_id": "page_f9d7f3e9d4f481918745947ee6665a79",
         "title": "01 基础设定"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T11:53:11.470668Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:33:42.927356Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
           "id": "23444fd1-44e7-4135-9af6-8423be6f10ec",
           "kind": "markdown",
-          "markdown": "**概述**：行脚商是这个世界中最具冒险气息的职业之一。他们以往来各地经商为主业，同时兼营情报交易、委托接取与悬赏交付等业务。与传统商人不同，行脚商的货物来源并不局限于收购与转售，其中相当一部分来自他们亲自前往野外猎取。在这个存在各式法术与诸多神灵的世界里，他们还承担着跨越遥远地域、运输稀有材料的贸易工作。然而，随着近代贸易公司的兴起，以及发达国家对松散游走的小型武装力量加强管制，行脚商这一职业的生存空间正逐渐受到挤压，前景陷入困境。",
-          "hash": "fff59908fb3ca196ed55942892e0169ff63ef96e560b36e030a74652e62ccf29",
+          "markdown": "行脚商是往来各地贩运货物、采集稀有材料的流动商人，也兼营情报交易、承接委托和交付悬赏。",
+          "hash": "392d6c90b1ccdf356481f687af7f4ce28090447c881855dc19fea61d780f0ff7",
           "metadata": {}
         },
         {
           "id": "1043d88c-1635-4b42-8c25-8834bfee6942",
           "kind": "markdown",
-          "markdown": "## 定义",
-          "hash": "7f70817ac4562b864c06fd7ab4858ff81c362068ab0af731a78c7e9d7b2b6889",
+          "markdown": "## 小队与货源",
+          "hash": "8455308714e95be8a8a6c18c7b672a51fcd59b816e427b7c35357822e2631fa2",
           "metadata": {}
         },
         {
           "id": "083e1bb5-cb78-49fc-8655-7fa9f82a7f46",
           "kind": "markdown",
-          "markdown": "行脚商通常被视为最具冒险气息的职业之一。顾名思义，他们以行走各地、从事商业贸易为主要谋生手段，其核心业务仍然是货物的买入与售出。除此之外，他们也会根据自身条件与市场需求，兼营情报交易、委托接取和悬赏交付等业务。因此，行脚商既是往来各地的流动商人，也是连接不同地区、不同需求与不同委托人的中间人。",
-          "hash": "b2e5e234e442d5d711e8c8eaa614bbbd7742ded487fb42ae5f227138cbd388e6",
+          "markdown": "行脚商一般结成小队，成员以[天生施法者](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1)为主。人数少，组织和维持队伍的开销较低，成员的法术能力又使小队有足够的自卫能力，能够亲赴危险产地取材，并把零散货物运往远方。",
+          "hash": "bb5e765fa2310d29d4c380379691d22ac8ccafa48b0d0d4cfa195f70e0e56037",
           "metadata": {}
         },
         {
           "id": "507cae1e-e1cb-4949-8c3e-1183c6502851",
           "kind": "markdown",
-          "markdown": "## 规则/细节",
-          "hash": "f067bef4b68ebcb2397683bcbe1cbff323ee9b8c681e730ff122b823ebc011c7",
+          "markdown": "## 材料贸易与行业处境",
+          "hash": "39dd77c62c4534faeeaf41c36a25344a1d01777de8516c9f748d15e7d2490c50",
           "metadata": {}
         },
         {
           "id": "58f84ca2-d59a-47bf-938a-55073795e537",
           "kind": "markdown",
-          "markdown": "- 交易形式与货物来源： 与传统商人主要依靠采购和转售不同，行脚商的货物有相当一部分来自他们亲自前往野外猎取。这种经营方式使他们不仅需要具备商业头脑，还必须拥有一定的野外生存能力与自卫手段。经商与冒险由此紧密结合，构成了这一职业的鲜明特点。",
-          "hash": "0614770e69070b90f75f5d8deef98cedae8e2430718deb3e379838d9664e1580",
+          "markdown": "行脚商一部分货物购自他人，相当一部分由成员亲自在野外猎取。自然场流微弱的平凡之地缺少本地特有的法术材料，其他地区出产的材料仍可由行脚商跨区运送。",
+          "hash": "3b6f59c4b4991d77ea8316ba500f5ada785833ba2ee56dabc728af04741a3d54",
           "metadata": {}
         },
         {
           "id": "7c7d98f2-28b2-4f82-a6a2-e78d215b20d0",
           "kind": "markdown",
-          "markdown": "- 市场需求与贸易定位： 在这个存在各式法术与诸多神灵的世界里，不同地区往往拥有各自独特的物产，而神学研究与法术研究又会催生各种特殊的材料需求。例如，身处世界一端的神学家或法术学家，可能急需一种仅产于遥远另一端的稀有材料。这类贸易往往具有需求分散、货量零碎、运输距离遥远且沿途风险较高等特点，难以完全依靠常规商业渠道完成。因此，这部分不安全而又零碎的贸易，往往由行脚商承担。",
-          "hash": "1917051d978c45d093e3e8e35e15c1493705194c0824a2591493db12f6782cc4",
+          "markdown": "来自神学家和法术学家的订单有时只需要少量材料，而产地远在另一片大陆。货量小、路途远且沿途危险，这类买卖尤其适合由能自行护送货物的小队承接。",
+          "hash": "5419c924e48a9ab0c94308445341fc5b2ad144c8d4d4bc16c2df6e02a0cd4f6a",
           "metadata": {}
         },
         {
           "id": "e87b3a06-dd68-48b0-9445-e2c960226562",
           "kind": "markdown",
-          "markdown": "- 行业默契： 对行脚商而言，同行之间的默契往往比个人实力更加重要。由于他们长期在不同地区之间流动，既要面对复杂多变的环境，也需要与其他行脚商共同维持行业内的合作关系。相较于单纯依靠个人实力解决问题，彼此之间形成的默契更有助于他们在充满风险的贸易活动中生存与发展。",
-          "hash": "be99ced171be4ded6bf72c7106213fafdcf9038477530b3028dfdadcf17dd47b",
+          "markdown": "长途贸易也依赖同行长期形成的默契。小队往来于不同地区，要与其他行脚商维持合作关系。",
+          "hash": "214149d177d478cac1b6a5668b081731c3baf4d62ac07933151fc09ad1acf0da",
           "metadata": {}
         },
         {
           "id": "19e8fb78-e517-4b02-8558-e8ebfc13d617",
           "kind": "markdown",
-          "markdown": "- 近代困境： 进入近代后，行脚商的生存环境逐渐恶化，主要原因有二。首先，贸易公司的出现改变了传统的商业竞争格局，进一步压缩了行脚商的经营空间。其次，诸多发达国家开始加强对松散游走的小型武装力量的管制，而行脚商恰恰被归入这一类别，其活动因此受到更多限制。两方面因素相互叠加，使得行脚商原本赖以生存的流动贸易模式面临挑战，也令这一职业的未来充满不确定性。",
-          "hash": "1149c8b315c93e5130fe0539d632f468471a2ebdc32c893256c1d0dd06d63502",
+          "markdown": "近代贸易公司的兴起挤压了行脚商的市场。许多发达国家又将行脚商纳入对流动小型武装的管制，限制了他们的活动。",
+          "hash": "a3f6fba04f6a777812c26951c43c15ff8d12e17662f754faedddd61d2a4e811e",
           "metadata": {}
         },
         {
@@ -16589,6 +16708,13 @@
           "kind": "markdown",
           "markdown": "- [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04)",
           "hash": "2fc453213e70aac6c0b8ea8c3d95d1894c8f885904c837317a28538cfe3eac23",
+          "metadata": {}
+        },
+        {
+          "id": "45c9f3f6-01bf-446e-89d1-ac87001fa4bb",
+          "kind": "markdown",
+          "markdown": "- [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1)",
+          "hash": "dcf5f28127fb6a1bcf56d5bbfeb1d11ce1d50a7857598e0ad89dbc14c796ca11",
           "metadata": {}
         },
         {
@@ -16797,8 +16923,8 @@
         "page_id": "page_f9d7f3e9d4f481918745947ee6665a79",
         "title": "01 基础设定"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T11:53:00.094115Z",
+      "current_sequence": 4,
+      "updated_at": "2026-11-23T07:37:16.718232Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
@@ -16853,8 +16979,8 @@
         {
           "id": "0b11958b-ca0b-41e4-9a73-df7933966270",
           "kind": "markdown",
-          "markdown": "第二次世界大战后，法术逐渐得到系统研究。第三次世界大战即[法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)，法术协会诞生于革命之初。革命结束后，法术正式进入大众视野并得到社会接纳。纪年背景见[时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7)。",
-          "hash": "03a8a8b174449b5a6f4f994966b70fffdab95a6d5480c046cb72c35cedf23c55",
+          "markdown": "古籍中已有法术现象的记载。第二次世界大战后，各地对法术的系统研究逐渐发展。法术协会成立于[法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)之初，参与古籍考证、教学和施法者调查。这些活动在部分地区已进入公共生活时，其他地区的居民仍可能把法术当作传说。相关纪年见[时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7)。",
+          "hash": "bd4159c1c243b7add90a7f2228c70103615fc989f8dfa15c3fef7d3ed62847d3",
           "metadata": {}
         },
         {
@@ -16874,8 +17000,8 @@
         {
           "id": "33abd2eb-7700-4218-8f6d-c87825c5e110",
           "kind": "markdown",
-          "markdown": "流派的根本区别在于精神转化为物质能量的方式，而非最终效果。不同施法方式各有适用范围与局限，实现某一效果的难易程度也随之改变。亡灵法术等名称描述的是施法效果，与下列施法方式不构成并列分类。表中列举的是四种流派，并非全部流派。",
-          "hash": "4b0e3d4360ae892a01b07d69e3aefd8450ccfb08ec2cf19c9c6ddfc1c7397097",
+          "markdown": "流派按施法者以精神引导能量、使其作用于物质的方式划分。不同方式各有适用范围，同一效果在不同流派中也有难易之分。“亡灵法术”等名称描述的是施法效果。下表列出四种常见的施法方式。",
+          "hash": "706fbd7a37984c84377833c9ebc35d2ac66224d591fc8ae2787424e9a9eab222",
           "metadata": {}
         },
         {
@@ -16895,8 +17021,43 @@
         {
           "id": "488ac2e7-cb4a-4fee-89a4-46753c602b91",
           "kind": "markdown",
-          "markdown": "法术场流描述区域法术环境的强度，可由设备观测计量。在[险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085)的探查中，当测量目标或运行环境的关键参数远超设备额定值时，设备会出现被称为“过敏状态”的异常。法术相关设备在场流极高时还可能无法关闭。",
-          "hash": "2b4befef6a1b198f9e626cfba609555b975abc7428e6cf62aeafc5a9e8186851",
+          "markdown": "场流是法术能量在自然界中离散分布的一种形式，构成当地的施法环境。后天习得的术法和天生施法者的能力都可以利用自然场流。大部分地区的环境本身就能供给场能，施法者通常直接从中取用。无论场能来自何处，施法仍需个体以精神引导，并伴随精神消耗。",
+          "hash": "e82c2cccc23b7bd25d98830cf4953c3e5e9e0ceb7275416d8751b35995651204",
+          "metadata": {}
+        },
+        {
+          "id": "ac8e24ca-2d28-40da-b47f-a85f07bef730",
+          "kind": "markdown",
+          "markdown": "场流强度可用仪器测量。在[险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085)的探查中，当测量目标或运行环境的关键参数远超设备额定值时，仪器可能进入所谓的“过敏状态”。场流极强时，法术相关设备甚至可能无法关闭。",
+          "hash": "6a93436c99d34904fc7984d8a64ea08c2bcdd2d3d06346b8ea65f9a16a10d418",
+          "metadata": {}
+        },
+        {
+          "id": "22e278fc-cd8d-47cc-b2f5-082d0cedc300",
+          "kind": "markdown",
+          "markdown": "### 平凡之地",
+          "hash": "e807cff236caf05e699c0f6eada0e90a587ea341c5f42299fd877081bf554e4d",
+          "metadata": {}
+        },
+        {
+          "id": "b9592a69-adc1-4339-8a50-f7ab30e4c222",
+          "kind": "markdown",
+          "markdown": "平凡之地指自然场流微弱的地区，可以绵延成片，覆盖广阔地域。依赖环境场流的术法在这里作用微弱，当地也没有依赖场流形成的特异法术物产。平凡之地偶有法术现象，但居民在日常生活中很少有机会亲眼见到。",
+          "hash": "5e2fcd3aa20a71b783660c552aa6b0a40b7fa30d4daa7f8e348f0bbd2e4e0124",
+          "metadata": {}
+        },
+        {
+          "id": "14e1f273-aaae-4f6a-8c1a-da98650f069f",
+          "kind": "markdown",
+          "markdown": "### 储备场能与自行激发",
+          "hash": "9c7fd60d1fb4f224c414315f0ec29aac7417e2f31b514a47fe1f183d2faa826b",
+          "metadata": {}
+        },
+        {
+          "id": "bd52c44c-5074-41e9-bdad-ff90d9ae87d4",
+          "kind": "markdown",
+          "markdown": "施法所用的能量也可以预先储备。部分天生施法者还掌握了自行激发并运用场能的高阶技巧，在自然场流微弱的地方仍能施展自身能力。许多天生施法者未能掌握这一技巧，各个流派的后天术法也不具备自行激发场能的能力。在自然场流充足的地区，多数施法者很少需要专门储备或自行激发场能。",
+          "hash": "3f7d0b1cc502bb1b2b7ed5c9b836e79d1aca12801ba414126cec3fff3f8db47a",
           "metadata": {}
         },
         {
@@ -16986,8 +17147,8 @@
         {
           "id": "f2ed48ce-01d3-4656-a79d-0ff989d6fe4e",
           "kind": "markdown",
-          "markdown": "法术能力者，又称天生施法者，是一种特殊的法术使用者。与需要通过后天学习掌握特定释放方式的施法者不同，法术能力者天生便具备一种独特的施法方式，无须经过专门学习即可使用法术。从机制上看，他们仿佛先天拥有某种特殊的“法术器官”。这种器官并非物质意义上的实体，而是存在于精神层面的特殊结构，无法通过常规感官直接观察。法术能力者能够凭借自身感官与本能，直接通过这一特殊结构释放法术，其施法机制因而与其他法术使用方式存在根本区别。",
-          "hash": "bb21a6ab07670d91c6ec9eae5d5d769d984c12aabb5afaae30cba92b44f36f44",
+          "markdown": "法术能力者又称天生施法者，简称 SAR。普通人群中也有天生施法者。他们凭感官与本能即可使用一种与生俱来的施法方式。其机制常被比作一种存在于精神层面的“法术器官”，常规感官无法直接观察。天赋决定了个体天生能够怎样施法，自行激发场能则需要另行掌握。",
+          "hash": "5d8b89d9d45dde3de7169c84773a8e2150e2135ef0d616f7b5ebc4595f870312",
           "metadata": {}
         },
         {
@@ -17136,6 +17297,27 @@
           "markdown": "- [陆拾肆企划 Wiki](https://chatgpt.com/space/page_506ceb47a36081919831b478640e9b94)",
           "hash": "beffbe20534e67fbbd68dbd1b5a27b356ee0d972e88c5c34e3ff3330f6e0dd3a",
           "metadata": {}
+        },
+        {
+          "id": "d991129b-2ffb-4ef9-a96a-3b365a1a730b",
+          "kind": "markdown",
+          "markdown": "- [行脚商](https://chatgpt.com/space/page_deab315236a08191b554e4bb9fb4d700)",
+          "hash": "05ea4ca2a02ddc785a7f8d7a07dfe428ab004f75a0db3670a8a8c2f5aa01898a",
+          "metadata": {}
+        },
+        {
+          "id": "5d5dcc30-4020-459a-bac6-2c05ab586e9f",
+          "kind": "markdown",
+          "markdown": "- [术语规范与别名对照](https://chatgpt.com/space/page_e051792c256c8191939b37ff4d84e838)",
+          "hash": "e311d61bc087e9e283e9a17188e92f8fa3d5719194c60540b04b2857fad38b06",
+          "metadata": {}
+        },
+        {
+          "id": "1b296fa8-da52-404c-987d-0c20b136f25e",
+          "kind": "markdown",
+          "markdown": "- [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b)",
+          "hash": "a976c039bbf69d5e9083153cd9c5b545f10716c55201441f2faf8a1e247bce0c",
+          "metadata": {}
         }
       ]
     },
@@ -17147,15 +17329,15 @@
         "page_id": "page_f9d7f3e9d4f481918745947ee6665a79",
         "title": "01 基础设定"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T11:52:52.637162Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:34:03.848393Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
           "id": "58e5097c-393e-4a33-b169-d27cae91c77a",
           "kind": "markdown",
-          "markdown": "本世界观经历过三次世界大战，其中第三次世界大战称为[法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)。第二次世界大战后，法术开始得到系统研究；第三次世界大战结束后，法术正式进入大众视野。",
-          "hash": "8d15874c170e83bc101b52af448a45b08b0a0d7f59487af35db09abbef5da897",
+          "markdown": "本世界先后经历三次世界大战。第二次世界大战后，对法术的系统研究逐渐兴起，这一历史变化称为[法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)。[第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)的主要起因是国家间的地缘政治利益冲突，各地停战时间不一。",
+          "hash": "fc2e7cf39db502d2c919f31e84cf2f4a6f3c90d392e95c1d5ba40e3667f10143",
           "metadata": {}
         },
         {
@@ -17168,8 +17350,8 @@
         {
           "id": "58ab7eac-5437-401f-ae2a-e089a38c1e0b",
           "kind": "markdown",
-          "markdown": "| 年份 | 事件 | 备注 |\n|---|---|---|\n| 1888 | 数国联合开展登月计划，宣布登月成功并实时传回研究图像；后来出现真实性争议。 | [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) |\n| 1889 | 法术协会管辖地区修订教材，为“不可触之月”的“不可”增加含义未定的注释。 | [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) |\n| 1897 起 | 古德尔地区的第三次世界大战结束，政府拨款建设柏格宁港。 | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) |\n| 1897 年 7 月 28—29 日 | 菈比在摄影社以强光和疼痛维持清醒。 | [美工刀](https://chatgpt.com/space/page_074ce15941508191bf861af23fc8bc71) |\n| 1898 | 源灵发生变故，大量学生及滞留人员初次进入社会。 | [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) |\n| 1900 | 法术革命在世界范围内走向结束，柏格宁港建成并投入使用。 | [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) |\n| 1901 | 国际法术协会发布长期法术使用者精神健康调查报告。 | [法术学导论](https://chatgpt.com/space/page_404f609224e081919f7d15a6bf85f34c) |\n| 1903 | 联合国授权异常协会调查世界各地的禁域。 | [异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73) |\n| 1905 年前后及此后十余年 | 柏格宁港产业竞争逐渐结束，幸存企业瓜分市场，并逐步提高服务报价。 | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) |\n| 1979 | 卡兹米娅家族内乱后遭斯托多衮家族进攻，拜尔丹·卡兹米娅流亡主界。 | [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) |",
-          "hash": "1255be487779416f2ff84eb2207e270d3d5bc35ae0239d5f0e0689e805acf96a",
+          "markdown": "| 年份 | 事件 | 备注 |\n|---|---|---|\n| 1888 | 数国联合开展登月计划，宣布登月成功并实时传回研究图像；后来出现真实性争议。 | [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) |\n| 1889 | 法术协会管辖地区修订教材，为“不可触之月”的“不可”增加含义未定的注释。 | [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) |\n| 1897 | 古德尔地区的战事结束，政府拨款建设柏格宁港。 | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) |\n| 1897 年 7 月 28—29 日 | 菈比在摄影社以强光和疼痛维持清醒。 | [美工刀](https://chatgpt.com/space/page_074ce15941508191bf861af23fc8bc71) |\n| 1898 | 源灵发生变故，大量学生及滞留人员初次进入社会。 | [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) |\n| 1900 | 第三次世界大战在世界范围内走向结束，柏格宁港建成并投入使用。 | [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) |\n| 1901 | 国际法术协会发布长期法术使用者精神健康调查报告。 | [法术学导论](https://chatgpt.com/space/page_404f609224e081919f7d15a6bf85f34c) |\n| 1903 | 联合国授权异常协会调查世界各地的禁域。 | [异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73) |\n| 1905 年前后及此后十余年 | 柏格宁港产业竞争逐渐结束，幸存企业瓜分市场，并逐步提高服务报价。 | [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) |\n| 1979 | 卡兹米娅家族内乱后遭斯托多衮家族进攻，拜尔丹·卡兹米娅流亡主界。 | [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) |",
+          "hash": "067eec8d0ab47785458c7062090f09a92bd7b15488fa9af37320522bf9cb9a52",
           "metadata": {}
         },
         {
@@ -17182,8 +17364,8 @@
         {
           "id": "4d033dbc-063a-4ad5-b888-50220816c3e5",
           "kind": "markdown",
-          "markdown": "第一次世界大战期间，悬丝之王·埃尔托萨曾活跃于世。[白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d)在法术革命后成为商业都会。",
-          "hash": "e0d29ee4f5ed5e4a3d9602e16e749b32aec7d8114f11adeb7906e884b1d42d30",
+          "markdown": "第一次世界大战期间，悬丝之王·埃尔托萨曾活跃于世。第三次世界大战后，[白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d)的首都白萨尼斯城以商业都会闻名。",
+          "hash": "4ca3e3a90d48ed88b8fbf7ccda3929320034a1b930721123dd95150249a6ae54",
           "metadata": {}
         },
         {
@@ -17296,6 +17478,13 @@
           "kind": "markdown",
           "markdown": "- [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)",
           "hash": "f9e94890fd1cc6919faa5fc5d4a2b3f7f1df60bfe92e8ac28c346af510c97310",
+          "metadata": {}
+        },
+        {
+          "id": "9e8e187b-1fd2-4ba4-8de8-f9be91cec3e2",
+          "kind": "markdown",
+          "markdown": "- [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)",
+          "hash": "154f6061327838c0dfdc0ec7f4f8b0536ddb25433d5cc20a0f846a1e4b9cb8bd",
           "metadata": {}
         },
         {
@@ -17504,8 +17693,8 @@
         "page_id": "page_0f2f0ea9f3d08191bef2e33db954366b",
         "title": "00 导览与索引"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T12:01:21.386776Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:35:40.508276Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
@@ -17546,8 +17735,8 @@
         {
           "id": "79f8b09a-697e-4299-9677-625c485a3b5d",
           "kind": "markdown",
-          "markdown": "| 条目 | 完成度 | 正典性 |\n| --- | --- | --- |\n| [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) | 较完整 | 存疑 |\n| [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) | 较完整 | 存疑 |\n| [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 较完整 | 存疑 |\n| [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) | 骨架 | 存疑 |",
-          "hash": "ce0a945df820c0b0242851d018d8001441418247ca38b4ce24ef0e310a9a79c8",
+          "markdown": "| 条目 | 完成度 | 正典性 |\n| --- | --- | --- |\n| [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) | 较完整 | 存疑 |\n| [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) | 较完整 | 存疑 |\n| [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 较完整 | 存疑 |\n| [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | 草稿 | 存疑 |\n| [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) | 骨架 | 存疑 |",
+          "hash": "184d8c3cf11d74e9a0732b468e0606948349b9a38f1d3e296e112b5755744655",
           "metadata": {}
         },
         {
@@ -17637,8 +17826,8 @@
         {
           "id": "e0d57713-31c2-4635-a04f-dadedf47d4f0",
           "kind": "markdown",
-          "markdown": "| 条目 | 类型 | 完成度 |\n| --- | --- | --- |\n| [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) | 地点 | 较完整 |\n| [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) | 历史事件 | 较完整 |\n| [世界警署](https://chatgpt.com/space/page_66300a48aa8c819187e40695316f20cf) | 组织 | 较完整 |\n| [主角](https://chatgpt.com/space/page_7a0865957afc81918222bac44d37109e) | 角色 | 草稿 |\n| [以西结](https://chatgpt.com/space/page_596191dd10748191adaf40e201eb00d4) | 角色 | 较完整 |\n| [何守](https://chatgpt.com/space/page_b559ebb270cc8191bb2e0e00f5b3956a) | 角色 | 草稿 |\n| [余散](https://chatgpt.com/space/page_5e37d7d4cd2c8191a314323bd7aa2a7d) | 角色 | 草稿 |\n| [充满噪点的图片](https://chatgpt.com/space/page_b897638540948191b0bfd1b3a4264040) | 写作素材 | 草稿 |\n| [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) | 历史事件 | 较完整 |\n| [卫樽](https://chatgpt.com/space/page_6e785e2662208191b0b0e7b09a981f72) | 角色 | 草稿 |\n| [叛教者](https://chatgpt.com/space/page_26e1a5274b888191a72f3e9fe03b6fed) | 角色 | 骨架 |\n| [异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73) | 组织 | 较完整 |\n| [拜尔丹·卡兹米娅](https://chatgpt.com/space/page_88a9877b01d4819199705067e9a7ae61) | 角色 | 较完整 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | 概念 | 较完整 |\n| [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 地点 | 较完整 |\n| [柏格宁城建负责人](https://chatgpt.com/space/page_da1976547da48191874181adcfb27bc3) | 角色 | 草稿 |\n| [柏格宁房东](https://chatgpt.com/space/page_e2a175b29f8c8191a518dcd8d650ff78) | 角色 | 较完整 |\n| [毒魔教团](https://chatgpt.com/space/page_982296806ee8819181b25b1b078e8a1b) | 组织 | 较完整 |\n| [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | 概念 | 较完整 |\n| [法术学导论](https://chatgpt.com/space/page_404f609224e081919f7d15a6bf85f34c) | 概念 | 草稿 |\n| [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 历史事件 | 较完整 |\n| [源灵学苑](https://chatgpt.com/space/page_80566257b7f8819188ad01ac20948938) | 组织 | 较完整 |\n| [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) | 历史事件 | 骨架 |\n| [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) | 角色 | 较完整 |\n| [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | 地点 | 较完整 |\n| [盖维小队](https://chatgpt.com/space/page_5d7040be9dc081918605eb89758bb294) | 组织 | 较完整 |\n| [种族与物种总述](https://chatgpt.com/space/page_d384a6ecca9c81918acda033a5354188) | 概念 | 较完整 |\n| [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) | 角色 | 较完整 |\n| [罗瓦伊](https://chatgpt.com/space/page_b3e24d3aac388191a3a8f411fee67e96) | 地点 | 草稿 |\n| [美工刀](https://chatgpt.com/space/page_074ce15941508191bf861af23fc8bc71) | 写作素材 | 草稿 |\n| [艾米丽](https://chatgpt.com/space/page_0086c9b554248191a61d7b62eecddd73) | 角色 | 草稿 |\n| [菈比](https://chatgpt.com/space/page_6410f7a5c0248191b19a52e8254c5c09) | 角色 | 草稿 |\n| [行脚商](https://chatgpt.com/space/page_deab315236a08191b554e4bb9fb4d700) | 概念 | 较完整 |\n| [西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c) | 角色 | 较完整 |\n| [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | 角色 | 较完整 |\n| [调查记录](https://chatgpt.com/space/page_1a7601c46770819199c1c75b76e893f9) | 写作素材 | 完整 |\n| [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04) | 组织 | 草稿 |\n| [赫拉尔伯敏](https://chatgpt.com/space/page_403e7b6c0aa88191adc7109b8a92130e) | 角色 | 骨架 |\n| [险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085) | 概念 | 较完整 |\n| [隐约的记忆](https://chatgpt.com/space/page_1d56982c2e208191ac851dc29aa88bb4) | 写作素材 | 完整 |\n| [魏淳](https://chatgpt.com/space/page_e2e4eb936a1081919b17e3f225f0a954) | 角色 | 较完整 |\n| [魔与法](https://chatgpt.com/space/page_c2facc9dae38819184880eba87d308ec) | 概念 | 较完整 |",
-          "hash": "979d0e3c0984fabf1a2c27d28b4241bc78991ed287d8ec5eb9769cddc015976e",
+          "markdown": "| 条目 | 类型 | 完成度 |\n| --- | --- | --- |\n| [ZZ0381草原禁域](https://chatgpt.com/space/page_e1a66901e3a0819189abc38cf6b1829b) | 地点 | 较完整 |\n| [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) | 历史事件 | 较完整 |\n| [世界警署](https://chatgpt.com/space/page_66300a48aa8c819187e40695316f20cf) | 组织 | 较完整 |\n| [主角](https://chatgpt.com/space/page_7a0865957afc81918222bac44d37109e) | 角色 | 草稿 |\n| [以西结](https://chatgpt.com/space/page_596191dd10748191adaf40e201eb00d4) | 角色 | 较完整 |\n| [何守](https://chatgpt.com/space/page_b559ebb270cc8191bb2e0e00f5b3956a) | 角色 | 草稿 |\n| [余散](https://chatgpt.com/space/page_5e37d7d4cd2c8191a314323bd7aa2a7d) | 角色 | 草稿 |\n| [充满噪点的图片](https://chatgpt.com/space/page_b897638540948191b0bfd1b3a4264040) | 写作素材 | 草稿 |\n| [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) | 历史事件 | 较完整 |\n| [卫樽](https://chatgpt.com/space/page_6e785e2662208191b0b0e7b09a981f72) | 角色 | 草稿 |\n| [叛教者](https://chatgpt.com/space/page_26e1a5274b888191a72f3e9fe03b6fed) | 角色 | 骨架 |\n| [异常协会](https://chatgpt.com/space/page_b4d75112b8e48191a1dc48e7e2460a73) | 组织 | 较完整 |\n| [拜尔丹·卡兹米娅](https://chatgpt.com/space/page_88a9877b01d4819199705067e9a7ae61) | 角色 | 较完整 |\n| [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7) | 概念 | 较完整 |\n| [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518) | 地点 | 较完整 |\n| [柏格宁城建负责人](https://chatgpt.com/space/page_da1976547da48191874181adcfb27bc3) | 角色 | 草稿 |\n| [柏格宁房东](https://chatgpt.com/space/page_e2a175b29f8c8191a518dcd8d650ff78) | 角色 | 较完整 |\n| [毒魔教团](https://chatgpt.com/space/page_982296806ee8819181b25b1b078e8a1b) | 组织 | 较完整 |\n| [法术体系](https://chatgpt.com/space/page_f5f85d53730481918ab23fda1151c7b1) | 概念 | 较完整 |\n| [法术学导论](https://chatgpt.com/space/page_404f609224e081919f7d15a6bf85f34c) | 概念 | 草稿 |\n| [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 历史事件 | 较完整 |\n| [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | 历史事件 | 草稿 |\n| [源灵学苑](https://chatgpt.com/space/page_80566257b7f8819188ad01ac20948938) | 组织 | 较完整 |\n| [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) | 历史事件 | 骨架 |\n| [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff) | 角色 | 较完整 |\n| [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d) | 地点 | 较完整 |\n| [盖维小队](https://chatgpt.com/space/page_5d7040be9dc081918605eb89758bb294) | 组织 | 较完整 |\n| [种族与物种总述](https://chatgpt.com/space/page_d384a6ecca9c81918acda033a5354188) | 概念 | 较完整 |\n| [缇尔莉斯](https://chatgpt.com/space/page_e747542ac67c819196787457bee52d4c) | 角色 | 较完整 |\n| [罗瓦伊](https://chatgpt.com/space/page_b3e24d3aac388191a3a8f411fee67e96) | 地点 | 草稿 |\n| [美工刀](https://chatgpt.com/space/page_074ce15941508191bf861af23fc8bc71) | 写作素材 | 草稿 |\n| [艾米丽](https://chatgpt.com/space/page_0086c9b554248191a61d7b62eecddd73) | 角色 | 草稿 |\n| [菈比](https://chatgpt.com/space/page_6410f7a5c0248191b19a52e8254c5c09) | 角色 | 草稿 |\n| [行脚商](https://chatgpt.com/space/page_deab315236a08191b554e4bb9fb4d700) | 概念 | 较完整 |\n| [西格露恩](https://chatgpt.com/space/page_9c7915a6d26c8191914dab8fa5e8e60c) | 角色 | 较完整 |\n| [观](https://chatgpt.com/space/page_526754822070819185c1c7fcc82b7496) | 角色 | 较完整 |\n| [调查记录](https://chatgpt.com/space/page_1a7601c46770819199c1c75b76e893f9) | 写作素材 | 完整 |\n| [赫拉小队](https://chatgpt.com/space/page_413ed7e5e4c08191a28e36c692cc4f04) | 组织 | 草稿 |\n| [赫拉尔伯敏](https://chatgpt.com/space/page_403e7b6c0aa88191adc7109b8a92130e) | 角色 | 骨架 |\n| [险域与禁域](https://chatgpt.com/space/page_3371482dc560819185adfe21a28c3085) | 概念 | 较完整 |\n| [隐约的记忆](https://chatgpt.com/space/page_1d56982c2e208191ac851dc29aa88bb4) | 写作素材 | 完整 |\n| [魏淳](https://chatgpt.com/space/page_e2e4eb936a1081919b17e3f225f0a954) | 角色 | 较完整 |\n| [魔与法](https://chatgpt.com/space/page_c2facc9dae38819184880eba87d308ec) | 概念 | 较完整 |",
+          "hash": "46e048f5f981c5b4cfa06d92686cb1b9a72bb23161c9279d1b0dd1516f54c804",
           "metadata": {}
         },
         {
@@ -17721,8 +17910,8 @@
         "page_id": "page_0f2f0ea9f3d08191bef2e33db954366b",
         "title": "00 导览与索引"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T12:01:11.376307Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:35:50.253280Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
@@ -17763,8 +17952,8 @@
         {
           "id": "e7aedced-9ddb-4695-bb7e-55c8c2c8c430",
           "kind": "markdown",
-          "markdown": "| 条目 | 类型 | 完成度 | 正典性 |\n| --- | --- | --- | --- |\n| [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) | 历史事件 | 骨架 | 存疑 |",
-          "hash": "77dd7843f1123f3eccba8d3def13b2c664e5e5c55abab8fea0163b6b112b86b3",
+          "markdown": "| 条目 | 类型 | 完成度 | 正典性 |\n| --- | --- | --- | --- |\n| [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) | 历史事件 | 骨架 | 存疑 |\n| [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | 历史事件 | 草稿 | 存疑 |",
+          "hash": "d0840a7916c69ff7a5769106ef92cc18a7d1d57a8df98b1c90b710b0698dc80d",
           "metadata": {}
         },
         {
@@ -17889,8 +18078,8 @@
         "page_id": "page_0f2f0ea9f3d08191bef2e33db954366b",
         "title": "00 导览与索引"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T12:01:02.387877Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:35:27.768766Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
@@ -17917,8 +18106,8 @@
         {
           "id": "80bc7571-894d-4dc5-ade2-81157547402b",
           "kind": "markdown",
-          "markdown": "| 条目 | 完成度 | 正典性 |\n| --- | --- | --- |\n| [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) | 较完整 | 存疑 |\n| [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) | 较完整 | 存疑 |\n| [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 较完整 | 存疑 |\n| [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) | 骨架 | 存疑 |",
-          "hash": "ce0a945df820c0b0242851d018d8001441418247ca38b4ce24ef0e310a9a79c8",
+          "markdown": "| 条目 | 完成度 | 正典性 |\n| --- | --- | --- |\n| [不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a) | 较完整 | 存疑 |\n| [卡兹米娅家变](https://chatgpt.com/space/page_0a89082288b88191bc1fb7fdd77d5134) | 较完整 | 存疑 |\n| [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998) | 较完整 | 存疑 |\n| [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | 草稿 | 存疑 |\n| [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe) | 骨架 | 存疑 |",
+          "hash": "184d8c3cf11d74e9a0732b468e0606948349b9a38f1d3e296e112b5755744655",
           "metadata": {}
         },
         {
@@ -17944,6 +18133,20 @@
         },
         {
           "id": "97e157cb-51ab-4cf5-abdf-70348abc566a",
+          "kind": "markdown",
+          "markdown": "## 草稿",
+          "hash": "90c12c03eeb0d7cd04d55de347934a7571791c1d0c67fdb6f2c046b184e43350",
+          "metadata": {}
+        },
+        {
+          "id": "239f85a8-9bd6-413d-9602-0bbee1f449ea",
+          "kind": "markdown",
+          "markdown": "| 条目 | 正典性 |\n| --- | --- |\n| [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674) | 存疑 |",
+          "hash": "633b31911d17d33a03d743ef5d934b59eae888ed6f77383d6a7012223c4e107e",
+          "metadata": {}
+        },
+        {
+          "id": "6883a111-a2d4-4a3b-bc09-8bb31ba13ee0",
           "kind": "markdown",
           "markdown": "## 骨架",
           "hash": "c5aac2ddc66cab1b2a1081662ed2699f939ddb58c6ebcd9515f46e6592380bc6",
@@ -18155,8 +18358,8 @@
         "page_id": "page_0f2f0ea9f3d08191bef2e33db954366b",
         "title": "00 导览与索引"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T11:52:36.779826Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:35:07.487667Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
@@ -18472,6 +18675,13 @@
           "kind": "markdown",
           "markdown": "- [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)",
           "hash": "f9e94890fd1cc6919faa5fc5d4a2b3f7f1df60bfe92e8ac28c346af510c97310",
+          "metadata": {}
+        },
+        {
+          "id": "57605f0b-b8b5-4442-977d-f1ed3e3dd83c",
+          "kind": "markdown",
+          "markdown": "- [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)",
+          "hash": "154f6061327838c0dfdc0ec7f4f8b0536ddb25433d5cc20a0f846a1e4b9cb8bd",
           "metadata": {}
         },
         {
@@ -18881,6 +19091,13 @@
           "metadata": {}
         },
         {
+          "id": "72fc14ac-f84b-4d66-a22a-1769780e595e",
+          "kind": "markdown",
+          "markdown": "- [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)",
+          "hash": "154f6061327838c0dfdc0ec7f4f8b0536ddb25433d5cc20a0f846a1e4b9cb8bd",
+          "metadata": {}
+        },
+        {
           "id": "439fac71-c4ab-41dc-a818-875d316380af",
           "kind": "markdown",
           "markdown": "- [源灵学院变故](https://chatgpt.com/space/page_33b9cdd1869081919025a84aa99416fe)",
@@ -19016,8 +19233,8 @@
         "page_id": "page_0f2f0ea9f3d08191bef2e33db954366b",
         "title": "00 导览与索引"
       },
-      "current_sequence": 1,
-      "updated_at": "2026-11-16T11:52:30.887322Z",
+      "current_sequence": 2,
+      "updated_at": "2026-11-23T07:34:41.458365Z",
       "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
       "blocks": [
         {
@@ -19037,8 +19254,8 @@
         {
           "id": "918b1a38-5bd6-4558-9c4d-22851443a2e1",
           "kind": "markdown",
-          "markdown": "“陆拾肆”是一项以法术与现代都市为题材的原创世界观企划。故事发生在法术革命后的架空世界，法术与科技并存，神魔真实存在，登月真实性仍有争议。本 wiki 收录世界设定、人物、组织、历史事件及故事素材。",
-          "hash": "c5f8aff2cdfbf6454fcab0aea802685428fa0cfa10227e42e1e949e0a1b90111",
+          "markdown": "“陆拾肆”是一项以法术与现代都市为题材的原创世界观企划。神魔真实存在，宣称成功的登月至今仍有争议。法术在部分地区已经进入课堂，在另一些地方却仍像传说。柏格宁的故事发生在世界大战后的港口城市。",
+          "hash": "7f04be61e15235a76853d6f70e7f6ddc1200b42c9f7b3281711d272645541407",
           "metadata": {}
         },
         {
@@ -19086,8 +19303,8 @@
         {
           "id": "33ef554d-f399-4eaa-bed8-0a7ea55efa5f",
           "kind": "markdown",
-          "markdown": "3. [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)是第三次世界大战，战后法术进入大众视野；[不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a)记录了此前登月计划引发的争议。",
-          "hash": "a2a92ad10d38df736cee8f5ae632eed1382cc87cc50be651d548bd8269547fe6",
+          "markdown": "3. [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)记述法术研究与教学的近代变化，[不可触之月](https://chatgpt.com/space/page_b44eb70446dc8191bc4b507543caba6a)记述登月引发的公开争论。[第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)收录各地停战和战后重建的历史。",
+          "hash": "38a7c7fee9c906a4f6dd49acc7a655c87f7e52a5f8de99c84ce92f548454be3b",
           "metadata": {}
         },
         {
@@ -19200,6 +19417,13 @@
           "kind": "markdown",
           "markdown": "- [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)",
           "hash": "f9e94890fd1cc6919faa5fc5d4a2b3f7f1df60bfe92e8ac28c346af510c97310",
+          "metadata": {}
+        },
+        {
+          "id": "6f520346-d18c-466c-a67b-5de2f826c003",
+          "kind": "markdown",
+          "markdown": "- [第三次世界大战](https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674)",
+          "hash": "154f6061327838c0dfdc0ec7f4f8b0536ddb25433d5cc20a0f846a1e4b9cb8bd",
           "metadata": {}
         },
         {
@@ -27292,6 +27516,195 @@
           "kind": "markdown",
           "markdown": "- [调查记录](https://chatgpt.com/space/page_1a7601c46770819199c1c75b76e893f9)",
           "hash": "5e57121432bb53515e238235c058e44c4ca73a809c584000de04470465aaec1e",
+          "metadata": {}
+        }
+      ]
+    },
+    {
+      "page_id": "page_170b17f1fd9881918dcc3def3c906674",
+      "title": "第三次世界大战",
+      "url": "https://chatgpt.com/space/page_170b17f1fd9881918dcc3def3c906674",
+      "parent": {
+        "page_id": "page_0e22a04a5f448191b9639c923be07845",
+        "title": "05 历史事件"
+      },
+      "current_sequence": 3,
+      "updated_at": "2026-11-23T07:36:47.922515Z",
+      "space_id": "page_space_44dd3f5614588191aa012d63051e8ed6",
+      "blocks": [
+        {
+          "id": "bc156cc7-ef66-429a-88ad-eca8eaa618b3",
+          "kind": "markdown",
+          "markdown": "第三次世界大战，简称三战，是一场以国家间地缘政治利益冲突为主因的世界大战。各地陆续停战，古德尔地区在世界范围的战事走向结束前三年就已开始重建。",
+          "hash": "bf9af39d4d00ff97a7033754a1357c9580993cf469947901fa35d69232c2dfb9",
+          "metadata": {}
+        },
+        {
+          "id": "9ba2e930-494c-4a46-92e6-7a884601db57",
+          "kind": "markdown",
+          "markdown": "## 战时生活",
+          "hash": "b06b45b973d5b11de4e76f59256f7426dab6cd7b9f279f417d84a8a298955fac",
+          "metadata": {}
+        },
+        {
+          "id": "da919f86-f45a-4caf-ac02-6b26498c4749",
+          "kind": "markdown",
+          "markdown": "[澜星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff)失忆前与男友在白撒尼斯躲避战火。两人把前往法术兴起的大陆，当作战后最想实现的旅行愿望。",
+          "hash": "41e954c8f2b9a1c8316049eb40afc62e32e5cfec94bc8894f9afaa05865b1121",
+          "metadata": {}
+        },
+        {
+          "id": "558f8704-7d08-4687-ba95-484b9bbc56fc",
+          "kind": "markdown",
+          "markdown": "## 各地停战与重建",
+          "hash": "54114bd764efbcd7bd68a587fd03207de1fc33f3c0f5ded5e09d9b76a6b1ac09",
+          "metadata": {}
+        },
+        {
+          "id": "48a820cc-c77c-46a0-bd45-9e885b5c70a1",
+          "kind": "markdown",
+          "markdown": "1897 年，古德尔地区的战事结束。当地政府随即拨款建设[柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518)港。1900 年，世界范围内的战争走向结束，柏格宁港也于这一年建成并投入使用。建港吸引了外来投资，铁路、仓储与航运业随之发展。政府曾以桥上房产向当地居民支付战后补偿。",
+          "hash": "6ced808ac3e914680f518513c5db64f5b313a3c9b32a4925b30badae6642068a",
+          "metadata": {}
+        },
+        {
+          "id": "22be8119-d75e-4e74-8a9a-328b1ef57ce0",
+          "kind": "markdown",
+          "markdown": "战后，[白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d)的首都白萨尼斯城以商业都会闻名，得名“商业界的耶路撒冷”。",
+          "hash": "b66da5ea430678b8a3191155d02856d122b4e41e46d279d2291eabf81aad9541",
+          "metadata": {}
+        },
+        {
+          "id": "a8cefa51-59c9-4b5a-ad09-f7cdbd1d6408",
+          "kind": "markdown",
+          "markdown": "# 资料属性",
+          "hash": "aeeab63a1cf003df72c8e8725b0ba5643227210306e218ed971450da062f4e11",
+          "metadata": {}
+        },
+        {
+          "id": "177a34c6-c874-4879-993d-eec2120847fe",
+          "kind": "markdown",
+          "markdown": "| 属性 | 内容 |\n| --- | --- |\n| 别名 | 三战 |\n| 类型 | 历史事件 |\n| 标签 | 世界史 |\n| 完成度 | 草稿 |\n| 正典性 | 存疑 |",
+          "hash": "67f6e8a4d895e99d641bd62a74c2007a289dced0afc625314921c375cd3f974f",
+          "metadata": {}
+        },
+        {
+          "id": "5ad824b8-7f7b-4572-8f17-e90486e0ee9e",
+          "kind": "markdown",
+          "markdown": "# 页面关联",
+          "hash": "eb2a4de2b70deabe3e462f14bcc0e636697748cd3ad174c1678f8a7177db1832",
+          "metadata": {}
+        },
+        {
+          "id": "c3e3b5f9-e36b-4170-a18b-d6b2ee154185",
+          "kind": "markdown",
+          "markdown": "## 本页引用",
+          "hash": "7bc2c3e2d0b35266092a22a4657f9d6f3e6781dc670c01d75a75aac8fe230043",
+          "metadata": {}
+        },
+        {
+          "id": "a7dbbc49-f228-4d84-8b2b-fbf93a800dcc",
+          "kind": "markdown",
+          "markdown": "- [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518)",
+          "hash": "115f10658d30b23f0dfc8deb7865d09e089220aeaac408538964d0f25d2c625c",
+          "metadata": {}
+        },
+        {
+          "id": "b121980a-6f58-4134-9790-6622b3064bde",
+          "kind": "markdown",
+          "markdown": "- [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d)",
+          "hash": "fff55b71f8d70a9a75cc92c6061b82e6aaccd1ffa1d38613954c1e41326e5186",
+          "metadata": {}
+        },
+        {
+          "id": "198499cb-79bd-4d25-9c5a-30567be3b5b2",
+          "kind": "markdown",
+          "markdown": "- [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff)",
+          "hash": "91f9ffe82f55b55421b941e2d20da8d5757a92010bb8c30794516b94405aa952",
+          "metadata": {}
+        },
+        {
+          "id": "63bcc743-1998-4da1-866f-02c8d5f93476",
+          "kind": "markdown",
+          "markdown": "## 引用本页",
+          "hash": "07091bfea419e5ba2d980784310595529e1ae6dbc3fb03512e4722ece293b8b2",
+          "metadata": {}
+        },
+        {
+          "id": "09540b08-916b-4a04-85e3-471db9f888a9",
+          "kind": "markdown",
+          "markdown": "- [主页 · 世界观脉络与导览](https://chatgpt.com/space/page_c77e3a0f700081919a6897564e6b12df)",
+          "hash": "9663e1c88fcb1649ef57dc229f1b45c94ee431d9d8c65cd68ae514c2ca1385bf",
+          "metadata": {}
+        },
+        {
+          "id": "a41fc19d-f642-4db6-82a6-c9f3ab1daaae",
+          "kind": "markdown",
+          "markdown": "- [总索引](https://chatgpt.com/space/page_1da51949f97081919f45d0419e751b27)",
+          "hash": "0241622060b9085c280e2a3f39394dcdb73df1bb19662911d58721445da66dd3",
+          "metadata": {}
+        },
+        {
+          "id": "facd6ee6-0936-4c67-9b95-e97b092ac1e4",
+          "kind": "markdown",
+          "markdown": "- [时代与纪年](https://chatgpt.com/space/page_42b1cc3b3e2c8191a282340037cc34c7)",
+          "hash": "05a8348ce3c97a7c7ace9c7f43853faf216fa63607002b2efa87c6cb798a059f",
+          "metadata": {}
+        },
+        {
+          "id": "7ec28d27-d0cb-46c0-8851-03d27c5e84a2",
+          "kind": "markdown",
+          "markdown": "- [柏格宁](https://chatgpt.com/space/page_9303fb4f90808191ab664d49c8ba5518)",
+          "hash": "115f10658d30b23f0dfc8deb7865d09e089220aeaac408538964d0f25d2c625c",
+          "metadata": {}
+        },
+        {
+          "id": "a0a5827b-b692-41ce-915e-676380a5b848",
+          "kind": "markdown",
+          "markdown": "- [白萨尼斯](https://chatgpt.com/space/page_6cd2dd0e0dbc8191b781eba847c4dc0d)",
+          "hash": "fff55b71f8d70a9a75cc92c6061b82e6aaccd1ffa1d38613954c1e41326e5186",
+          "metadata": {}
+        },
+        {
+          "id": "9c90fed1-382d-49cd-9aeb-89df45b0d121",
+          "kind": "markdown",
+          "markdown": "- [瀚海阑干百丈星](https://chatgpt.com/space/page_b104f9edd23c8191ae3e8788112d81ff)",
+          "hash": "91f9ffe82f55b55421b941e2d20da8d5757a92010bb8c30794516b94405aa952",
+          "metadata": {}
+        },
+        {
+          "id": "de6ccd82-4c37-4e6d-a286-83b21d1e19fc",
+          "kind": "markdown",
+          "markdown": "- [柏格宁房东](https://chatgpt.com/space/page_e2a175b29f8c8191a518dcd8d650ff78)",
+          "hash": "80c8ef88dd62b14d60bdd1734b9cbb345efa7073a4114e3258a8cbd6ecc23aac",
+          "metadata": {}
+        },
+        {
+          "id": "94ddf4bc-c1a5-4f63-b547-55584fffd7c1",
+          "kind": "markdown",
+          "markdown": "- [05 历史事件](https://chatgpt.com/space/page_0e22a04a5f448191b9639c923be07845)",
+          "hash": "17909ebbae3d9533d295cc6e9dc52527c8b2df37d7ea278f1683a31b17cec182",
+          "metadata": {}
+        },
+        {
+          "id": "27a25a30-3573-4fac-b175-5b0faa06cf8f",
+          "kind": "markdown",
+          "markdown": "- [术语规范与别名对照](https://chatgpt.com/space/page_e051792c256c8191939b37ff4d84e838)",
+          "hash": "e311d61bc087e9e283e9a17188e92f8fa3d5719194c60540b04b2857fad38b06",
+          "metadata": {}
+        },
+        {
+          "id": "b58f90e7-5957-48fb-8a98-02c66774c4f4",
+          "kind": "markdown",
+          "markdown": "- [世界观企划 Wiki](https://chatgpt.com/space/page_8e0badc08fec8191aeea02f2f78156d4)",
+          "hash": "7dafacd30e4a12ed62d772c02719b95a93c223c849c776a1ad956a356f082176",
+          "metadata": {}
+        },
+        {
+          "id": "2803ad6c-d7bd-4eb8-acb9-73256fb1ce75",
+          "kind": "markdown",
+          "markdown": "- [法术革命](https://chatgpt.com/space/page_6dea6506f90881919d07557aedf10998)",
+          "hash": "f9e94890fd1cc6919faa5fc5d4a2b3f7f1df60bfe92e8ac28c346af510c97310",
           "metadata": {}
         }
       ]
