@@ -34,6 +34,7 @@
 - [02 地理地区](docs/02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/index.md)
 - [柏格宁](docs/02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E6%9F%8F%E6%A0%BC%E5%AE%81.md)
 - [白萨尼斯](docs/02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E7%99%BD%E8%90%A8%E5%B0%BC%E6%96%AF.md)
+- [毕格兰特洲](docs/02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E6%AF%95%E6%A0%BC%E5%85%B0%E7%89%B9%E6%B4%B2.md)
 - [罗瓦伊](docs/02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E7%BD%97%E7%93%A6%E4%BC%8A.md)
 - [03 组织势力](docs/03-%E7%BB%84%E7%BB%87%E5%8A%BF%E5%8A%9B/index.md)
 - [世界警署](docs/03-%E7%BB%84%E7%BB%87%E5%8A%BF%E5%8A%9B/%E4%B8%96%E7%95%8C%E8%AD%A6%E7%BD%B2.md)

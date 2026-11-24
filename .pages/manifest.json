@@ -1,6 +1,6 @@
 {
   "format_version": 1,
-  "snapshot_date": "2026-11-23",
+  "snapshot_date": "2026-11-24",
   "source": "My Project Pages",
   "repository": "lushi-worldbuilding",
   "root_page_id": "page_506ceb47a36081919831b478640e9b94",
@@ -16,7 +16,7 @@
         "title": "My Project"
       },
       "updated_at": "2026-11-23T07:34:49.227326Z",
-      "current_sequence": 7
+      "current_sequence": 8
     },
     {
       "page_id": "page_dbd6d688f7a881918cad0258059f781b",
@@ -41,8 +41,8 @@
         "page_id": "page_506ceb47a36081919831b478640e9b94",
         "title": "世界观wiki"
       },
-      "updated_at": "2026-11-23T07:35:58.354861Z",
-      "current_sequence": 2
+      "updated_at": "2026-11-24T03:07:53.219226Z",
+      "current_sequence": 3
     },
     {
       "page_id": "page_1e1071d10b9c8191a177e707d6a05b71",
@@ -54,8 +54,8 @@
         "page_id": "page_506ceb47a36081919831b478640e9b94",
         "title": "世界观wiki"
       },
-      "updated_at": "2026-11-23T07:37:10.666135Z",
-      "current_sequence": 3
+      "updated_at": "2026-11-23T07:37:59.813981Z",
+      "current_sequence": 4
     },
     {
       "page_id": "page_b8a71927c26481918f36afed2daffa72",
@@ -80,8 +80,8 @@
         "page_id": "page_506ceb47a36081919831b478640e9b94",
         "title": "世界观wiki"
       },
-      "updated_at": "2026-11-23T07:35:17.218828Z",
-      "current_sequence": 2
+      "updated_at": "2026-11-24T03:07:47.931310Z",
+      "current_sequence": 3
     },
     {
       "page_id": "page_1bbad76b02b48191b0e616b51b34f3bb",
@@ -184,8 +184,8 @@
         "page_id": "page_506ceb47a36081919831b478640e9b94",
         "title": "陆拾肆企划 Wiki"
       },
-      "updated_at": "2026-11-16T11:53:25.009444Z",
-      "current_sequence": 1
+      "updated_at": "2026-11-24T03:07:09.695615Z",
+      "current_sequence": 2
     },
     {
       "page_id": "page_f9d7f3e9d4f481918745947ee6665a79",
@@ -249,8 +249,8 @@
         "page_id": "page_b8a71927c26481918f36afed2daffa72",
         "title": "编务与来源导读"
       },
-      "updated_at": "2026-11-23T07:36:09.551649Z",
-      "current_sequence": 2
+      "updated_at": "2026-11-24T03:08:00.190959Z",
+      "current_sequence": 3
     },
     {
       "page_id": "page_ab0e26bc6d908191a4ac386488c97990",
@@ -769,7 +769,20 @@
         "page_id": "page_8d08ca157c7c81918f931ee7222d6832",
         "title": "03 组织势力"
       },
-      "updated_at": "2026-11-16T11:54:02.185748Z",
+      "updated_at": "2026-11-24T03:07:28.114156Z",
+      "current_sequence": 2
+    },
+    {
+      "page_id": "page_9cc4e40b1908819181872e9df969df71",
+      "title": "毕格兰特洲",
+      "path": "docs/02-地理地区/毕格兰特洲.md",
+      "source_url": "https://chatgpt.com/space/page_9cc4e40b1908819181872e9df969df71",
+      "source_path": "02-地理地区/毕格兰特洲.md",
+      "parent": {
+        "page_id": "page_632c7f33de888191804aa40a92c7e7bd",
+        "title": "02 地理地区"
+      },
+      "updated_at": "2026-11-24T03:05:28.229852Z",
       "current_sequence": 1
     },
     {
@@ -912,8 +925,8 @@
         "page_id": "page_0f2f0ea9f3d08191bef2e33db954366b",
         "title": "00 导览与索引"
       },
-      "updated_at": "2026-11-23T07:35:40.508276Z",
-      "current_sequence": 2
+      "updated_at": "2026-11-24T03:07:35.581107Z",
+      "current_sequence": 3
     },
     {
       "page_id": "page_17f5512edcdc8191a5c25f3ee4b53379",
@@ -925,8 +938,8 @@
         "page_id": "page_0f2f0ea9f3d08191bef2e33db954366b",
         "title": "00 导览与索引"
       },
-      "updated_at": "2026-11-23T07:35:50.253280Z",
-      "current_sequence": 2
+      "updated_at": "2026-11-24T03:07:42.232719Z",
+      "current_sequence": 3
     },
     {
       "page_id": "page_c19456a4688c8191a0492aa75e28f736",
@@ -964,8 +977,8 @@
         "page_id": "page_0f2f0ea9f3d08191bef2e33db954366b",
         "title": "00 导览与索引"
       },
-      "updated_at": "2026-11-23T07:35:07.487667Z",
-      "current_sequence": 2
+      "updated_at": "2026-11-24T03:07:16.757837Z",
+      "current_sequence": 3
     },
     {
       "page_id": "page_c77e3a0f700081919a6897564e6b12df",
@@ -1938,6 +1951,12 @@
       "source": "page_d2af0c84762c8191b8f29b738133385e",
       "target": "page_b3e24d3aac388191a3a8f411fee67e96",
       "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E7%BD%97%E7%93%A6%E4%BC%8A.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_d2af0c84762c8191b8f29b738133385e",
+      "target": "page_9cc4e40b1908819181872e9df969df71",
+      "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E6%AF%95%E6%A0%BC%E5%85%B0%E7%89%B9%E6%B4%B2.md",
       "kind": "page"
     },
     {
@@ -3310,6 +3329,18 @@
     },
     {
       "source": "page_1e1071d10b9c8191a177e707d6a05b71",
+      "target": "page_1da51949f97081919f45d0419e751b27",
+      "url": "../00-%E5%AF%BC%E8%A7%88%E4%B8%8E%E7%B4%A2%E5%BC%95/%E6%80%BB%E7%B4%A2%E5%BC%95.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_1e1071d10b9c8191a177e707d6a05b71",
+      "target": "page_9cc4e40b1908819181872e9df969df71",
+      "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E6%AF%95%E6%A0%BC%E5%85%B0%E7%89%B9%E6%B4%B2.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_1e1071d10b9c8191a177e707d6a05b71",
       "target": "page_f9d7f3e9d4f481918745947ee6665a79",
       "url": "../01-%E5%9F%BA%E7%A1%80%E8%AE%BE%E5%AE%9A/index.md",
       "kind": "page"
@@ -3754,6 +3785,18 @@
     },
     {
       "source": "page_1e1071d10b9c8191a177e707d6a05b71",
+      "target": "page_632c7f33de888191804aa40a92c7e7bd",
+      "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/index.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_1e1071d10b9c8191a177e707d6a05b71",
+      "target": "page_9cc4e40b1908819181872e9df969df71",
+      "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E6%AF%95%E6%A0%BC%E5%85%B0%E7%89%B9%E6%B4%B2.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_1e1071d10b9c8191a177e707d6a05b71",
       "target": "page_8d08ca157c7c81918f931ee7222d6832",
       "url": "../03-%E7%BB%84%E7%BB%87%E5%8A%BF%E5%8A%9B/index.md",
       "kind": "page"
@@ -4038,6 +4081,18 @@
       "source": "page_1e1071d10b9c8191a177e707d6a05b71",
       "target": "page_526754822070819185c1c7fcc82b7496",
       "url": "../04-%E4%BA%BA%E7%89%A9%E8%A7%92%E8%89%B2/%E8%A7%82.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_1e1071d10b9c8191a177e707d6a05b71",
+      "target": "page_66300a48aa8c819187e40695316f20cf",
+      "url": "../03-%E7%BB%84%E7%BB%87%E5%8A%BF%E5%8A%9B/%E4%B8%96%E7%95%8C%E8%AD%A6%E7%BD%B2.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_1e1071d10b9c8191a177e707d6a05b71",
+      "target": "page_9cc4e40b1908819181872e9df969df71",
+      "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E6%AF%95%E6%A0%BC%E5%85%B0%E7%89%B9%E6%B4%B2.md",
       "kind": "page"
     },
     {
@@ -5170,6 +5225,18 @@
     },
     {
       "source": "page_1e1071d10b9c8191a177e707d6a05b71",
+      "target": "page_e051792c256c8191939b37ff4d84e838",
+      "url": "../meta/%E6%9C%AF%E8%AF%AD%E8%A7%84%E8%8C%83%E4%B8%8E%E5%88%AB%E5%90%8D%E5%AF%B9%E7%85%A7.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_1e1071d10b9c8191a177e707d6a05b71",
+      "target": "page_9cc4e40b1908819181872e9df969df71",
+      "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E6%AF%95%E6%A0%BC%E5%85%B0%E7%89%B9%E6%B4%B2.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_1e1071d10b9c8191a177e707d6a05b71",
       "target": "page_506ceb47a36081919831b478640e9b94",
       "url": "../index.md",
       "kind": "page"
@@ -5770,6 +5837,12 @@
     },
     {
       "source": "page_f9b076cf645c81919f1172de0a9ae1ba",
+      "target": "page_9cc4e40b1908819181872e9df969df71",
+      "url": "02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E6%AF%95%E6%A0%BC%E5%85%B0%E7%89%B9%E6%B4%B2.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_f9b076cf645c81919f1172de0a9ae1ba",
       "target": "page_9191ab466c448191ad001fa9b67722d0",
       "url": "01-%E5%9F%BA%E7%A1%80%E8%AE%BE%E5%AE%9A/%E4%B8%96%E7%95%8C%E4%B8%8E%E7%95%8C%E5%9F%9F.md",
       "kind": "page"
@@ -6340,6 +6413,12 @@
     },
     {
       "source": "page_632c7f33de888191804aa40a92c7e7bd",
+      "target": "page_9cc4e40b1908819181872e9df969df71",
+      "url": "%E6%AF%95%E6%A0%BC%E5%85%B0%E7%89%B9%E6%B4%B2.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_632c7f33de888191804aa40a92c7e7bd",
       "target": "page_b3e24d3aac388191a3a8f411fee67e96",
       "url": "%E7%BD%97%E7%93%A6%E4%BC%8A.md",
       "kind": "page"
@@ -6664,6 +6743,12 @@
     },
     {
       "source": "page_e051792c256c8191939b37ff4d84e838",
+      "target": "page_9cc4e40b1908819181872e9df969df71",
+      "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E6%AF%95%E6%A0%BC%E5%85%B0%E7%89%B9%E6%B4%B2.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_e051792c256c8191939b37ff4d84e838",
       "target": "page_52e030c8c4308191aba3f0ee31ed233d",
       "url": "%E5%BE%85%E5%86%B3%E9%97%AE%E9%A2%98%E4%B8%8E%E5%86%B2%E7%AA%81%E6%B8%85%E5%8D%95.md",
       "kind": "page"
@@ -6690,6 +6775,12 @@
       "source": "page_e051792c256c8191939b37ff4d84e838",
       "target": "page_170b17f1fd9881918dcc3def3c906674",
       "url": "../05-%E5%8E%86%E5%8F%B2%E4%BA%8B%E4%BB%B6/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_e051792c256c8191939b37ff4d84e838",
+      "target": "page_9cc4e40b1908819181872e9df969df71",
+      "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E6%AF%95%E6%A0%BC%E5%85%B0%E7%89%B9%E6%B4%B2.md",
       "kind": "page"
     },
     {
@@ -8866,6 +8957,12 @@
     },
     {
       "source": "page_66300a48aa8c819187e40695316f20cf",
+      "target": "page_9cc4e40b1908819181872e9df969df71",
+      "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E6%AF%95%E6%A0%BC%E5%85%B0%E7%89%B9%E6%B4%B2.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_66300a48aa8c819187e40695316f20cf",
       "target": "page_9303fb4f90808191ab664d49c8ba5518",
       "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E6%9F%8F%E6%A0%BC%E5%AE%81.md",
       "kind": "page"
@@ -8874,6 +8971,12 @@
       "source": "page_66300a48aa8c819187e40695316f20cf",
       "target": "page_982296806ee8819181b25b1b078e8a1b",
       "url": "%E6%AF%92%E9%AD%94%E6%95%99%E5%9B%A2.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_66300a48aa8c819187e40695316f20cf",
+      "target": "page_9cc4e40b1908819181872e9df969df71",
+      "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E6%AF%95%E6%A0%BC%E5%85%B0%E7%89%B9%E6%B4%B2.md",
       "kind": "page"
     },
     {
@@ -8892,6 +8995,30 @@
       "source": "page_66300a48aa8c819187e40695316f20cf",
       "target": "page_982296806ee8819181b25b1b078e8a1b",
       "url": "%E6%AF%92%E9%AD%94%E6%95%99%E5%9B%A2.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_9cc4e40b1908819181872e9df969df71",
+      "target": "page_632c7f33de888191804aa40a92c7e7bd",
+      "url": "index.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_9cc4e40b1908819181872e9df969df71",
+      "target": "page_1da51949f97081919f45d0419e751b27",
+      "url": "../00-%E5%AF%BC%E8%A7%88%E4%B8%8E%E7%B4%A2%E5%BC%95/%E6%80%BB%E7%B4%A2%E5%BC%95.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_9cc4e40b1908819181872e9df969df71",
+      "target": "page_66300a48aa8c819187e40695316f20cf",
+      "url": "../03-%E7%BB%84%E7%BB%87%E5%8A%BF%E5%8A%9B/%E4%B8%96%E7%95%8C%E8%AD%A6%E7%BD%B2.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_9cc4e40b1908819181872e9df969df71",
+      "target": "page_e051792c256c8191939b37ff4d84e838",
+      "url": "../meta/%E6%9C%AF%E8%AF%AD%E8%A7%84%E8%8C%83%E4%B8%8E%E5%88%AB%E5%90%8D%E5%AF%B9%E7%85%A7.md",
       "kind": "page"
     },
     {
@@ -9850,6 +9977,12 @@
     },
     {
       "source": "page_8c9cb035bca48191891f05782291ba8a",
+      "target": "page_9cc4e40b1908819181872e9df969df71",
+      "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E6%AF%95%E6%A0%BC%E5%85%B0%E7%89%B9%E6%B4%B2.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_8c9cb035bca48191891f05782291ba8a",
       "target": "page_9191ab466c448191ad001fa9b67722d0",
       "url": "../01-%E5%9F%BA%E7%A1%80%E8%AE%BE%E5%AE%9A/%E4%B8%96%E7%95%8C%E4%B8%8E%E7%95%8C%E5%9F%9F.md",
       "kind": "page"
@@ -10366,6 +10499,12 @@
     },
     {
       "source": "page_8c9cb035bca48191891f05782291ba8a",
+      "target": "page_9cc4e40b1908819181872e9df969df71",
+      "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E6%AF%95%E6%A0%BC%E5%85%B0%E7%89%B9%E6%B4%B2.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_8c9cb035bca48191891f05782291ba8a",
       "target": "page_506ceb47a36081919831b478640e9b94",
       "url": "../index.md",
       "kind": "page"
@@ -10404,6 +10543,12 @@
       "source": "page_17f5512edcdc8191a5c25f3ee4b53379",
       "target": "page_b3e24d3aac388191a3a8f411fee67e96",
       "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E7%BD%97%E7%93%A6%E4%BC%8A.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_17f5512edcdc8191a5c25f3ee4b53379",
+      "target": "page_9cc4e40b1908819181872e9df969df71",
+      "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E6%AF%95%E6%A0%BC%E5%85%B0%E7%89%B9%E6%B4%B2.md",
       "kind": "page"
     },
     {
@@ -10878,6 +11023,12 @@
       "source": "page_1da51949f97081919f45d0419e751b27",
       "target": "page_e1a66901e3a0819189abc38cf6b1829b",
       "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/ZZ0381%E8%8D%89%E5%8E%9F%E7%A6%81%E5%9F%9F.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_1da51949f97081919f45d0419e751b27",
+      "target": "page_9cc4e40b1908819181872e9df969df71",
+      "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E6%AF%95%E6%A0%BC%E5%85%B0%E7%89%B9%E6%B4%B2.md",
       "kind": "page"
     },
     {
@@ -11184,6 +11335,12 @@
       "source": "page_1da51949f97081919f45d0419e751b27",
       "target": "page_6cd2dd0e0dbc8191b781eba847c4dc0d",
       "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E7%99%BD%E8%90%A8%E5%B0%BC%E6%96%AF.md",
+      "kind": "page"
+    },
+    {
+      "source": "page_1da51949f97081919f45d0419e751b27",
+      "target": "page_9cc4e40b1908819181872e9df969df71",
+      "url": "../02-%E5%9C%B0%E7%90%86%E5%9C%B0%E5%8C%BA/%E6%AF%95%E6%A0%BC%E5%85%B0%E7%89%B9%E6%B4%B2.md",
       "kind": "page"
     },
     {
